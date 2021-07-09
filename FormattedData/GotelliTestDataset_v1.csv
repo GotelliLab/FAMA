@@ -1,0 +1,1375 @@
+Sample,Species,GroundArboreal,Native/Alien,DateCollectedStart,DateCollectedEnd,Place,MuseumBerlese,Disturbance,HabitatCategory,LocLatitude,LocLongitude,CollectorShort,Year
+119,Hypoponera.opacior,G,native,17-Jun-65,17-Jun-65,Collier-Seminole SP,museum,U,H,25.99117,-81.5939,W. R. Suter,1965
+119,Hypoponera.punctatissima,G,alien,17-Jun-65,17-Jun-65,Collier-Seminole SP,museum,U,H,25.99117,-81.5939,W. R. Suter,1965
+119,Pheidole.bilimeki,G,alien,17-Jun-65,17-Jun-65,Collier-Seminole SP,museum,U,H,25.99117,-81.5939,W. R. Suter,1965
+119,Solenopsis.diplo,G,NA,17-Jun-65,17-Jun-65,Collier-Seminole SP,museum,U,H,25.99117,-81.5939,W. R. Suter,1965
+195,Crematogaster.minutissima,G,native,28-Aug-65,28-Aug-65,Collier-Seminole SP,museum,U,H,25.99117,-81.5939,W. R. Suter,1965
+195,Hypoponera.opaciceps,G,alien,28-Aug-65,28-Aug-65,Collier-Seminole SP,museum,U,H,25.99117,-81.5939,W. R. Suter,1965
+195,Hypoponera.opacior,G,native,28-Aug-65,28-Aug-65,Collier-Seminole SP,museum,U,H,25.99117,-81.5939,W. R. Suter,1965
+195,Nylanderia.arenivaga,G,native,28-Aug-65,28-Aug-65,Collier-Seminole SP,museum,U,H,25.99117,-81.5939,W. R. Suter,1965
+195,Pheidole.bilimeki,G,alien,28-Aug-65,28-Aug-65,Collier-Seminole SP,museum,U,H,25.99117,-81.5939,W. R. Suter,1965
+195,Pheidole.dentigula,G,native,28-Aug-65,28-Aug-65,Collier-Seminole SP,museum,U,H,25.99117,-81.5939,W. R. Suter,1965
+195,Solenopsis.diplo,G,NA,28-Aug-65,28-Aug-65,Collier-Seminole SP,museum,U,H,25.99117,-81.5939,W. R. Suter,1965
+416,Pseudomyrmex.seminole,A,native,1977,1977,Osceola NF,museum,,,30.201167,-82.4545,,1977
+476,Brachymyrmex.depilis,G,native,27-Jun-81,27-Jun-81,Collier-Seminole SP,museum,,H,25.99117,-81.5939,S. B. Peck,1981
+476,Eurhopalothrix.floridana,G,native,27-Jun-81,27-Jun-81,Collier-Seminole SP,museum,,H,25.99117,-81.5939,S. B. Peck,1981
+476,Hypoponera.opacior,G,native,27-Jun-81,27-Jun-81,Collier-Seminole SP,museum,,H,25.99117,-81.5939,S. B. Peck,1981
+476,Hypoponera.punctatissima,G,alien,27-Jun-81,27-Jun-81,Collier-Seminole SP,museum,,H,25.99117,-81.5939,S. B. Peck,1981
+476,Nylanderia.concinna,G,native,27-Jun-81,27-Jun-81,Collier-Seminole SP,museum,,H,25.99117,-81.5939,S. B. Peck,1981
+476,Nylanderia.wojciki,G,native,27-Jun-81,27-Jun-81,Collier-Seminole SP,museum,,H,25.99117,-81.5939,S. B. Peck,1981
+476,Odontomachus.brunneus,G,native,27-Jun-81,27-Jun-81,Collier-Seminole SP,museum,,H,25.99117,-81.5939,S. B. Peck,1981
+476,Pheidole.bilimeki,G,alien,27-Jun-81,27-Jun-81,Collier-Seminole SP,museum,,H,25.99117,-81.5939,S. B. Peck,1981
+476,Pheidole.dentata,G,native,27-Jun-81,27-Jun-81,Collier-Seminole SP,museum,,H,25.99117,-81.5939,S. B. Peck,1981
+476,Pheidole.dentigula,G,native,27-Jun-81,27-Jun-81,Collier-Seminole SP,museum,,H,25.99117,-81.5939,S. B. Peck,1981
+476,Pheidole.navigans,G,alien,27-Jun-81,27-Jun-81,Collier-Seminole SP,museum,,H,25.99117,-81.5939,S. B. Peck,1981
+476,Pseudoneoponera.stigma,G,alien,27-Jun-81,27-Jun-81,Collier-Seminole SP,museum,,H,25.99117,-81.5939,S. B. Peck,1981
+476,Solenopsis.diplo,G,NA,27-Jun-81,27-Jun-81,Collier-Seminole SP,museum,,H,25.99117,-81.5939,S. B. Peck,1981
+476,Strumigenys.louisianae,G,native,27-Jun-81,27-Jun-81,Collier-Seminole SP,museum,,H,25.99117,-81.5939,S. B. Peck,1981
+493,Pseudomyrmex.leptosus,A,native,1982,1982,Payne's Prairie Preserve SP,museum,,,29.520249,-82.293353,,1982
+548,Pheidole.dentigula,G,native,1983,1983,Osceola NF,museum,,,30.366667,-82.45,,1983
+825,Strumigenys.louisianae,G,native,14-Oct-84,14-Oct-84,Payne's Prairie Preserve SP,museum,,H,29.520249,-82.293353,Clifford Johnson,1984
+887,Solenopsis.diplo,G,NA,1985,1985,Collier-Seminole SP,museum,,,25.994697,-81.59252,,1985
+1034,Lasius.neoniger,G,native,2-Aug-85,2-Aug-85,Payne's Prairie Preserve SP,museum,,F,29.520249,-82.293353,Clifford Johnson,1985
+1043,Solenopsis.diplo,G,NA,25-Sep-85,25-Sep-85,Longino Ranch,berlese,S,H,27.194199,-82.089477,M. Deyrup,1985
+1044,Hypoponera.opaciceps,G,alien,25-Sep-85,25-Sep-85,Longino Ranch,berlese,S,H,27.194199,-82.089477,M. Deyrup,1985
+1044,Pheidole.navigans,G,alien,25-Sep-85,25-Sep-85,Longino Ranch,berlese,S,H,27.194199,-82.089477,M. Deyrup,1985
+1044,Solenopsis.diplo,G,NA,25-Sep-85,25-Sep-85,Longino Ranch,berlese,S,H,27.194199,-82.089477,M. Deyrup,1985
+1045,Pheidole.navigans,G,alien,25-Sep-85,25-Sep-85,Longino Ranch,berlese,U,H,27.194199,-82.089477,M. Deyrup,1985
+1045,Solenopsis.diplo,G,NA,25-Sep-85,25-Sep-85,Longino Ranch,berlese,U,H,27.194199,-82.089477,M. Deyrup,1985
+1046,Cyphomyrmex.minutus,G,alien,25-Sep-85,25-Sep-85,Longino Ranch,berlese,S,H,27.194199,-82.089477,M. Deyrup,1985
+1046,Hypoponera.opacior,G,native,25-Sep-85,25-Sep-85,Longino Ranch,berlese,S,H,27.194199,-82.089477,M. Deyrup,1985
+1046,Pheidole.navigans,G,alien,25-Sep-85,25-Sep-85,Longino Ranch,berlese,S,H,27.194199,-82.089477,M. Deyrup,1985
+1046,Strumigenys.ornata,G,native,25-Sep-85,25-Sep-85,Longino Ranch,berlese,S,H,27.194199,-82.089477,M. Deyrup,1985
+1047,Aphaenogaster.miamiana/carolinensis,G,native,25-Sep-85,25-Sep-85,Longino Ranch,berlese,S,H,27.194199,-82.089477,M. Deyrup,1985
+1047,Hypoponera.opacior,G,native,25-Sep-85,25-Sep-85,Longino Ranch,berlese,S,H,27.194199,-82.089477,M. Deyrup,1985
+1047,Pheidole.navigans,G,alien,25-Sep-85,25-Sep-85,Longino Ranch,berlese,S,H,27.194199,-82.089477,M. Deyrup,1985
+1047,Solenopsis.diplo,G,NA,25-Sep-85,25-Sep-85,Longino Ranch,berlese,S,H,27.194199,-82.089477,M. Deyrup,1985
+1047,Strumigenys.ornata,G,native,25-Sep-85,25-Sep-85,Longino Ranch,berlese,S,H,27.194199,-82.089477,M. Deyrup,1985
+1048,Cyphomyrmex.minutus,G,alien,25-Sep-85,25-Sep-85,Longino Ranch,berlese,S,H,27.194199,-82.089477,M. Deyrup,1985
+1048,Pheidole.navigans,G,alien,25-Sep-85,25-Sep-85,Longino Ranch,berlese,S,H,27.194199,-82.089477,M. Deyrup,1985
+1048,Solenopsis.diplo,G,NA,25-Sep-85,25-Sep-85,Longino Ranch,berlese,S,H,27.194199,-82.089477,M. Deyrup,1985
+1049,Pheidole.navigans,G,alien,25-Sep-85,25-Sep-85,Longino Ranch,berlese,S,H,27.194199,-82.089477,M. Deyrup,1985
+1049,Solenopsis.diplo,G,NA,25-Sep-85,25-Sep-85,Longino Ranch,berlese,S,H,27.194199,-82.089477,M. Deyrup,1985
+1049,Strumigenys.ornata,G,native,25-Sep-85,25-Sep-85,Longino Ranch,berlese,S,H,27.194199,-82.089477,M. Deyrup,1985
+1050,Hypoponera.opaciceps,G,alien,25-Sep-85,25-Sep-85,Longino Ranch,berlese,U,H,27.194199,-82.089477,M. Deyrup,1985
+1050,Pheidole.navigans,G,alien,25-Sep-85,25-Sep-85,Longino Ranch,berlese,U,H,27.194199,-82.089477,M. Deyrup,1985
+1050,Solenopsis.diplo,G,NA,25-Sep-85,25-Sep-85,Longino Ranch,berlese,U,H,27.194199,-82.089477,M. Deyrup,1985
+1051,Solenopsis.diplo,G,NA,25-Sep-85,25-Sep-85,Longino Ranch,berlese,S,H,27.194199,-82.089477,M. Deyrup,1985
+1052,Hypoponera.opacior,G,native,25-Sep-85,25-Sep-85,Longino Ranch,berlese,U,H,27.194199,-82.089477,M. Deyrup,1985
+1052,Solenopsis.diplo,G,NA,25-Sep-85,25-Sep-85,Longino Ranch,berlese,U,H,27.194199,-82.089477,M. Deyrup,1985
+1053,Strumigenys.ornata,G,native,25-Sep-85,25-Sep-85,Longino Ranch,berlese,S,H,27.194199,-82.089477,M. Deyrup,1985
+1054,Solenopsis.diplo,G,NA,25-Sep-85,25-Sep-85,Longino Ranch,berlese,S,H,27.194199,-82.089477,M. Deyrup,1985
+1055,Pheidole.navigans,G,alien,25-Sep-85,25-Sep-85,Longino Ranch,berlese,S,H,27.194199,-82.089477,M. Deyrup,1985
+1055,Strumigenys.ornata,G,native,25-Sep-85,25-Sep-85,Longino Ranch,berlese,S,H,27.194199,-82.089477,M. Deyrup,1985
+1056,Solenopsis.diplo,G,NA,25-Sep-85,25-Sep-85,Longino Ranch,berlese,S,H,27.194199,-82.089477,M. Deyrup,1985
+1057,Brachymyrmex.depilis,G,native,25-Sep-85,25-Sep-85,Longino Ranch,museum,U,H,27.194199,-82.089477,M. Deyrup,1985
+1057,Hypoponera.opacior,G,native,25-Sep-85,25-Sep-85,Longino Ranch,museum,U,H,27.194199,-82.089477,M. Deyrup,1985
+1057,Pheidole.dentigula,G,native,25-Sep-85,25-Sep-85,Longino Ranch,museum,U,H,27.194199,-82.089477,M. Deyrup,1985
+1057,Solenopsis.diplo,G,NA,25-Sep-85,25-Sep-85,Longino Ranch,museum,U,H,27.194199,-82.089477,M. Deyrup,1985
+1058,Hypoponera.punctatissima,G,alien,25-Sep-85,25-Sep-85,Longino Ranch,museum,,FW,27.194199,-82.089477,M. Deyrup,1985
+1058,Pheidole.navigans,G,alien,25-Sep-85,25-Sep-85,Longino Ranch,museum,,FW,27.194199,-82.089477,M. Deyrup,1985
+1059,Aphaenogaster.miamiana/carolinensis,G,native,25-Sep-85,25-Sep-85,Longino Ranch,museum,,H,27.194199,-82.089477,M. Deyrup,1985
+1059,Brachymyrmex.depilis,G,native,25-Sep-85,25-Sep-85,Longino Ranch,museum,,H,27.194199,-82.089477,M. Deyrup,1985
+1059,Brachymyrmex.obscurior,G,alien,25-Sep-85,25-Sep-85,Longino Ranch,museum,,H,27.194199,-82.089477,M. Deyrup,1985
+1059,Camponotus.castaneus,G,native,25-Sep-85,25-Sep-85,Longino Ranch,museum,,H,27.194199,-82.089477,M. Deyrup,1985
+1059,Camponotus.floridanus,G,native,25-Sep-85,25-Sep-85,Longino Ranch,museum,,H,27.194199,-82.089477,M. Deyrup,1985
+1059,Crematogaster.pilosa,A,native,25-Sep-85,25-Sep-85,Longino Ranch,museum,,H,27.194199,-82.089477,M. Deyrup,1985
+1059,Cyphomyrmex.minutus,G,alien,25-Sep-85,25-Sep-85,Longino Ranch,museum,,H,27.194199,-82.089477,M. Deyrup,1985
+1059,Hypoponera.opacior,G,native,25-Sep-85,25-Sep-85,Longino Ranch,museum,,H,27.194199,-82.089477,M. Deyrup,1985
+1059,Pheidole.dentigula,G,native,25-Sep-85,25-Sep-85,Longino Ranch,museum,,H,27.194199,-82.089477,M. Deyrup,1985
+1059,Pseudomyrmex.ejectus,A,native,25-Sep-85,25-Sep-85,Longino Ranch,museum,,H,27.194199,-82.089477,M. Deyrup,1985
+1059,Pseudomyrmex.gracilis,A,alien,25-Sep-85,25-Sep-85,Longino Ranch,museum,,H,27.194199,-82.089477,M. Deyrup,1985
+1059,Solenopsis.diplo,G,NA,25-Sep-85,25-Sep-85,Longino Ranch,museum,,H,27.194199,-82.089477,M. Deyrup,1985
+1060,Camponotus.decipiens,G,native,25-Sep-85,25-Sep-85,Longino Ranch,museum,,F,27.194199,-82.089477,M. Deyrup,1985
+1060,Cardiocondyla.emeryi,G,alien,25-Sep-85,25-Sep-85,Longino Ranch,museum,,F,27.194199,-82.089477,M. Deyrup,1985
+1060,Cardiocondyla.minutior,G,alien,25-Sep-85,25-Sep-85,Longino Ranch,museum,,F,27.194199,-82.089477,M. Deyrup,1985
+1060,Cardiocondyla.wroughtonii,G,alien,25-Sep-85,25-Sep-85,Longino Ranch,museum,,F,27.194199,-82.089477,M. Deyrup,1985
+1060,Crematogaster.ashmeadi,G,native,25-Sep-85,25-Sep-85,Longino Ranch,museum,,F,27.194199,-82.089477,M. Deyrup,1985
+1060,Hypoponera.opaciceps,G,alien,25-Sep-85,25-Sep-85,Longino Ranch,museum,,F,27.194199,-82.089477,M. Deyrup,1985
+1060,Monomorium.sp.,G,NA,25-Sep-85,25-Sep-85,Longino Ranch,museum,,F,27.194199,-82.089477,M. Deyrup,1985
+1060,Pseudomyrmex.cubaensis,A,native,25-Sep-85,25-Sep-85,Longino Ranch,museum,,F,27.194199,-82.089477,M. Deyrup,1985
+1060,Pseudomyrmex.ejectus,A,native,25-Sep-85,25-Sep-85,Longino Ranch,museum,,F,27.194199,-82.089477,M. Deyrup,1985
+1060,Solenopsis.invicta,G,alien,25-Sep-85,25-Sep-85,Longino Ranch,museum,,F,27.194199,-82.089477,M. Deyrup,1985
+1060,Xenomyrmex.floridanus,G,alien,25-Sep-85,25-Sep-85,Longino Ranch,museum,,F,27.194199,-82.089477,M. Deyrup,1985
+1325,Nylanderia.bourbonica,G,alien,1986,1986,Collier-Seminole SP,museum,,,25.994697,-81.59252,,1986
+1325,Pheidole.bilimeki,G,alien,1986,1986,Collier-Seminole SP,museum,,,25.994697,-81.59252,,1986
+1325,Wasmannia.auropunctata,G,alien,1986,1986,Collier-Seminole SP,museum,,,25.994697,-81.59252,,1986
+1325,Xenomyrmex.floridanus,G,alien,1986,1986,Collier-Seminole SP,museum,,,25.994697,-81.59252,,1986
+1472,Aphaenogaster.miamiana/carolinensis,G,native,17-May-86,17-May-86,Payne's Prairie Preserve SP,museum,,H,29.520249,-82.293353,James C. Trager,1986
+1485,Pheidole.dentigula,G,native,5-Jun-86,5-Jun-86,Collier-Seminole SP,berlese,U,H,25.994697,-81.59252,M. Deyrup,1986
+1485,Solenopsis.diplo,G,NA,5-Jun-86,5-Jun-86,Collier-Seminole SP,berlese,U,H,25.994697,-81.59252,M. Deyrup,1986
+1485,Strumigenys.emmae,G,alien,5-Jun-86,5-Jun-86,Collier-Seminole SP,berlese,U,H,25.994697,-81.59252,M. Deyrup,1986
+1486,Hypoponera.opaciceps,G,alien,5-Jun-86,5-Jun-86,Collier-Seminole SP,berlese,U,H,25.994697,-81.59252,M. Deyrup,1986
+1486,Odontomachus.brunneus,G,native,5-Jun-86,5-Jun-86,Collier-Seminole SP,berlese,U,H,25.994697,-81.59252,M. Deyrup,1986
+1487,Pheidole.bilimeki,G,alien,5-Jun-86,5-Jun-86,Collier-Seminole SP,berlese,U,H,25.994697,-81.59252,M. Deyrup,1986
+1487,Solenopsis.diplo,G,NA,5-Jun-86,5-Jun-86,Collier-Seminole SP,berlese,U,H,25.994697,-81.59252,M. Deyrup,1986
+1487,Strumigenys.louisianae,G,native,5-Jun-86,5-Jun-86,Collier-Seminole SP,berlese,U,H,25.994697,-81.59252,M. Deyrup,1986
+1488,Eurhopalothrix.floridana,G,native,5-Jun-86,5-Jun-86,Collier-Seminole SP,berlese,U,H,25.994697,-81.59252,M. Deyrup,1986
+1488,Pheidole.bilimeki,G,alien,5-Jun-86,5-Jun-86,Collier-Seminole SP,berlese,U,H,25.994697,-81.59252,M. Deyrup,1986
+1488,Solenopsis.diplo,G,NA,5-Jun-86,5-Jun-86,Collier-Seminole SP,berlese,U,H,25.994697,-81.59252,M. Deyrup,1986
+1489,Eurhopalothrix.floridana,G,native,5-Jun-86,5-Jun-86,Collier-Seminole SP,berlese,U,H,25.994697,-81.59252,M. Deyrup,1986
+1489,Pheidole.bilimeki,G,alien,5-Jun-86,5-Jun-86,Collier-Seminole SP,berlese,U,H,25.994697,-81.59252,M. Deyrup,1986
+1489,Solenopsis.diplo,G,NA,5-Jun-86,5-Jun-86,Collier-Seminole SP,berlese,U,H,25.994697,-81.59252,M. Deyrup,1986
+1490,Hypoponera.opaciceps,G,alien,5-Jun-86,5-Jun-86,Collier-Seminole SP,berlese,U,H,25.994697,-81.59252,M. Deyrup,1986
+1490,Pheidole.dentigula,G,native,5-Jun-86,5-Jun-86,Collier-Seminole SP,berlese,U,H,25.994697,-81.59252,M. Deyrup,1986
+1490,Solenopsis.diplo,G,NA,5-Jun-86,5-Jun-86,Collier-Seminole SP,berlese,U,H,25.994697,-81.59252,M. Deyrup,1986
+1490,Strumigenys.louisianae,G,native,5-Jun-86,5-Jun-86,Collier-Seminole SP,berlese,U,H,25.994697,-81.59252,M. Deyrup,1986
+1491,Odontomachus.brunneus,G,native,5-Jun-86,5-Jun-86,Collier-Seminole SP,berlese,U,H,25.994697,-81.59252,M. Deyrup,1986
+1491,Solenopsis.diplo,G,NA,5-Jun-86,5-Jun-86,Collier-Seminole SP,berlese,U,H,25.994697,-81.59252,M. Deyrup,1986
+1491,Strumigenys.emmae,G,alien,5-Jun-86,5-Jun-86,Collier-Seminole SP,berlese,U,H,25.994697,-81.59252,M. Deyrup,1986
+1492,no ants.no ants,,NA,5-Jun-86,5-Jun-86,Collier-Seminole SP,berlese,U,H,25.994697,-81.59252,M. Deyrup,1986
+1493,Solenopsis.diplo,G,NA,5-Jun-86,5-Jun-86,Collier-Seminole SP,berlese,U,H,25.994697,-81.59252,M. Deyrup,1986
+1494,no ants.no ants,,NA,5-Jun-86,5-Jun-86,Collier-Seminole SP,berlese,U,H,25.994697,-81.59252,M. Deyrup,1986
+1495,Pheidole.dentigula,G,native,5-Jun-86,5-Jun-86,Collier-Seminole SP,berlese,U,H,25.994697,-81.59252,M. Deyrup,1986
+1496,Brachymyrmex.depilis,G,native,5-Jun-86,5-Jun-86,Collier-Seminole SP,berlese,U,H,25.994697,-81.59252,M. Deyrup,1986
+1496,Solenopsis.diplo,G,NA,5-Jun-86,5-Jun-86,Collier-Seminole SP,berlese,U,H,25.994697,-81.59252,M. Deyrup,1986
+1497,Camponotus.floridanus,G,native,5-Jun-86,5-Jun-86,Collier-Seminole SP,museum,U,H,25.994697,-81.59252,M. Deyrup,1986
+1497,Crematogaster.ashmeadi,G,native,5-Jun-86,5-Jun-86,Collier-Seminole SP,museum,U,H,25.994697,-81.59252,M. Deyrup,1986
+1497,Hypoponera.opacior,G,native,5-Jun-86,5-Jun-86,Collier-Seminole SP,museum,U,H,25.994697,-81.59252,M. Deyrup,1986
+1497,Nylanderia.bourbonica,G,alien,5-Jun-86,5-Jun-86,Collier-Seminole SP,museum,U,H,25.994697,-81.59252,M. Deyrup,1986
+1497,Pseudomyrmex.ejectus,A,native,5-Jun-86,5-Jun-86,Collier-Seminole SP,museum,U,H,25.994697,-81.59252,M. Deyrup,1986
+1497,Pseudomyrmex.gracilis,A,alien,5-Jun-86,5-Jun-86,Collier-Seminole SP,museum,U,H,25.994697,-81.59252,M. Deyrup,1986
+1497,Solenopsis.geminata,G,native,5-Jun-86,5-Jun-86,Collier-Seminole SP,museum,U,H,25.994697,-81.59252,M. Deyrup,1986
+1497,Tapinoma.litorale,G,alien,5-Jun-86,5-Jun-86,Collier-Seminole SP,museum,U,H,25.994697,-81.59252,M. Deyrup,1986
+1497,Wasmannia.auropunctata,G,alien,5-Jun-86,5-Jun-86,Collier-Seminole SP,museum,U,H,25.994697,-81.59252,M. Deyrup,1986
+1497,Xenomyrmex.floridanus,G,alien,5-Jun-86,5-Jun-86,Collier-Seminole SP,museum,U,H,25.994697,-81.59252,M. Deyrup,1986
+1498,Camponotus.floridanus,G,native,5-Jun-86,5-Jun-86,Collier-Seminole SP,museum,U,H,25.994697,-81.59252,M. Deyrup,1986
+1498,Crematogaster.ashmeadi,G,native,5-Jun-86,5-Jun-86,Collier-Seminole SP,museum,U,H,25.994697,-81.59252,M. Deyrup,1986
+1498,Eurhopalothrix.floridana,G,native,5-Jun-86,5-Jun-86,Collier-Seminole SP,museum,U,H,25.994697,-81.59252,M. Deyrup,1986
+1498,Solenopsis.diplo,G,NA,5-Jun-86,5-Jun-86,Collier-Seminole SP,museum,U,H,25.994697,-81.59252,M. Deyrup,1986
+1498,Strumigenys.emmae,G,alien,5-Jun-86,5-Jun-86,Collier-Seminole SP,museum,U,H,25.994697,-81.59252,M. Deyrup,1986
+1498,Strumigenys.louisianae,G,native,5-Jun-86,5-Jun-86,Collier-Seminole SP,museum,U,H,25.994697,-81.59252,M. Deyrup,1986
+1498,Xenomyrmex.floridanus,G,alien,5-Jun-86,5-Jun-86,Collier-Seminole SP,museum,U,H,25.994697,-81.59252,M. Deyrup,1986
+1501,no ants.no ants,,NA,6-Jun-86,6-Jun-86,Withlacoochie NF,berlese,U,H,28.607391,-82.359957,M. Deyrup,1986
+1502,Hypoponera.opacior,G,native,6-Jun-86,6-Jun-86,Withlacoochie NF,berlese,U,H,28.644106,-82.335729,M. Deyrup,1986
+1503,Hypoponera.opacior,G,native,6-Jun-86,6-Jun-86,Withlacoochie NF,berlese,U,H,28.607391,-82.359957,M. Deyrup,1986
+1503,Solenopsis.diplo,G,NA,6-Jun-86,6-Jun-86,Withlacoochie NF,berlese,U,H,28.607391,-82.359957,M. Deyrup,1986
+1503,Strumigenys.talpa,G,native,6-Jun-86,6-Jun-86,Withlacoochie NF,berlese,U,H,28.607391,-82.359957,M. Deyrup,1986
+1504,no ants.no ants,,NA,6-Jun-86,6-Jun-86,Withlacoochie NF,berlese,U,H,28.644106,-82.335729,M. Deyrup,1986
+1505,Solenopsis.diplo,G,NA,6-Jun-86,6-Jun-86,Withlacoochie NF,berlese,U,H,28.607391,-82.359957,M. Deyrup,1986
+1506,Nylanderia.wojciki,G,native,6-Jun-86,6-Jun-86,Withlacoochie NF,berlese,U,H,28.644106,-82.335729,M. Deyrup,1986
+1507,Brachymyrmex.depilis,G,native,6-Jun-86,6-Jun-86,Withlacoochie NF,berlese,U,H,28.607391,-82.359957,M. Deyrup,1986
+1507,Strumigenys.ornata,G,native,6-Jun-86,6-Jun-86,Withlacoochie NF,berlese,U,H,28.607391,-82.359957,M. Deyrup,1986
+1508,no ants.no ants,,NA,6-Jun-86,6-Jun-86,Withlacoochie NF,berlese,U,H,28.644106,-82.335729,M. Deyrup,1986
+1509,Hypoponera.opacior,G,native,6-Jun-86,6-Jun-86,Withlacoochie NF,berlese,U,H,28.607391,-82.359957,M. Deyrup,1986
+1509,Solenopsis.diplo,G,NA,6-Jun-86,6-Jun-86,Withlacoochie NF,berlese,U,H,28.607391,-82.359957,M. Deyrup,1986
+1510,Nylanderia.wojciki,G,native,6-Jun-86,6-Jun-86,Withlacoochie NF,berlese,U,H,28.644106,-82.335729,M. Deyrup,1986
+1510,Stigmatomma.pallipes,G,native,6-Jun-86,6-Jun-86,Withlacoochie NF,berlese,U,H,28.644106,-82.335729,M. Deyrup,1986
+1511,Solenopsis.diplo,G,NA,6-Jun-86,6-Jun-86,Withlacoochie NF,berlese,U,H,28.607391,-82.359957,M. Deyrup,1986
+1512,no ants.no ants,,NA,6-Jun-86,6-Jun-86,Withlacoochie NF,berlese,U,H,28.644106,-82.335729,M. Deyrup,1986
+1513,Hypoponera.opacior,G,native,6-Jun-86,6-Jun-86,Withlacoochie NF,berlese,U,H,28.644106,-82.335729,M. Deyrup,1986
+1513,Pheidole.dentigula,G,native,6-Jun-86,6-Jun-86,Withlacoochie NF,berlese,U,H,28.644106,-82.335729,M. Deyrup,1986
+1513,Solenopsis.diplo,G,NA,6-Jun-86,6-Jun-86,Withlacoochie NF,berlese,U,H,28.644106,-82.335729,M. Deyrup,1986
+1514,Strumigenys.talpa,G,native,6-Jun-86,6-Jun-86,Withlacoochie NF,berlese,U,H,28.644106,-82.335729,M. Deyrup,1986
+1515,Nylanderia.wojciki,G,native,6-Jun-86,6-Jun-86,Withlacoochie NF,berlese,U,H,28.644106,-82.335729,M. Deyrup,1986
+1516,Aphaenogaster.lamellidens,G,native,6-Jun-86,6-Jun-86,Withlacoochie NF,museum,,,28.572609,-82.215371,M. Deyrup,1986
+1516,Camponotus.floridanus,G,native,6-Jun-86,6-Jun-86,Withlacoochie NF,museum,,,28.572609,-82.215371,M. Deyrup,1986
+1516,Camponotus.sayi,G,native,6-Jun-86,6-Jun-86,Withlacoochie NF,museum,,,28.572609,-82.215371,M. Deyrup,1986
+1516,Cardiocondyla.emeryi,G,alien,6-Jun-86,6-Jun-86,Withlacoochie NF,museum,,,28.572609,-82.215371,M. Deyrup,1986
+1516,Crematogaster.ashmeadi,G,native,6-Jun-86,6-Jun-86,Withlacoochie NF,museum,,,28.572609,-82.215371,M. Deyrup,1986
+1516,Cyphomyrmex.rimosus,G,alien,6-Jun-86,6-Jun-86,Withlacoochie NF,museum,,,28.572609,-82.215371,M. Deyrup,1986
+1516,Dorymyrmex.bureni,G,native,6-Jun-86,6-Jun-86,Withlacoochie NF,museum,,,28.572609,-82.215371,M. Deyrup,1986
+1516,Odontomachus.brunneus,G,native,6-Jun-86,6-Jun-86,Withlacoochie NF,museum,,,28.572609,-82.215371,M. Deyrup,1986
+1516,Pheidole.dentata,G,native,6-Jun-86,6-Jun-86,Withlacoochie NF,museum,,,28.572609,-82.215371,M. Deyrup,1986
+1516,Pheidole.metallescens,G,native,6-Jun-86,6-Jun-86,Withlacoochie NF,museum,,,28.572609,-82.215371,M. Deyrup,1986
+1516,Pogonomyrmex.badius,G,native,6-Jun-86,6-Jun-86,Withlacoochie NF,museum,,,28.572609,-82.215371,M. Deyrup,1986
+1516,Pseudomyrmex.ejectus,A,native,6-Jun-86,6-Jun-86,Withlacoochie NF,museum,,,28.572609,-82.215371,M. Deyrup,1986
+1516,Solenopsis.invicta,G,alien,6-Jun-86,6-Jun-86,Withlacoochie NF,museum,,,28.572609,-82.215371,M. Deyrup,1986
+1516,Tetramorium.simillimum,G,alien,6-Jun-86,6-Jun-86,Withlacoochie NF,museum,,,28.572609,-82.215371,M. Deyrup,1986
+1516,Trachymyrmex.septentrionalis,G,native,6-Jun-86,6-Jun-86,Withlacoochie NF,museum,,,28.572609,-82.215371,M. Deyrup,1986
+1518,Forelius.pruinosus,G,native,6-Jun-86,6-Jun-86,Withlacoochie NF,museum,U,H,28.607391,-82.359957,M. Deyrup,1986
+1518,Hypoponera.opacior,G,native,6-Jun-86,6-Jun-86,Withlacoochie NF,museum,U,H,28.607391,-82.359957,M. Deyrup,1986
+1518,Monomorium.viridum,G,native,6-Jun-86,6-Jun-86,Withlacoochie NF,museum,U,H,28.607391,-82.359957,M. Deyrup,1986
+1518,Pheidole.morrisii,G,native,6-Jun-86,6-Jun-86,Withlacoochie NF,museum,U,H,28.607391,-82.359957,M. Deyrup,1986
+1518,Solenopsis.diplo,G,NA,6-Jun-86,6-Jun-86,Withlacoochie NF,museum,U,H,28.607391,-82.359957,M. Deyrup,1986
+1518,Strumigenys.ornata,G,native,6-Jun-86,6-Jun-86,Withlacoochie NF,museum,U,H,28.607391,-82.359957,M. Deyrup,1986
+1518,Strumigenys.talpa,G,native,6-Jun-86,6-Jun-86,Withlacoochie NF,museum,U,H,28.607391,-82.359957,M. Deyrup,1986
+1518,Temnothorax.texanus,G,native,6-Jun-86,6-Jun-86,Withlacoochie NF,museum,U,H,28.607391,-82.359957,M. Deyrup,1986
+1518,Trachymyrmex.septentrionalis,G,native,6-Jun-86,6-Jun-86,Withlacoochie NF,museum,U,H,28.607391,-82.359957,M. Deyrup,1986
+1519,Aphaenogaster.ashmeadi,G,native,6-Jun-86,6-Jun-86,Withlacoochie NF,museum,U,H,28.644106,-82.335729,M. Deyrup,1986
+1519,Cardiocondyla.minutior,G,alien,6-Jun-86,6-Jun-86,Withlacoochie NF,museum,U,H,28.644106,-82.335729,M. Deyrup,1986
+1519,Crematogaster.lineolata,G,native,6-Jun-86,6-Jun-86,Withlacoochie NF,museum,U,H,28.644106,-82.335729,M. Deyrup,1986
+1519,Hypoponera.opacior,G,native,6-Jun-86,6-Jun-86,Withlacoochie NF,museum,U,H,28.644106,-82.335729,M. Deyrup,1986
+1519,Nylanderia.arenivaga,G,native,6-Jun-86,6-Jun-86,Withlacoochie NF,museum,U,H,28.644106,-82.335729,M. Deyrup,1986
+1519,Nylanderia.wojciki,G,native,6-Jun-86,6-Jun-86,Withlacoochie NF,museum,U,H,28.644106,-82.335729,M. Deyrup,1986
+1519,Pheidole.dentata,G,native,6-Jun-86,6-Jun-86,Withlacoochie NF,museum,U,H,28.644106,-82.335729,M. Deyrup,1986
+1519,Pheidole.dentigula,G,native,6-Jun-86,6-Jun-86,Withlacoochie NF,museum,U,H,28.644106,-82.335729,M. Deyrup,1986
+1519,Pheidole.navigans,G,alien,6-Jun-86,6-Jun-86,Withlacoochie NF,museum,U,H,28.644106,-82.335729,M. Deyrup,1986
+1519,Stigmatomma.pallipes,G,native,6-Jun-86,6-Jun-86,Withlacoochie NF,museum,U,H,28.644106,-82.335729,M. Deyrup,1986
+1519,Strumigenys.talpa,G,native,6-Jun-86,6-Jun-86,Withlacoochie NF,museum,U,H,28.644106,-82.335729,M. Deyrup,1986
+1519,Temnothorax.pergandei,G,native,6-Jun-86,6-Jun-86,Withlacoochie NF,museum,U,H,28.644106,-82.335729,M. Deyrup,1986
+1519,Temnothorax.texanus,G,native,6-Jun-86,6-Jun-86,Withlacoochie NF,museum,U,H,28.644106,-82.335729,M. Deyrup,1986
+1520,Aphaenogaster.lamellidens,G,native,6-Jun-86,6-Jun-86,Withlacoochie NF,museum,,,28.572609,-82.215371,M. Deyrup,1986
+1520,Camponotus.decipiens,G,native,6-Jun-86,6-Jun-86,Withlacoochie NF,museum,,,28.572609,-82.215371,M. Deyrup,1986
+1520,Camponotus.floridanus,G,native,6-Jun-86,6-Jun-86,Withlacoochie NF,museum,,,28.572609,-82.215371,M. Deyrup,1986
+1520,Cardiocondyla.emeryi,G,alien,6-Jun-86,6-Jun-86,Withlacoochie NF,museum,,,28.572609,-82.215371,M. Deyrup,1986
+1520,Crematogaster.ashmeadi,G,native,6-Jun-86,6-Jun-86,Withlacoochie NF,museum,,,28.572609,-82.215371,M. Deyrup,1986
+1520,Cyphomyrmex.rimosus,G,alien,6-Jun-86,6-Jun-86,Withlacoochie NF,museum,,,28.572609,-82.215371,M. Deyrup,1986
+1520,Dorymyrmex.bossuta,G,native,6-Jun-86,6-Jun-86,Withlacoochie NF,museum,,,28.572609,-82.215371,M. Deyrup,1986
+1520,Nylanderia.bourbonica,G,alien,6-Jun-86,6-Jun-86,Withlacoochie NF,museum,,,28.572609,-82.215371,M. Deyrup,1986
+1520,Odontomachus.brunneus,G,native,6-Jun-86,6-Jun-86,Withlacoochie NF,museum,,,28.572609,-82.215371,M. Deyrup,1986
+1520,Pheidole.metallescens,G,native,6-Jun-86,6-Jun-86,Withlacoochie NF,museum,,,28.572609,-82.215371,M. Deyrup,1986
+1520,Pseudomyrmex.ejectus,A,native,6-Jun-86,6-Jun-86,Withlacoochie NF,museum,,,28.572609,-82.215371,M. Deyrup,1986
+1520,Solenopsis.invicta,G,alien,6-Jun-86,6-Jun-86,Withlacoochie NF,museum,,,28.572609,-82.215371,M. Deyrup,1986
+1520,Tetramorium.caldarium,G,alien,6-Jun-86,6-Jun-86,Withlacoochie NF,museum,,,28.572609,-82.215371,M. Deyrup,1986
+1520,Trachymyrmex.septentrionalis,G,native,6-Jun-86,6-Jun-86,Withlacoochie NF,museum,,,28.572609,-82.215371,M. Deyrup,1986
+1663,Brachymyrmex.depilis,G,native,12-Sep-86,12-Sep-86,Collier-Seminole SP,museum,D,ML,25.994697,-81.59252,M. Deyrup,1986
+1663,Colobopsis.impressa,A,native,12-Sep-86,12-Sep-86,Collier-Seminole SP,museum,D,ML,25.994697,-81.59252,M. Deyrup,1986
+1663,Hypoponera.opaciceps,G,alien,12-Sep-86,12-Sep-86,Collier-Seminole SP,museum,D,ML,25.994697,-81.59252,M. Deyrup,1986
+1663,Hypoponera.opacior,G,native,12-Sep-86,12-Sep-86,Collier-Seminole SP,museum,D,ML,25.994697,-81.59252,M. Deyrup,1986
+1663,Pseudomyrmex.gracilis,A,alien,12-Sep-86,12-Sep-86,Collier-Seminole SP,museum,D,ML,25.994697,-81.59252,M. Deyrup,1986
+1663,Wasmannia.auropunctata,G,alien,12-Sep-86,12-Sep-86,Collier-Seminole SP,museum,D,ML,25.994697,-81.59252,M. Deyrup,1986
+1882,Hypoponera.opaciceps,G,alien,1-Feb-87,1-Feb-87,Collier-Seminole SP,berlese,U,H,25.994697,-81.59252,M. Deyrup,1987
+1882,Pheidole.bilimeki,G,alien,1-Feb-87,1-Feb-87,Collier-Seminole SP,berlese,U,H,25.994697,-81.59252,M. Deyrup,1987
+1883,Odontomachus.brunneus,G,native,1-Feb-87,1-Feb-87,Collier-Seminole SP,berlese,U,H,25.994697,-81.59252,M. Deyrup,1987
+1883,Solenopsis.diplo,G,NA,1-Feb-87,1-Feb-87,Collier-Seminole SP,berlese,U,H,25.994697,-81.59252,M. Deyrup,1987
+1884,Hypoponera.opaciceps,G,alien,1-Feb-87,1-Feb-87,Collier-Seminole SP,berlese,U,H,25.994697,-81.59252,M. Deyrup,1987
+1884,Pheidole.bilimeki,G,alien,1-Feb-87,1-Feb-87,Collier-Seminole SP,berlese,U,H,25.994697,-81.59252,M. Deyrup,1987
+1885,Brachymyrmex.depilis,G,native,1-Feb-87,1-Feb-87,Collier-Seminole SP,berlese,U,H,25.994697,-81.59252,M. Deyrup,1987
+1885,Pheidole.bilimeki,G,alien,1-Feb-87,1-Feb-87,Collier-Seminole SP,berlese,U,H,25.994697,-81.59252,M. Deyrup,1987
+1885,Solenopsis.diplo,G,NA,1-Feb-87,1-Feb-87,Collier-Seminole SP,berlese,U,H,25.994697,-81.59252,M. Deyrup,1987
+1886,Brachymyrmex.depilis,G,native,1-Feb-87,1-Feb-87,Collier-Seminole SP,berlese,U,H,25.994697,-81.59252,M. Deyrup,1987
+1886,Hypoponera.opaciceps,G,alien,1-Feb-87,1-Feb-87,Collier-Seminole SP,berlese,U,H,25.994697,-81.59252,M. Deyrup,1987
+1886,Pheidole.bilimeki,G,alien,1-Feb-87,1-Feb-87,Collier-Seminole SP,berlese,U,H,25.994697,-81.59252,M. Deyrup,1987
+1886,Solenopsis.diplo,G,NA,1-Feb-87,1-Feb-87,Collier-Seminole SP,berlese,U,H,25.994697,-81.59252,M. Deyrup,1987
+1887,Odontomachus.brunneus,G,native,1-Feb-87,1-Feb-87,Collier-Seminole SP,berlese,U,H,25.994697,-81.59252,M. Deyrup,1987
+1963,Pheidole.bilimeki,G,alien,3-Mar-87,3-Mar-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.983333,-81.416667,M. Deyrup,1987
+1963,Solenopsis.diplo,G,NA,3-Mar-87,3-Mar-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.983333,-81.416667,M. Deyrup,1987
+1963,Tapinoma.melanocephalum,G,alien,3-Mar-87,3-Mar-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.983333,-81.416667,M. Deyrup,1987
+1964,Hypoponera.opaciceps,G,alien,3-Mar-87,3-Mar-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.983333,-81.416667,M. Deyrup,1987
+1964,Pheidole.dentigula,G,native,3-Mar-87,3-Mar-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.983333,-81.416667,M. Deyrup,1987
+1964,Solenopsis.diplo,G,NA,3-Mar-87,3-Mar-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.983333,-81.416667,M. Deyrup,1987
+1965,Pheidole.bilimeki,G,alien,3-Mar-87,3-Mar-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.983333,-81.416667,M. Deyrup,1987
+1965,Solenopsis.diplo,G,NA,3-Mar-87,3-Mar-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.983333,-81.416667,M. Deyrup,1987
+1966,Pheidole.bilimeki,G,alien,3-Mar-87,3-Mar-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.983333,-81.416667,M. Deyrup,1987
+1966,Solenopsis.diplo,G,NA,3-Mar-87,3-Mar-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.983333,-81.416667,M. Deyrup,1987
+1967,Odontomachus.ruginodis,G,alien,3-Mar-87,3-Mar-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.983333,-81.416667,M. Deyrup,1987
+1967,Pheidole.bilimeki,G,alien,3-Mar-87,3-Mar-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.983333,-81.416667,M. Deyrup,1987
+1967,Solenopsis.diplo,G,NA,3-Mar-87,3-Mar-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.983333,-81.416667,M. Deyrup,1987
+1968,Pheidole.bilimeki,G,alien,3-Mar-87,3-Mar-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.983333,-81.416667,M. Deyrup,1987
+1968,Tapinoma.melanocephalum,G,alien,3-Mar-87,3-Mar-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.983333,-81.416667,M. Deyrup,1987
+1969,Pheidole.bilimeki,G,alien,3-Mar-87,3-Mar-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.983333,-81.416667,M. Deyrup,1987
+1970,Solenopsis.diplo,G,NA,3-Mar-87,3-Mar-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.983333,-81.416667,M. Deyrup,1987
+1971,Pheidole.bilimeki,G,alien,3-Mar-87,3-Mar-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.983333,-81.416667,M. Deyrup,1987
+1972,Nylanderia.concinna,G,native,3-Mar-87,3-Mar-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.983333,-81.416667,M. Deyrup,1987
+1972,Pheidole.bilimeki,G,alien,3-Mar-87,3-Mar-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.983333,-81.416667,M. Deyrup,1987
+1973,Nylanderia.concinna,G,native,3-Mar-87,3-Mar-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.983333,-81.416667,M. Deyrup,1987
+1973,Pheidole.bilimeki,G,alien,3-Mar-87,3-Mar-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.983333,-81.416667,M. Deyrup,1987
+1973,Solenopsis.diplo,G,NA,3-Mar-87,3-Mar-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.983333,-81.416667,M. Deyrup,1987
+1974,Pheidole.bilimeki,G,alien,3-Mar-87,3-Mar-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.983333,-81.416667,M. Deyrup,1987
+1974,Solenopsis.diplo,G,NA,3-Mar-87,3-Mar-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.983333,-81.416667,M. Deyrup,1987
+1975,Pheidole.bilimeki,G,alien,3-Mar-87,3-Mar-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.983333,-81.416667,M. Deyrup,1987
+1975,Solenopsis.diplo,G,NA,3-Mar-87,3-Mar-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.983333,-81.416667,M. Deyrup,1987
+1976,Aphaenogaster.miamiana/carolinensis,G,native,3-Mar-87,3-Mar-87,Fakahatchee Strand Preserve SP,museum,S,H,25.983333,-81.416667,M. Deyrup,1987
+1976,Camponotus.decipiens,G,native,3-Mar-87,3-Mar-87,Fakahatchee Strand Preserve SP,museum,S,H,25.983333,-81.416667,M. Deyrup,1987
+1976,Camponotus.floridanus,G,native,3-Mar-87,3-Mar-87,Fakahatchee Strand Preserve SP,museum,S,H,25.983333,-81.416667,M. Deyrup,1987
+1976,Crematogaster.ashmeadi,G,native,3-Mar-87,3-Mar-87,Fakahatchee Strand Preserve SP,museum,S,H,25.983333,-81.416667,M. Deyrup,1987
+1976,Crematogaster.minutissima,G,native,3-Mar-87,3-Mar-87,Fakahatchee Strand Preserve SP,museum,S,H,25.983333,-81.416667,M. Deyrup,1987
+1976,Hypoponera.opaciceps,G,alien,3-Mar-87,3-Mar-87,Fakahatchee Strand Preserve SP,museum,S,H,25.983333,-81.416667,M. Deyrup,1987
+1976,Hypoponera.opacior,G,native,3-Mar-87,3-Mar-87,Fakahatchee Strand Preserve SP,museum,S,H,25.983333,-81.416667,M. Deyrup,1987
+1976,Hypoponera.punctatissima,G,alien,3-Mar-87,3-Mar-87,Fakahatchee Strand Preserve SP,museum,S,H,25.983333,-81.416667,M. Deyrup,1987
+1976,Monomorium.pharaonis,G,alien,3-Mar-87,3-Mar-87,Fakahatchee Strand Preserve SP,museum,S,H,25.983333,-81.416667,M. Deyrup,1987
+1976,Nylanderia.concinna,G,native,3-Mar-87,3-Mar-87,Fakahatchee Strand Preserve SP,museum,S,H,25.983333,-81.416667,M. Deyrup,1987
+1976,Odontomachus.ruginodis,G,alien,3-Mar-87,3-Mar-87,Fakahatchee Strand Preserve SP,museum,S,H,25.983333,-81.416667,M. Deyrup,1987
+1976,Pheidole.bilimeki,G,alien,3-Mar-87,3-Mar-87,Fakahatchee Strand Preserve SP,museum,S,H,25.983333,-81.416667,M. Deyrup,1987
+1976,Pheidole.dentigula,G,native,3-Mar-87,3-Mar-87,Fakahatchee Strand Preserve SP,museum,S,H,25.983333,-81.416667,M. Deyrup,1987
+1976,Pheidole.flavens,G,alien,3-Mar-87,3-Mar-87,Fakahatchee Strand Preserve SP,museum,S,H,25.983333,-81.416667,M. Deyrup,1987
+1976,Pseudomyrmex.ejectus,A,native,3-Mar-87,3-Mar-87,Fakahatchee Strand Preserve SP,museum,S,H,25.983333,-81.416667,M. Deyrup,1987
+1976,Solenopsis.diplo,G,NA,3-Mar-87,3-Mar-87,Fakahatchee Strand Preserve SP,museum,S,H,25.983333,-81.416667,M. Deyrup,1987
+1976,Strumigenys.emmae,G,alien,3-Mar-87,3-Mar-87,Fakahatchee Strand Preserve SP,museum,S,H,25.983333,-81.416667,M. Deyrup,1987
+1976,Tapinoma.melanocephalum,G,alien,3-Mar-87,3-Mar-87,Fakahatchee Strand Preserve SP,museum,S,H,25.983333,-81.416667,M. Deyrup,1987
+2071,Brachymyrmex.depilis,G,native,10-Apr-87,10-Apr-87,Collier-Seminole SP,berlese,U,H,25.994697,-81.59252,M. Deyrup,1987
+2071,Pheidole.dentigula,G,native,10-Apr-87,10-Apr-87,Collier-Seminole SP,berlese,U,H,25.994697,-81.59252,M. Deyrup,1987
+2071,Solenopsis.diplo,G,NA,10-Apr-87,10-Apr-87,Collier-Seminole SP,berlese,U,H,25.994697,-81.59252,M. Deyrup,1987
+2072,Brachymyrmex.depilis,G,native,10-Apr-87,10-Apr-87,Collier-Seminole SP,berlese,U,H,25.994697,-81.59252,M. Deyrup,1987
+2072,Odontomachus.ruginodis,G,alien,10-Apr-87,10-Apr-87,Collier-Seminole SP,berlese,U,H,25.994697,-81.59252,M. Deyrup,1987
+2073,Brachymyrmex.depilis,G,native,10-Apr-87,10-Apr-87,Collier-Seminole SP,berlese,U,H,25.994697,-81.59252,M. Deyrup,1987
+2073,Hypoponera.opaciceps,G,alien,10-Apr-87,10-Apr-87,Collier-Seminole SP,berlese,U,H,25.994697,-81.59252,M. Deyrup,1987
+2073,Solenopsis.diplo,G,NA,10-Apr-87,10-Apr-87,Collier-Seminole SP,berlese,U,H,25.994697,-81.59252,M. Deyrup,1987
+2074,Brachymyrmex.depilis,G,native,10-Apr-87,10-Apr-87,Collier-Seminole SP,berlese,U,H,25.994697,-81.59252,M. Deyrup,1987
+2075,Brachymyrmex.depilis,G,native,10-Apr-87,10-Apr-87,Collier-Seminole SP,berlese,U,H,25.994697,-81.59252,M. Deyrup,1987
+2075,Nylanderia.wojciki,G,native,10-Apr-87,10-Apr-87,Collier-Seminole SP,berlese,U,H,25.994697,-81.59252,M. Deyrup,1987
+2075,Pheidole.bilimeki,G,alien,10-Apr-87,10-Apr-87,Collier-Seminole SP,berlese,U,H,25.994697,-81.59252,M. Deyrup,1987
+2076,Hypoponera.opacior,G,native,10-Apr-87,10-Apr-87,Collier-Seminole SP,berlese,U,H,25.994697,-81.59252,M. Deyrup,1987
+2076,Nylanderia.concinna,G,native,10-Apr-87,10-Apr-87,Collier-Seminole SP,berlese,U,H,25.994697,-81.59252,M. Deyrup,1987
+2076,Solenopsis.diplo,G,NA,10-Apr-87,10-Apr-87,Collier-Seminole SP,berlese,U,H,25.994697,-81.59252,M. Deyrup,1987
+2077,Hypoponera.punctatissima,G,alien,10-Apr-87,10-Apr-87,Collier-Seminole SP,berlese,U,H,25.994697,-81.59252,M. Deyrup,1987
+2077,Solenopsis.diplo,G,NA,10-Apr-87,10-Apr-87,Collier-Seminole SP,berlese,U,H,25.994697,-81.59252,M. Deyrup,1987
+2078,Hypoponera.punctatissima,G,alien,10-Apr-87,10-Apr-87,Collier-Seminole SP,berlese,U,H,25.994697,-81.59252,M. Deyrup,1987
+2078,Odontomachus.brunneus,G,native,10-Apr-87,10-Apr-87,Collier-Seminole SP,berlese,U,H,25.994697,-81.59252,M. Deyrup,1987
+2079,Solenopsis.diplo,G,NA,10-Apr-87,10-Apr-87,Collier-Seminole SP,berlese,U,H,25.994697,-81.59252,M. Deyrup,1987
+2080,Brachymyrmex.obscurior,G,alien,10-Apr-87,10-Apr-87,Collier-Seminole SP,museum,D,H,25.994697,-81.59252,M. Deyrup,1987
+2080,Crematogaster.ashmeadi,G,native,10-Apr-87,10-Apr-87,Collier-Seminole SP,museum,D,H,25.994697,-81.59252,M. Deyrup,1987
+2080,Odontomachus.brunneus,G,native,10-Apr-87,10-Apr-87,Collier-Seminole SP,museum,D,H,25.994697,-81.59252,M. Deyrup,1987
+2080,Pheidole.bilimeki,G,alien,10-Apr-87,10-Apr-87,Collier-Seminole SP,museum,D,H,25.994697,-81.59252,M. Deyrup,1987
+2080,Platythyrea.punctata,G,native,10-Apr-87,10-Apr-87,Collier-Seminole SP,museum,D,H,25.994697,-81.59252,M. Deyrup,1987
+2080,Pseudomyrmex.gracilis,A,alien,10-Apr-87,10-Apr-87,Collier-Seminole SP,museum,D,H,25.994697,-81.59252,M. Deyrup,1987
+2080,Solenopsis.geminata,G,native,10-Apr-87,10-Apr-87,Collier-Seminole SP,museum,D,H,25.994697,-81.59252,M. Deyrup,1987
+2080,Solenopsis.invicta,G,alien,10-Apr-87,10-Apr-87,Collier-Seminole SP,museum,D,H,25.994697,-81.59252,M. Deyrup,1987
+2081,Pseudomyrmex.elongatus,A,native,10-Apr-87,10-Apr-87,Collier-Seminole SP,museum,U,H,25.994697,-81.59252,M. Deyrup,1987
+2082,Brachymyrmex.obscurior,G,alien,10-Apr-87,10-Apr-87,Collier-Seminole SP,museum,U,H,25.994697,-81.59252,M. Deyrup,1987
+2082,Hypoponera.punctatissima,G,alien,10-Apr-87,10-Apr-87,Collier-Seminole SP,museum,U,H,25.994697,-81.59252,M. Deyrup,1987
+2082,Nylanderia.concinna,G,native,10-Apr-87,10-Apr-87,Collier-Seminole SP,museum,U,H,25.994697,-81.59252,M. Deyrup,1987
+2082,Nylanderia.wojciki,G,native,10-Apr-87,10-Apr-87,Collier-Seminole SP,museum,U,H,25.994697,-81.59252,M. Deyrup,1987
+2082,Odontomachus.brunneus,G,native,10-Apr-87,10-Apr-87,Collier-Seminole SP,museum,U,H,25.994697,-81.59252,M. Deyrup,1987
+2082,Odontomachus.ruginodis,G,alien,10-Apr-87,10-Apr-87,Collier-Seminole SP,museum,U,H,25.994697,-81.59252,M. Deyrup,1987
+2082,Platythyrea.punctata,G,native,10-Apr-87,10-Apr-87,Collier-Seminole SP,museum,U,H,25.994697,-81.59252,M. Deyrup,1987
+2082,Pseudomyrmex.cubaensis,A,native,10-Apr-87,10-Apr-87,Collier-Seminole SP,museum,U,H,25.994697,-81.59252,M. Deyrup,1987
+2082,Pseudomyrmex.pallidus,A,native,10-Apr-87,10-Apr-87,Collier-Seminole SP,museum,U,H,25.994697,-81.59252,M. Deyrup,1987
+2082,Solenopsis.diplo,G,NA,10-Apr-87,10-Apr-87,Collier-Seminole SP,museum,U,H,25.994697,-81.59252,M. Deyrup,1987
+2082,Solenopsis.geminata,G,native,10-Apr-87,10-Apr-87,Collier-Seminole SP,museum,U,H,25.994697,-81.59252,M. Deyrup,1987
+2082,Solenopsis.invicta,G,alien,10-Apr-87,10-Apr-87,Collier-Seminole SP,museum,U,H,25.994697,-81.59252,M. Deyrup,1987
+2097,Pheidole.bilimeki,G,alien,3-May-87,3-May-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.938333,-81.466667,M. Deyrup,1987
+2097,Solenopsis.diplo,G,NA,3-May-87,3-May-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.938333,-81.466667,M. Deyrup,1987
+2097,Tapinoma.melanocephalum,G,alien,3-May-87,3-May-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.938333,-81.466667,M. Deyrup,1987
+2098,Hypoponera.opaciceps,G,alien,3-May-87,3-May-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.938333,-81.466667,M. Deyrup,1987
+2098,Pheidole.dentigula,G,native,3-May-87,3-May-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.938333,-81.466667,M. Deyrup,1987
+2098,Solenopsis.diplo,G,NA,3-May-87,3-May-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.938333,-81.466667,M. Deyrup,1987
+2099,Pheidole.bilimeki,G,alien,3-May-87,3-May-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.938333,-81.466667,M. Deyrup,1987
+2099,Solenopsis.diplo,G,NA,3-May-87,3-May-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.938333,-81.466667,M. Deyrup,1987
+2100,Pheidole.bilimeki,G,alien,3-May-87,3-May-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.938333,-81.466667,M. Deyrup,1987
+2100,Solenopsis.diplo,G,NA,3-May-87,3-May-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.938333,-81.466667,M. Deyrup,1987
+2101,Odontomachus.ruginodis,G,alien,3-May-87,3-May-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.938333,-81.466667,M. Deyrup,1987
+2101,Pheidole.bilimeki,G,alien,3-May-87,3-May-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.938333,-81.466667,M. Deyrup,1987
+2101,Solenopsis.diplo,G,NA,3-May-87,3-May-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.938333,-81.466667,M. Deyrup,1987
+2102,Pheidole.bilimeki,G,alien,3-May-87,3-May-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.938333,-81.466667,M. Deyrup,1987
+2102,Tapinoma.melanocephalum,G,alien,3-May-87,3-May-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.938333,-81.466667,M. Deyrup,1987
+2103,Pheidole.bilimeki,G,alien,3-May-87,3-May-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.938333,-81.466667,M. Deyrup,1987
+2104,Solenopsis.diplo,G,NA,3-May-87,3-May-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.938333,-81.466667,M. Deyrup,1987
+2105,Pheidole.bilimeki,G,alien,3-May-87,3-May-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.938333,-81.466667,M. Deyrup,1987
+2106,Nylanderia.concinna,G,native,3-May-87,3-May-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.938333,-81.466667,M. Deyrup,1987
+2106,Pheidole.bilimeki,G,alien,3-May-87,3-May-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.938333,-81.466667,M. Deyrup,1987
+2107,Nylanderia.concinna,G,native,3-May-87,3-May-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.938333,-81.466667,M. Deyrup,1987
+2107,Pheidole.bilimeki,G,alien,3-May-87,3-May-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.938333,-81.466667,M. Deyrup,1987
+2107,Solenopsis.diplo,G,NA,3-May-87,3-May-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.938333,-81.466667,M. Deyrup,1987
+2108,Pheidole.bilimeki,G,alien,3-May-87,3-May-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.938333,-81.466667,M. Deyrup,1987
+2108,Solenopsis.diplo,G,NA,3-May-87,3-May-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.938333,-81.466667,M. Deyrup,1987
+2109,Pheidole.bilimeki,G,alien,3-May-87,3-May-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.938333,-81.466667,M. Deyrup,1987
+2109,Solenopsis.diplo,G,NA,3-May-87,3-May-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.938333,-81.466667,M. Deyrup,1987
+2110,Crematogaster.minutissima,G,native,3-May-87,3-May-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.938333,-81.466667,M. Deyrup,1987
+2110,Hypoponera.punctatissima,G,alien,3-May-87,3-May-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.938333,-81.466667,M. Deyrup,1987
+2110,Nylanderia.concinna,G,native,3-May-87,3-May-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.938333,-81.466667,M. Deyrup,1987
+2110,Pheidole.bilimeki,G,alien,3-May-87,3-May-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.938333,-81.466667,M. Deyrup,1987
+2110,Solenopsis.diplo,G,NA,3-May-87,3-May-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.938333,-81.466667,M. Deyrup,1987
+2111,Nylanderia.concinna,G,native,3-May-87,3-May-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.938333,-81.466667,M. Deyrup,1987
+2111,Odontomachus.ruginodis,G,alien,3-May-87,3-May-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.938333,-81.466667,M. Deyrup,1987
+2111,Pheidole.bilimeki,G,alien,3-May-87,3-May-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.938333,-81.466667,M. Deyrup,1987
+2111,Solenopsis.diplo,G,NA,3-May-87,3-May-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.938333,-81.466667,M. Deyrup,1987
+2112,Nylanderia.concinna,G,native,3-May-87,3-May-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.938333,-81.466667,M. Deyrup,1987
+2112,Pheidole.bilimeki,G,alien,3-May-87,3-May-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.938333,-81.466667,M. Deyrup,1987
+2112,Solenopsis.diplo,G,NA,3-May-87,3-May-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.938333,-81.466667,M. Deyrup,1987
+2113,Pheidole.bilimeki,G,alien,3-May-87,3-May-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.938333,-81.466667,M. Deyrup,1987
+2113,Solenopsis.diplo,G,NA,3-May-87,3-May-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.938333,-81.466667,M. Deyrup,1987
+2114,Nylanderia.concinna,G,native,3-May-87,3-May-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.938333,-81.466667,M. Deyrup,1987
+2114,Solenopsis.diplo,G,NA,3-May-87,3-May-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.938333,-81.466667,M. Deyrup,1987
+2115,Nylanderia.concinna,G,native,3-May-87,3-May-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.938333,-81.466667,M. Deyrup,1987
+2116,Hypoponera.opacior,G,native,3-May-87,3-May-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.938333,-81.466667,M. Deyrup,1987
+2116,Odontomachus.ruginodis,G,alien,3-May-87,3-May-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.938333,-81.466667,M. Deyrup,1987
+2116,Pheidole.bilimeki,G,alien,3-May-87,3-May-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.938333,-81.466667,M. Deyrup,1987
+2116,Solenopsis.diplo,G,NA,3-May-87,3-May-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.938333,-81.466667,M. Deyrup,1987
+2116,Strumigenys.emmae,G,alien,3-May-87,3-May-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.938333,-81.466667,M. Deyrup,1987
+2116,Strumigenys.louisianae,G,native,3-May-87,3-May-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.938333,-81.466667,M. Deyrup,1987
+2117,Pheidole.bilimeki,G,alien,3-May-87,3-May-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.938333,-81.466667,M. Deyrup,1987
+2117,Solenopsis.diplo,G,NA,3-May-87,3-May-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.938333,-81.466667,M. Deyrup,1987
+2118,Pheidole.bilimeki,G,alien,3-May-87,3-May-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.938333,-81.466667,M. Deyrup,1987
+2118,Solenopsis.diplo,G,NA,3-May-87,3-May-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.938333,-81.466667,M. Deyrup,1987
+2119,Aphaenogaster.miamiana/carolinensis,G,native,3-May-87,3-May-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.938333,-81.466667,M. Deyrup,1987
+2119,Pheidole.navigans,G,alien,3-May-87,3-May-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.938333,-81.466667,M. Deyrup,1987
+2119,Strumigenys.emmae,G,alien,3-May-87,3-May-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.938333,-81.466667,M. Deyrup,1987
+2120,Hypoponera.punctatissima,G,alien,3-May-87,3-May-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.938333,-81.466667,M. Deyrup,1987
+2120,Odontomachus.ruginodis,G,alien,3-May-87,3-May-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.938333,-81.466667,M. Deyrup,1987
+2120,Pheidole.bilimeki,G,alien,3-May-87,3-May-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.938333,-81.466667,M. Deyrup,1987
+2120,Solenopsis.diplo,G,NA,3-May-87,3-May-87,Fakahatchee Strand Preserve SP,berlese,S,H,25.938333,-81.466667,M. Deyrup,1987
+2411,Monomorium.sp.,G,NA,1-Feb-88,1-Feb-88,Collier-Seminole SP,museum,,,25.994697,-81.59252,M. Deyrup,1988
+2411,Pheidole.dentigula,G,native,1-Feb-88,1-Feb-88,Collier-Seminole SP,museum,,,25.994697,-81.59252,M. Deyrup,1988
+2411,Pseudomyrmex.ejectus,A,native,1-Feb-88,1-Feb-88,Collier-Seminole SP,museum,,,25.994697,-81.59252,M. Deyrup,1988
+2411,Tapinoma.litorale,G,alien,1-Feb-88,1-Feb-88,Collier-Seminole SP,museum,,,25.994697,-81.59252,M. Deyrup,1988
+2457,Solenopsis.globularia,G,native,19-Feb-88,19-Feb-88,Wekiva Springs SP,museum,,SH,28.736474,-81.479603,David T. Corey,1988
+2480,Camponotus.castaneus,G,native,13-May-88,13-May-88,Wekiva Springs SP,museum,,SH,28.736474,-81.479603,David Corey,1988
+2595,Brachymyrmex.depilis,G,native,12-Sep-88,12-Sep-88,Collier-Seminole SP,berlese,D,H,25.994697,-81.59252,M. Deyrup,1988
+2595,Hypoponera.opacior,G,native,12-Sep-88,12-Sep-88,Collier-Seminole SP,berlese,D,H,25.994697,-81.59252,M. Deyrup,1988
+2595,Odontomachus.brunneus,G,native,12-Sep-88,12-Sep-88,Collier-Seminole SP,berlese,D,H,25.994697,-81.59252,M. Deyrup,1988
+2595,Wasmannia.auropunctata,G,alien,12-Sep-88,12-Sep-88,Collier-Seminole SP,berlese,D,H,25.994697,-81.59252,M. Deyrup,1988
+2596,Brachymyrmex.depilis,G,native,12-Sep-88,12-Sep-88,Collier-Seminole SP,berlese,D,H,25.994697,-81.59252,M. Deyrup,1988
+2596,Hypoponera.opacior,G,native,12-Sep-88,12-Sep-88,Collier-Seminole SP,berlese,D,H,25.994697,-81.59252,M. Deyrup,1988
+2596,Odontomachus.brunneus,G,native,12-Sep-88,12-Sep-88,Collier-Seminole SP,berlese,D,H,25.994697,-81.59252,M. Deyrup,1988
+2596,Solenopsis.diplo,G,NA,12-Sep-88,12-Sep-88,Collier-Seminole SP,berlese,D,H,25.994697,-81.59252,M. Deyrup,1988
+2596,Strumigenys.emmae,G,alien,12-Sep-88,12-Sep-88,Collier-Seminole SP,berlese,D,H,25.994697,-81.59252,M. Deyrup,1988
+2596,Wasmannia.auropunctata,G,alien,12-Sep-88,12-Sep-88,Collier-Seminole SP,berlese,D,H,25.994697,-81.59252,M. Deyrup,1988
+2597,Brachymyrmex.depilis,G,native,12-Sep-88,12-Sep-88,Collier-Seminole SP,berlese,D,H,25.994697,-81.59252,M. Deyrup,1988
+2597,Hypoponera.opacior,G,native,12-Sep-88,12-Sep-88,Collier-Seminole SP,berlese,D,H,25.994697,-81.59252,M. Deyrup,1988
+2597,Solenopsis.diplo,G,NA,12-Sep-88,12-Sep-88,Collier-Seminole SP,berlese,D,H,25.994697,-81.59252,M. Deyrup,1988
+2598,Hypoponera.opacior,G,native,12-Sep-88,12-Sep-88,Collier-Seminole SP,berlese,D,H,25.994697,-81.59252,M. Deyrup,1988
+2598,Odontomachus.brunneus,G,native,12-Sep-88,12-Sep-88,Collier-Seminole SP,berlese,D,H,25.994697,-81.59252,M. Deyrup,1988
+2598,Solenopsis.diplo,G,NA,12-Sep-88,12-Sep-88,Collier-Seminole SP,berlese,D,H,25.994697,-81.59252,M. Deyrup,1988
+2598,Wasmannia.auropunctata,G,alien,12-Sep-88,12-Sep-88,Collier-Seminole SP,berlese,D,H,25.994697,-81.59252,M. Deyrup,1988
+2599,Brachymyrmex.depilis,G,native,12-Sep-88,12-Sep-88,Collier-Seminole SP,berlese,D,H,25.994697,-81.59252,M. Deyrup,1988
+2599,Hypoponera.opacior,G,native,12-Sep-88,12-Sep-88,Collier-Seminole SP,berlese,D,H,25.994697,-81.59252,M. Deyrup,1988
+2599,Wasmannia.auropunctata,G,alien,12-Sep-88,12-Sep-88,Collier-Seminole SP,berlese,D,H,25.994697,-81.59252,M. Deyrup,1988
+2600,Brachymyrmex.depilis,G,native,12-Sep-88,12-Sep-88,Collier-Seminole SP,berlese,D,H,25.994697,-81.59252,M. Deyrup,1988
+2600,Hypoponera.opacior,G,native,12-Sep-88,12-Sep-88,Collier-Seminole SP,berlese,D,H,25.994697,-81.59252,M. Deyrup,1988
+2600,Odontomachus.brunneus,G,native,12-Sep-88,12-Sep-88,Collier-Seminole SP,berlese,D,H,25.994697,-81.59252,M. Deyrup,1988
+2600,Wasmannia.auropunctata,G,alien,12-Sep-88,12-Sep-88,Collier-Seminole SP,berlese,D,H,25.994697,-81.59252,M. Deyrup,1988
+2601,Brachymyrmex.depilis,G,native,12-Sep-88,12-Sep-88,Collier-Seminole SP,berlese,D,H,25.994697,-81.59252,M. Deyrup,1988
+2601,Hypoponera.opacior,G,native,12-Sep-88,12-Sep-88,Collier-Seminole SP,berlese,D,H,25.994697,-81.59252,M. Deyrup,1988
+2601,Pheidole.bilimeki,G,alien,12-Sep-88,12-Sep-88,Collier-Seminole SP,berlese,D,H,25.994697,-81.59252,M. Deyrup,1988
+2601,Solenopsis.diplo,G,NA,12-Sep-88,12-Sep-88,Collier-Seminole SP,berlese,D,H,25.994697,-81.59252,M. Deyrup,1988
+2601,Wasmannia.auropunctata,G,alien,12-Sep-88,12-Sep-88,Collier-Seminole SP,berlese,D,H,25.994697,-81.59252,M. Deyrup,1988
+2602,Pheidole.bilimeki,G,alien,12-Sep-88,12-Sep-88,Collier-Seminole SP,berlese,D,H,25.994697,-81.59252,M. Deyrup,1988
+2602,Solenopsis.diplo,G,NA,12-Sep-88,12-Sep-88,Collier-Seminole SP,berlese,D,H,25.994697,-81.59252,M. Deyrup,1988
+2602,Wasmannia.auropunctata,G,alien,12-Sep-88,12-Sep-88,Collier-Seminole SP,berlese,D,H,25.994697,-81.59252,M. Deyrup,1988
+2603,Brachymyrmex.depilis,G,native,12-Sep-88,12-Sep-88,Collier-Seminole SP,berlese,D,H,25.994697,-81.59252,M. Deyrup,1988
+2603,Hypoponera.opacior,G,native,12-Sep-88,12-Sep-88,Collier-Seminole SP,berlese,D,H,25.994697,-81.59252,M. Deyrup,1988
+2603,Wasmannia.auropunctata,G,alien,12-Sep-88,12-Sep-88,Collier-Seminole SP,berlese,D,H,25.994697,-81.59252,M. Deyrup,1988
+2604,Brachymyrmex.depilis,G,native,12-Sep-88,12-Sep-88,Collier-Seminole SP,berlese,D,H,25.994697,-81.59252,M. Deyrup,1988
+2604,Hypoponera.opaciceps,G,alien,12-Sep-88,12-Sep-88,Collier-Seminole SP,berlese,D,H,25.994697,-81.59252,M. Deyrup,1988
+2605,Hypoponera.opacior,G,native,12-Sep-88,12-Sep-88,Collier-Seminole SP,berlese,D,H,25.994697,-81.59252,M. Deyrup,1988
+2606,Tapinoma.litorale,G,alien,12-Sep-88,12-Sep-88,Collier-Seminole SP,berlese,D,H,25.994697,-81.59252,M. Deyrup,1988
+2852,Strumigenys.ornata,G,native,1989,1989,Longino Ranch,museum,,,27.194199,-82.089477,,1989
+2859,Pseudomyrmex.pallidus,A,native,1989,1989,Payne's Prairie Preserve SP,museum,,,29.520249,-82.293353,,1989
+2882,Pseudomyrmex.simplex,A,native,1-Feb-89,1-Feb-89,Collier-Seminole SP,museum,,,25.994697,-81.59252,M. Deyrup,1989
+3024,Nylanderia.bourbonica,G,alien,6-Jul-89,6-Jul-89,Ferguson River,museum,,,25.866,-81.441,Edward Barrows,1989
+3134,Nylanderia.wojciki,G,native,4-Nov-89,4-Nov-89,Wekiva Springs SP,berlese,,,28.736474,-81.479603,M. Deyrup,1989
+3134,Pheidole.dentigula,G,native,4-Nov-89,4-Nov-89,Wekiva Springs SP,berlese,,,28.736474,-81.479603,M. Deyrup,1989
+3134,Solenopsis.diplo,G,NA,4-Nov-89,4-Nov-89,Wekiva Springs SP,berlese,,,28.736474,-81.479603,M. Deyrup,1989
+3135,Hypoponera.opacior,G,native,4-Nov-89,4-Nov-89,Wekiva Springs SP,berlese,,,28.736474,-81.479603,M. Deyrup,1989
+3135,Solenopsis.diplo,G,NA,4-Nov-89,4-Nov-89,Wekiva Springs SP,berlese,,,28.736474,-81.479603,M. Deyrup,1989
+3136,Hypoponera.opacior,G,native,4-Nov-89,4-Nov-89,Wekiva Springs SP,berlese,,,28.736474,-81.479603,M. Deyrup,1989
+3136,Pheidole.dentata,G,native,4-Nov-89,4-Nov-89,Wekiva Springs SP,berlese,,,28.736474,-81.479603,M. Deyrup,1989
+3136,Solenopsis.diplo,G,NA,4-Nov-89,4-Nov-89,Wekiva Springs SP,berlese,,,28.736474,-81.479603,M. Deyrup,1989
+3137,Brachymyrmex.depilis,G,native,4-Nov-89,4-Nov-89,Wekiva Springs SP,berlese,,,28.736474,-81.479603,M. Deyrup,1989
+3137,Nylanderia.arenivaga,G,native,4-Nov-89,4-Nov-89,Wekiva Springs SP,berlese,,,28.736474,-81.479603,M. Deyrup,1989
+3137,Pheidole.navigans,G,alien,4-Nov-89,4-Nov-89,Wekiva Springs SP,berlese,,,28.736474,-81.479603,M. Deyrup,1989
+3137,Strumigenys.eggersi,G,alien,4-Nov-89,4-Nov-89,Wekiva Springs SP,berlese,,,28.736474,-81.479603,M. Deyrup,1989
+3138,Pheidole.dentigula,G,native,4-Nov-89,4-Nov-89,Wekiva Springs SP,berlese,,,28.736474,-81.479603,M. Deyrup,1989
+3138,Solenopsis.diplo,G,NA,4-Nov-89,4-Nov-89,Wekiva Springs SP,berlese,,,28.736474,-81.479603,M. Deyrup,1989
+3138,Strumigenys.eggersi,G,alien,4-Nov-89,4-Nov-89,Wekiva Springs SP,berlese,,,28.736474,-81.479603,M. Deyrup,1989
+3138,Strumigenys.rogeri,G,alien,4-Nov-89,4-Nov-89,Wekiva Springs SP,berlese,,,28.736474,-81.479603,M. Deyrup,1989
+3139,Brachymyrmex.depilis,G,native,4-Nov-89,4-Nov-89,Wekiva Springs SP,berlese,,,28.736474,-81.479603,M. Deyrup,1989
+3139,Pheidole.dentigula,G,native,4-Nov-89,4-Nov-89,Wekiva Springs SP,berlese,,,28.736474,-81.479603,M. Deyrup,1989
+3139,Solenopsis.diplo,G,NA,4-Nov-89,4-Nov-89,Wekiva Springs SP,berlese,,,28.736474,-81.479603,M. Deyrup,1989
+3139,Strumigenys.emmae,G,alien,4-Nov-89,4-Nov-89,Wekiva Springs SP,berlese,,,28.736474,-81.479603,M. Deyrup,1989
+3139,Strumigenys.ornata,G,native,4-Nov-89,4-Nov-89,Wekiva Springs SP,berlese,,,28.736474,-81.479603,M. Deyrup,1989
+3140,Pheidole.dentata,G,native,4-Nov-89,4-Nov-89,Wekiva Springs SP,berlese,,,28.736474,-81.479603,M. Deyrup,1989
+3141,Solenopsis.diplo,G,NA,4-Nov-89,4-Nov-89,Wekiva Springs SP,berlese,,,28.736474,-81.479603,M. Deyrup,1989
+3142,Hypoponera.opacior,G,native,4-Nov-89,4-Nov-89,Wekiva Springs SP,berlese,,,28.736474,-81.479603,M. Deyrup,1989
+3142,Pheidole.dentata,G,native,4-Nov-89,4-Nov-89,Wekiva Springs SP,berlese,,,28.736474,-81.479603,M. Deyrup,1989
+3142,Strumigenys.ornata,G,native,4-Nov-89,4-Nov-89,Wekiva Springs SP,berlese,,,28.736474,-81.479603,M. Deyrup,1989
+3143,Brachymyrmex.depilis,G,native,4-Nov-89,4-Nov-89,Wekiva Springs SP,museum,,,28.736474,-81.479603,M. Deyrup,1989
+3143,Pseudomyrmex.seminole,A,native,4-Nov-89,4-Nov-89,Wekiva Springs SP,museum,,,28.736474,-81.479603,M. Deyrup,1989
+3143,Solenopsis.diplo,G,NA,4-Nov-89,4-Nov-89,Wekiva Springs SP,museum,,,28.736474,-81.479603,M. Deyrup,1989
+3143,Strumigenys.eggersi,G,alien,4-Nov-89,4-Nov-89,Wekiva Springs SP,museum,,,28.736474,-81.479603,M. Deyrup,1989
+3143,Strumigenys.emmae,G,alien,4-Nov-89,4-Nov-89,Wekiva Springs SP,museum,,,28.736474,-81.479603,M. Deyrup,1989
+3435,Crematogaster.lineolata,G,native,17-Jun-90,17-Jun-90,Withlacoochie NF,berlese,U,H,28.75,-82.366667,M. Deyrup,1990
+3435,Cyphomyrmex.rimosus,G,alien,17-Jun-90,17-Jun-90,Withlacoochie NF,berlese,U,H,28.75,-82.366667,M. Deyrup,1990
+3435,Hypoponera.opacior,G,native,17-Jun-90,17-Jun-90,Withlacoochie NF,berlese,U,H,28.75,-82.366667,M. Deyrup,1990
+3435,Nylanderia.faisonensis,G,native,17-Jun-90,17-Jun-90,Withlacoochie NF,berlese,U,H,28.75,-82.366667,M. Deyrup,1990
+3435,Solenopsis.diplo,G,NA,17-Jun-90,17-Jun-90,Withlacoochie NF,berlese,U,H,28.75,-82.366667,M. Deyrup,1990
+3435,Strumigenys.ornata,G,native,17-Jun-90,17-Jun-90,Withlacoochie NF,berlese,U,H,28.75,-82.366667,M. Deyrup,1990
+3436,no ants.no ants,,NA,17-Jun-90,17-Jun-90,Withlacoochie NF,berlese,U,H,28.75,-82.366667,M. Deyrup,1990
+3437,Cyphomyrmex.rimosus,G,alien,17-Jun-90,17-Jun-90,Withlacoochie NF,berlese,U,H,28.75,-82.366667,M. Deyrup,1990
+3437,Pheidole.dentata,G,native,17-Jun-90,17-Jun-90,Withlacoochie NF,berlese,U,H,28.75,-82.366667,M. Deyrup,1990
+3437,Solenopsis.diplo,G,NA,17-Jun-90,17-Jun-90,Withlacoochie NF,berlese,U,H,28.75,-82.366667,M. Deyrup,1990
+3438,Hypoponera.opacior,G,native,17-Jun-90,17-Jun-90,Withlacoochie NF,berlese,U,H,28.75,-82.366667,M. Deyrup,1990
+3439,Crematogaster.lineolata,G,native,17-Jun-90,17-Jun-90,Withlacoochie NF,berlese,U,H,28.75,-82.366667,M. Deyrup,1990
+3439,Nylanderia.faisonensis,G,native,17-Jun-90,17-Jun-90,Withlacoochie NF,berlese,U,H,28.75,-82.366667,M. Deyrup,1990
+3439,Pheidole.dentata,G,native,17-Jun-90,17-Jun-90,Withlacoochie NF,berlese,U,H,28.75,-82.366667,M. Deyrup,1990
+3439,Pheidole.dentigula,G,native,17-Jun-90,17-Jun-90,Withlacoochie NF,berlese,U,H,28.75,-82.366667,M. Deyrup,1990
+3439,Solenopsis.diplo,G,NA,17-Jun-90,17-Jun-90,Withlacoochie NF,berlese,U,H,28.75,-82.366667,M. Deyrup,1990
+3439,Strumigenys.membranifera,G,alien,17-Jun-90,17-Jun-90,Withlacoochie NF,berlese,U,H,28.75,-82.366667,M. Deyrup,1990
+3440,Aphaenogaster.miamiana/carolinensis,G,native,17-Jun-90,17-Jun-90,Withlacoochie NF,berlese,U,H,28.75,-82.366667,M. Deyrup,1990
+3440,Solenopsis.diplo,G,NA,17-Jun-90,17-Jun-90,Withlacoochie NF,berlese,U,H,28.75,-82.366667,M. Deyrup,1990
+3441,Pheidole.dentigula,G,native,17-Jun-90,17-Jun-90,Withlacoochie NF,berlese,U,H,28.75,-82.366667,M. Deyrup,1990
+3441,Solenopsis.geminata,G,native,17-Jun-90,17-Jun-90,Withlacoochie NF,berlese,U,H,28.75,-82.366667,M. Deyrup,1990
+3441,Strumigenys.membranifera,G,alien,17-Jun-90,17-Jun-90,Withlacoochie NF,berlese,U,H,28.75,-82.366667,M. Deyrup,1990
+3441,Strumigenys.ornata,G,native,17-Jun-90,17-Jun-90,Withlacoochie NF,berlese,U,H,28.75,-82.366667,M. Deyrup,1990
+3442,Cyphomyrmex.minutus,G,alien,17-Jun-90,17-Jun-90,Withlacoochie NF,berlese,U,H,28.75,-82.366667,M. Deyrup,1990
+3442,Pheidole.dentigula,G,native,17-Jun-90,17-Jun-90,Withlacoochie NF,berlese,U,H,28.75,-82.366667,M. Deyrup,1990
+3442,Solenopsis.geminata,G,native,17-Jun-90,17-Jun-90,Withlacoochie NF,berlese,U,H,28.75,-82.366667,M. Deyrup,1990
+3442,Strumigenys.membranifera,G,alien,17-Jun-90,17-Jun-90,Withlacoochie NF,berlese,U,H,28.75,-82.366667,M. Deyrup,1990
+3443,Aphaenogaster.miamiana/carolinensis,G,native,17-Jun-90,17-Jun-90,Withlacoochie NF,berlese,U,H,28.75,-82.366667,M. Deyrup,1990
+3444,no ants.no ants,,NA,17-Jun-90,17-Jun-90,Withlacoochie NF,berlese,U,H,28.75,-82.366667,M. Deyrup,1990
+3445,Aphaenogaster.miamiana/carolinensis,G,native,17-Jun-90,17-Jun-90,Withlacoochie NF,berlese,U,H,28.75,-82.366667,M. Deyrup,1990
+3445,Crematogaster.lineolata,G,native,17-Jun-90,17-Jun-90,Withlacoochie NF,berlese,U,H,28.75,-82.366667,M. Deyrup,1990
+3445,Nylanderia.wojciki,G,native,17-Jun-90,17-Jun-90,Withlacoochie NF,berlese,U,H,28.75,-82.366667,M. Deyrup,1990
+3445,Solenopsis.diplo,G,NA,17-Jun-90,17-Jun-90,Withlacoochie NF,berlese,U,H,28.75,-82.366667,M. Deyrup,1990
+3446,Aphaenogaster.miamiana/carolinensis,G,native,17-Jun-90,17-Jun-90,Withlacoochie NF,berlese,U,H,28.75,-82.366667,M. Deyrup,1990
+3446,Pheidole.dentigula,G,native,17-Jun-90,17-Jun-90,Withlacoochie NF,berlese,U,H,28.75,-82.366667,M. Deyrup,1990
+3446,Solenopsis.diplo,G,NA,17-Jun-90,17-Jun-90,Withlacoochie NF,berlese,U,H,28.75,-82.366667,M. Deyrup,1990
+3447,Aphaenogaster.miamiana/carolinensis,G,native,17-Jun-90,17-Jun-90,Withlacoochie NF,berlese,U,H,28.75,-82.366667,M. Deyrup,1990
+3447,Solenopsis.diplo,G,NA,17-Jun-90,17-Jun-90,Withlacoochie NF,berlese,U,H,28.75,-82.366667,M. Deyrup,1990
+3447,Strumigenys.louisianae,G,native,17-Jun-90,17-Jun-90,Withlacoochie NF,berlese,U,H,28.75,-82.366667,M. Deyrup,1990
+3448,Pheidole.dentigula,G,native,17-Jun-90,17-Jun-90,Withlacoochie NF,berlese,U,H,28.75,-82.366667,M. Deyrup,1990
+3448,Solenopsis.diplo,G,NA,17-Jun-90,17-Jun-90,Withlacoochie NF,berlese,U,H,28.75,-82.366667,M. Deyrup,1990
+3449,Aphaenogaster.miamiana/carolinensis,G,native,17-Jun-90,17-Jun-90,Withlacoochie NF,berlese,U,H,28.75,-82.366667,M. Deyrup,1990
+3449,Crematogaster.lineolata,G,native,17-Jun-90,17-Jun-90,Withlacoochie NF,berlese,U,H,28.75,-82.366667,M. Deyrup,1990
+3449,Hypoponera.opacior,G,native,17-Jun-90,17-Jun-90,Withlacoochie NF,berlese,U,H,28.75,-82.366667,M. Deyrup,1990
+3450,Crematogaster.lineolata,G,native,17-Jun-90,17-Jun-90,Withlacoochie NF,berlese,U,H,28.75,-82.366667,M. Deyrup,1990
+3450,Hypoponera.opacior,G,native,17-Jun-90,17-Jun-90,Withlacoochie NF,berlese,U,H,28.75,-82.366667,M. Deyrup,1990
+3451,Crematogaster.lineolata,G,native,17-Jun-90,17-Jun-90,Withlacoochie NF,berlese,U,H,28.75,-82.366667,M. Deyrup,1990
+3451,Nylanderia.wojciki,G,native,17-Jun-90,17-Jun-90,Withlacoochie NF,berlese,U,H,28.75,-82.366667,M. Deyrup,1990
+3451,Solenopsis.diplo,G,NA,17-Jun-90,17-Jun-90,Withlacoochie NF,berlese,U,H,28.75,-82.366667,M. Deyrup,1990
+3451,Strumigenys.ornata,G,native,17-Jun-90,17-Jun-90,Withlacoochie NF,berlese,U,H,28.75,-82.366667,M. Deyrup,1990
+3452,Solenopsis.diplo,G,NA,17-Jun-90,17-Jun-90,Withlacoochie NF,berlese,U,H,28.75,-82.366667,M. Deyrup,1990
+3453,Aphaenogaster.miamiana/carolinensis,G,native,17-Jun-90,17-Jun-90,Withlacoochie NF,museum,U,H,28.75,-82.366667,M. Deyrup,1990
+3453,Camponotus.floridanus,G,native,17-Jun-90,17-Jun-90,Withlacoochie NF,museum,U,H,28.75,-82.366667,M. Deyrup,1990
+3453,Camponotus.socius,G,native,17-Jun-90,17-Jun-90,Withlacoochie NF,museum,U,H,28.75,-82.366667,M. Deyrup,1990
+3453,Crematogaster.lineolata,G,native,17-Jun-90,17-Jun-90,Withlacoochie NF,museum,U,H,28.75,-82.366667,M. Deyrup,1990
+3453,Cyphomyrmex.rimosus,G,alien,17-Jun-90,17-Jun-90,Withlacoochie NF,museum,U,H,28.75,-82.366667,M. Deyrup,1990
+3453,Dorymyrmex.bossuta,G,native,17-Jun-90,17-Jun-90,Withlacoochie NF,museum,U,H,28.75,-82.366667,M. Deyrup,1990
+3453,Dorymyrmex.smithi,G,native,17-Jun-90,17-Jun-90,Withlacoochie NF,museum,U,H,28.75,-82.366667,M. Deyrup,1990
+3453,Forelius.pruinosus,G,native,17-Jun-90,17-Jun-90,Withlacoochie NF,museum,U,H,28.75,-82.366667,M. Deyrup,1990
+3453,Hypoponera.opacior,G,native,17-Jun-90,17-Jun-90,Withlacoochie NF,museum,U,H,28.75,-82.366667,M. Deyrup,1990
+3453,Nylanderia.faisonensis,G,native,17-Jun-90,17-Jun-90,Withlacoochie NF,museum,U,H,28.75,-82.366667,M. Deyrup,1990
+3453,Nylanderia.wojciki,G,native,17-Jun-90,17-Jun-90,Withlacoochie NF,museum,U,H,28.75,-82.366667,M. Deyrup,1990
+3453,Pheidole.dentata,G,native,17-Jun-90,17-Jun-90,Withlacoochie NF,museum,U,H,28.75,-82.366667,M. Deyrup,1990
+3453,Pheidole.dentigula,G,native,17-Jun-90,17-Jun-90,Withlacoochie NF,museum,U,H,28.75,-82.366667,M. Deyrup,1990
+3453,Solenopsis.diplo,G,NA,17-Jun-90,17-Jun-90,Withlacoochie NF,museum,U,H,28.75,-82.366667,M. Deyrup,1990
+3453,Solenopsis.geminata,G,native,17-Jun-90,17-Jun-90,Withlacoochie NF,museum,U,H,28.75,-82.366667,M. Deyrup,1990
+3453,Strumigenys.louisianae,G,native,17-Jun-90,17-Jun-90,Withlacoochie NF,museum,U,H,28.75,-82.366667,M. Deyrup,1990
+3453,Strumigenys.membranifera,G,alien,17-Jun-90,17-Jun-90,Withlacoochie NF,museum,U,H,28.75,-82.366667,M. Deyrup,1990
+3453,Strumigenys.ornata,G,native,17-Jun-90,17-Jun-90,Withlacoochie NF,museum,U,H,28.75,-82.366667,M. Deyrup,1990
+3456,Aphaenogaster.miamiana/carolinensis,G,native,19-Jun-90,19-Jun-90,Withlacoochie NF,berlese,U,H,28.607391,-82.359957,M. Deyrup,1990
+3456,Hypoponera.opacior,G,native,19-Jun-90,19-Jun-90,Withlacoochie NF,berlese,U,H,28.607391,-82.359957,M. Deyrup,1990
+3456,Nylanderia.faisonensis,G,native,19-Jun-90,19-Jun-90,Withlacoochie NF,berlese,U,H,28.607391,-82.359957,M. Deyrup,1990
+3456,Solenopsis.diplo,G,NA,19-Jun-90,19-Jun-90,Withlacoochie NF,berlese,U,H,28.607391,-82.359957,M. Deyrup,1990
+3459,Solenopsis.diplo,G,NA,19-Jun-90,19-Jun-90,Withlacoochie NF,berlese,U,H,28.607391,-82.359957,M. Deyrup,1990
+3462,Crematogaster.ashmeadi,G,native,19-Jun-90,19-Jun-90,Withlacoochie NF,berlese,U,H,28.607391,-82.359957,M. Deyrup,1990
+3462,Crematogaster.lineolata,G,native,19-Jun-90,19-Jun-90,Withlacoochie NF,berlese,U,H,28.607391,-82.359957,M. Deyrup,1990
+3462,Nylanderia.faisonensis,G,native,19-Jun-90,19-Jun-90,Withlacoochie NF,berlese,U,H,28.607391,-82.359957,M. Deyrup,1990
+3462,Solenopsis.diplo,G,NA,19-Jun-90,19-Jun-90,Withlacoochie NF,berlese,U,H,28.607391,-82.359957,M. Deyrup,1990
+3462,Strumigenys.hexamera,G,alien,19-Jun-90,19-Jun-90,Withlacoochie NF,berlese,U,H,28.607391,-82.359957,M. Deyrup,1990
+3465,no ants.no ants,,NA,19-Jun-90,19-Jun-90,Withlacoochie NF,berlese,U,H,28.607391,-82.359957,M. Deyrup,1990
+3468,Crematogaster.lineolata,G,native,19-Jun-90,19-Jun-90,Withlacoochie NF,berlese,U,H,28.607391,-82.359957,M. Deyrup,1990
+3468,Hypoponera.opacior,G,native,19-Jun-90,19-Jun-90,Withlacoochie NF,berlese,U,H,28.607391,-82.359957,M. Deyrup,1990
+3468,Nylanderia.faisonensis,G,native,19-Jun-90,19-Jun-90,Withlacoochie NF,berlese,U,H,28.607391,-82.359957,M. Deyrup,1990
+3468,Pheidole.dentigula,G,native,19-Jun-90,19-Jun-90,Withlacoochie NF,berlese,U,H,28.607391,-82.359957,M. Deyrup,1990
+3468,Solenopsis.diplo,G,NA,19-Jun-90,19-Jun-90,Withlacoochie NF,berlese,U,H,28.607391,-82.359957,M. Deyrup,1990
+3470,Pheidole.dentigula,G,native,19-Jun-90,19-Jun-90,Withlacoochie NF,berlese,U,H,28.607391,-82.359957,M. Deyrup,1990
+3472,Brachymyrmex.depilis,G,native,19-Jun-90,19-Jun-90,Withlacoochie NF,berlese,U,H,28.607391,-82.359957,M. Deyrup,1990
+3472,Nylanderia.faisonensis,G,native,19-Jun-90,19-Jun-90,Withlacoochie NF,berlese,U,H,28.607391,-82.359957,M. Deyrup,1990
+3474,Crematogaster.lineolata,G,native,19-Jun-90,19-Jun-90,Withlacoochie NF,berlese,U,H,28.607391,-82.359957,M. Deyrup,1990
+3474,Solenopsis.diplo,G,NA,19-Jun-90,19-Jun-90,Withlacoochie NF,berlese,U,H,28.607391,-82.359957,M. Deyrup,1990
+3476,Pheidole.dentigula,G,native,19-Jun-90,19-Jun-90,Withlacoochie NF,berlese,U,H,28.607391,-82.359957,M. Deyrup,1990
+3478,Hypoponera.opacior,G,native,19-Jun-90,19-Jun-90,Withlacoochie NF,berlese,U,H,28.607391,-82.359957,M. Deyrup,1990
+3478,Solenopsis.diplo,G,NA,19-Jun-90,19-Jun-90,Withlacoochie NF,berlese,U,H,28.607391,-82.359957,M. Deyrup,1990
+3482,Aphaenogaster.miamiana/carolinensis,G,native,19-Jun-90,19-Jun-90,Withlacoochie NF,museum,U,H,28.607391,-82.359957,M. Deyrup,1990
+3482,Brachymyrmex.depilis,G,native,19-Jun-90,19-Jun-90,Withlacoochie NF,museum,U,H,28.607391,-82.359957,M. Deyrup,1990
+3482,Camponotus.floridanus,G,native,19-Jun-90,19-Jun-90,Withlacoochie NF,museum,U,H,28.607391,-82.359957,M. Deyrup,1990
+3482,Crematogaster.ashmeadi,G,native,19-Jun-90,19-Jun-90,Withlacoochie NF,museum,U,H,28.607391,-82.359957,M. Deyrup,1990
+3482,Crematogaster.lineolata,G,native,19-Jun-90,19-Jun-90,Withlacoochie NF,museum,U,H,28.607391,-82.359957,M. Deyrup,1990
+3482,Hypoponera.opacior,G,native,19-Jun-90,19-Jun-90,Withlacoochie NF,museum,U,H,28.607391,-82.359957,M. Deyrup,1990
+3482,Nylanderia.faisonensis,G,native,19-Jun-90,19-Jun-90,Withlacoochie NF,museum,U,H,28.607391,-82.359957,M. Deyrup,1990
+3482,Pheidole.dentigula,G,native,19-Jun-90,19-Jun-90,Withlacoochie NF,museum,U,H,28.607391,-82.359957,M. Deyrup,1990
+3482,Pogonomyrmex.badius,G,native,19-Jun-90,19-Jun-90,Withlacoochie NF,museum,U,H,28.607391,-82.359957,M. Deyrup,1990
+3482,Solenopsis.diplo,G,NA,19-Jun-90,19-Jun-90,Withlacoochie NF,museum,U,H,28.607391,-82.359957,M. Deyrup,1990
+3482,Solenopsis.invicta,G,alien,19-Jun-90,19-Jun-90,Withlacoochie NF,museum,U,H,28.607391,-82.359957,M. Deyrup,1990
+3482,Strumigenys.hexamera,G,alien,19-Jun-90,19-Jun-90,Withlacoochie NF,museum,U,H,28.607391,-82.359957,M. Deyrup,1990
+3482,Trachymyrmex.septentrionalis,G,native,19-Jun-90,19-Jun-90,Withlacoochie NF,museum,U,H,28.607391,-82.359957,M. Deyrup,1990
+3824,Cyphomyrmex.rimosus,G,alien,1-Jan-91,1-Jan-91,Osceola NF,museum,,,30.382,-82.331,"Lloyd R. Davis, Jr.",1991
+3824,Monomorium.viridum,G,native,1-Jan-91,1-Jan-91,Osceola NF,museum,,,30.382,-82.331,"Lloyd R. Davis, Jr.",1991
+3824,Odontomachus.brunneus,G,native,1-Jan-91,1-Jan-91,Osceola NF,museum,,,30.382,-82.331,"Lloyd R. Davis, Jr.",1991
+3824,Solenopsis.diplo,G,NA,1-Jan-91,1-Jan-91,Osceola NF,museum,,,30.382,-82.331,"Lloyd R. Davis, Jr.",1991
+3824,Trachymyrmex.septentrionalis,G,native,1-Jan-91,1-Jan-91,Osceola NF,museum,,,30.382,-82.331,"Lloyd R. Davis, Jr.",1991
+3915,Cardiocondyla.minutior,G,alien,23-Mar-91,23-Mar-91,Wekiva Springs SP,museum,,SH,28.736474,-81.479603,Z. Prusak,1991
+3921,Crematogaster.ashmeadi,G,native,30-Mar-91,30-Mar-91,Osceola NF,museum,,,30.24,-82.433,"Lloyd R. Davis, Jr.",1991
+3921,Crematogaster.pinicola,A,native,30-Mar-91,30-Mar-91,Osceola NF,museum,,,30.24,-82.433,"Lloyd R. Davis, Jr.",1991
+3921,Cyphomyrmex.rimosus,G,alien,30-Mar-91,30-Mar-91,Osceola NF,museum,,,30.24,-82.433,"Lloyd R. Davis, Jr.",1991
+3921,Dorymyrmex.bossuta,G,native,30-Mar-91,30-Mar-91,Osceola NF,museum,,,30.24,-82.433,"Lloyd R. Davis, Jr.",1991
+3921,Dorymyrmex.bureni,G,native,30-Mar-91,30-Mar-91,Osceola NF,museum,,,30.24,-82.433,"Lloyd R. Davis, Jr.",1991
+3921,Formica.pallidefulva,G,native,30-Mar-91,30-Mar-91,Osceola NF,museum,,,30.24,-82.433,"Lloyd R. Davis, Jr.",1991
+3921,Hypoponera.opaciceps,G,alien,30-Mar-91,30-Mar-91,Osceola NF,museum,,,30.24,-82.433,"Lloyd R. Davis, Jr.",1991
+3921,Nylanderia.faisonensis,G,native,30-Mar-91,30-Mar-91,Osceola NF,museum,,,30.24,-82.433,"Lloyd R. Davis, Jr.",1991
+3921,Odontomachus.brunneus,G,native,30-Mar-91,30-Mar-91,Osceola NF,museum,,,30.24,-82.433,"Lloyd R. Davis, Jr.",1991
+3921,Pheidole.bilimeki,G,alien,30-Mar-91,30-Mar-91,Osceola NF,museum,,,30.24,-82.433,"Lloyd R. Davis, Jr.",1991
+3921,Pheidole.dentata,G,native,30-Mar-91,30-Mar-91,Osceola NF,museum,,,30.24,-82.433,"Lloyd R. Davis, Jr.",1991
+3921,Solenopsis.invicta,G,alien,30-Mar-91,30-Mar-91,Osceola NF,museum,,,30.24,-82.433,"Lloyd R. Davis, Jr.",1991
+3944,Brachymyrmex.obscurior,G,alien,27-Apr-91,27-Apr-91,Fakahatchee Strand Preserve SP,museum,,H,25.997607,-81.405582,Betty Ferster,1991
+3944,Cyphomyrmex.rimosus,G,alien,27-Apr-91,27-Apr-91,Fakahatchee Strand Preserve SP,museum,,H,25.997607,-81.405582,Betty Ferster,1991
+4077,Aphaenogaster.ashmeadi,G,native,25-Oct-91,25-Oct-91,Osceola NF,museum,,,30.406,-82.304,"Lloyd R. Davis, Jr.",1991
+4077,Camponotus.floridanus,G,native,25-Oct-91,25-Oct-91,Osceola NF,museum,,,30.406,-82.304,"Lloyd R. Davis, Jr.",1991
+4077,Formica.pallidefulva,G,native,25-Oct-91,25-Oct-91,Osceola NF,museum,,,30.406,-82.304,"Lloyd R. Davis, Jr.",1991
+4077,Hypoponera.opacior,G,native,25-Oct-91,25-Oct-91,Osceola NF,museum,,,30.406,-82.304,"Lloyd R. Davis, Jr.",1991
+4077,Nylanderia.faisonensis,G,native,25-Oct-91,25-Oct-91,Osceola NF,museum,,,30.406,-82.304,"Lloyd R. Davis, Jr.",1991
+4077,Odontomachus.brunneus,G,native,25-Oct-91,25-Oct-91,Osceola NF,museum,,,30.406,-82.304,"Lloyd R. Davis, Jr.",1991
+4077,Pheidole.dentata,G,native,25-Oct-91,25-Oct-91,Osceola NF,museum,,,30.406,-82.304,"Lloyd R. Davis, Jr.",1991
+4077,Trachymyrmex.septentrionalis,G,native,25-Oct-91,25-Oct-91,Osceola NF,museum,,,30.406,-82.304,"Lloyd R. Davis, Jr.",1991
+4108,Dorymyrmex.elegans,G,native,14-Nov-91,14-Nov-91,Withlacoochie NF,museum,,SH,28.825052,-82.433263,M. Deyrup,1991
+4108,Nylanderia.arenivaga,G,native,14-Nov-91,14-Nov-91,Withlacoochie NF,museum,,SH,28.825052,-82.433263,M. Deyrup,1991
+4108,Odontomachus.relictus,G,native,14-Nov-91,14-Nov-91,Withlacoochie NF,museum,,SH,28.825052,-82.433263,M. Deyrup,1991
+4108,Pheidole.morrisii,G,native,14-Nov-91,14-Nov-91,Withlacoochie NF,museum,,SH,28.825052,-82.433263,M. Deyrup,1991
+4109,Dorymyrmex.elegans,G,native,14-Nov-91,14-Nov-91,Withlacoochie NF,museum,,SH,28.816788,-82.420117,M. Deyrup,1991
+4109,Temnothorax.pergandei,G,native,14-Nov-91,14-Nov-91,Withlacoochie NF,museum,,SH,28.816788,-82.420117,M. Deyrup,1991
+4110,Nylanderia.arenivaga,G,native,14-Nov-91,14-Nov-91,Withlacoochie NF,museum,,SH,28.816788,-82.420117,M. Deyrup,1991
+4191,Dorymyrmex.bureni,G,native,1992,1992,Withlacoochie NF,museum,,,28.6,-82.3,,1992
+4191,Odontomachus.relictus,G,native,1992,1992,Withlacoochie NF,museum,,,28.6,-82.3,,1992
+4191,Pheidole.morrisii,G,native,1992,1992,Withlacoochie NF,museum,,,28.6,-82.3,,1992
+4191,Solenopsis.diplo,G,NA,1992,1992,Withlacoochie NF,museum,,,28.6,-82.3,,1992
+4191,Strumigenys.talpa,G,native,1992,1992,Withlacoochie NF,museum,,,28.6,-82.3,,1992
+4223,Solenopsis.geminata,G,native,2-Feb-92,2-Feb-92,Fakahatchee Strand Preserve SP,museum,,H,25.997607,-81.405582,Betty Ferster,1992
+4325,Camponotus.socius,G,native,1-Mar-92,1-Mar-92,Osceola NF,museum,,,30.382,-82.331,"Lloyd R. Davis, Jr.",1992
+4325,Dorymyrmex.bureni,G,native,1-Mar-92,1-Mar-92,Osceola NF,museum,,,30.382,-82.331,"Lloyd R. Davis, Jr.",1992
+4325,Formica.pallidefulva,G,native,1-Mar-92,1-Mar-92,Osceola NF,museum,,,30.382,-82.331,"Lloyd R. Davis, Jr.",1992
+4325,Monomorium.viridum,G,native,1-Mar-92,1-Mar-92,Osceola NF,museum,,,30.382,-82.331,"Lloyd R. Davis, Jr.",1992
+4325,Nylanderia.arenivaga,G,native,1-Mar-92,1-Mar-92,Osceola NF,museum,,,30.382,-82.331,"Lloyd R. Davis, Jr.",1992
+4325,Nylanderia.parvula,G,native,1-Mar-92,1-Mar-92,Osceola NF,museum,,,30.382,-82.331,"Lloyd R. Davis, Jr.",1992
+4325,Pheidole.bicarinata,G,native,1-Mar-92,1-Mar-92,Osceola NF,museum,,,30.382,-82.331,"Lloyd R. Davis, Jr.",1992
+4325,Pheidole.morrisii,G,native,1-Mar-92,1-Mar-92,Osceola NF,museum,,,30.382,-82.331,"Lloyd R. Davis, Jr.",1992
+4325,Pogonomyrmex.badius,G,native,1-Mar-92,1-Mar-92,Osceola NF,museum,,,30.382,-82.331,"Lloyd R. Davis, Jr.",1992
+4325,Solenopsis.diplo,G,NA,1-Mar-92,1-Mar-92,Osceola NF,museum,,,30.382,-82.331,"Lloyd R. Davis, Jr.",1992
+4325,Solenopsis.invicta,G,alien,1-Mar-92,1-Mar-92,Osceola NF,museum,,,30.382,-82.331,"Lloyd R. Davis, Jr.",1992
+4326,Camponotus.floridanus,G,native,1-Mar-92,1-Mar-92,Osceola NF,museum,,,30.206333,-82.406,"Lloyd R. Davis, Jr.",1992
+4326,Crematogaster.atkinsoni,A,native,1-Mar-92,1-Mar-92,Osceola NF,museum,,,30.206333,-82.406,"Lloyd R. Davis, Jr.",1992
+4326,Cyphomyrmex.rimosus,G,alien,1-Mar-92,1-Mar-92,Osceola NF,museum,,,30.206333,-82.406,"Lloyd R. Davis, Jr.",1992
+4326,Forelius.pruinosus,G,native,1-Mar-92,1-Mar-92,Osceola NF,museum,,,30.206333,-82.406,"Lloyd R. Davis, Jr.",1992
+4326,Formica.pallidefulva,G,native,1-Mar-92,1-Mar-92,Osceola NF,museum,,,30.206333,-82.406,"Lloyd R. Davis, Jr.",1992
+4326,Hypoponera.opacior,G,native,1-Mar-92,1-Mar-92,Osceola NF,museum,,,30.206333,-82.406,"Lloyd R. Davis, Jr.",1992
+4326,Pogonomyrmex.badius,G,native,1-Mar-92,1-Mar-92,Osceola NF,museum,,,30.206333,-82.406,"Lloyd R. Davis, Jr.",1992
+4411,Odontomachus.brunneus,G,native,6-May-92,6-May-92,Withlacoochie NF,museum,,SH,28.6,-82.3,Z. Prusak,1992
+4411,Pheidole.dentata,G,native,6-May-92,6-May-92,Withlacoochie NF,museum,,SH,28.6,-82.3,Z. Prusak,1992
+4421,Solenopsis.diplo,G,NA,17-May-92,17-May-92,Withlacoochie NF,museum,,,28.6,-82.3,Betty Ferster,1992
+4467,Dorymyrmex.bureni,G,native,20-Jul-92,20-Jul-92,Wekiva Springs SP,museum,,SH,28.736474,-81.479603,Z. Prusak,1992
+4467,Pheidole.morrisii,G,native,20-Jul-92,20-Jul-92,Wekiva Springs SP,museum,,SH,28.736474,-81.479603,Z. Prusak,1992
+4467,Solenopsis.picta,A,native,20-Jul-92,20-Jul-92,Wekiva Springs SP,museum,,SH,28.736474,-81.479603,Z. Prusak,1992
+4467,Wasmannia.auropunctata,G,alien,20-Jul-92,20-Jul-92,Wekiva Springs SP,museum,,SH,28.736474,-81.479603,Z. Prusak,1992
+4471,Hypoponera.opacior,G,native,16-Aug-92,16-Aug-92,Payne's Prairie Preserve SP,berlese,S,H,29.520249,-82.293353,M. Deyrup,1992
+4471,Solenopsis.diplo,G,NA,16-Aug-92,16-Aug-92,Payne's Prairie Preserve SP,berlese,S,H,29.520249,-82.293353,M. Deyrup,1992
+4471,Strumigenys.talpa,G,native,16-Aug-92,16-Aug-92,Payne's Prairie Preserve SP,berlese,S,H,29.520249,-82.293353,M. Deyrup,1992
+4472,Hypoponera.opacior,G,native,16-Aug-92,16-Aug-92,Payne's Prairie Preserve SP,berlese,S,H,29.520249,-82.293353,M. Deyrup,1992
+4472,Pheidole.dentigula,G,native,16-Aug-92,16-Aug-92,Payne's Prairie Preserve SP,berlese,S,H,29.520249,-82.293353,M. Deyrup,1992
+4472,Strumigenys.talpa,G,native,16-Aug-92,16-Aug-92,Payne's Prairie Preserve SP,berlese,S,H,29.520249,-82.293353,M. Deyrup,1992
+4473,Solenopsis.diplo,G,NA,16-Aug-92,16-Aug-92,Payne's Prairie Preserve SP,berlese,S,H,29.520249,-82.293353,M. Deyrup,1992
+4474,Hypoponera.opacior,G,native,16-Aug-92,16-Aug-92,Payne's Prairie Preserve SP,berlese,S,H,29.520249,-82.293353,M. Deyrup,1992
+4474,Solenopsis.diplo,G,NA,16-Aug-92,16-Aug-92,Payne's Prairie Preserve SP,berlese,S,H,29.520249,-82.293353,M. Deyrup,1992
+4475,Hypoponera.opacior,G,native,16-Aug-92,16-Aug-92,Payne's Prairie Preserve SP,berlese,S,H,29.520249,-82.293353,M. Deyrup,1992
+4475,Solenopsis.diplo,G,NA,16-Aug-92,16-Aug-92,Payne's Prairie Preserve SP,berlese,S,H,29.520249,-82.293353,M. Deyrup,1992
+4475,Strumigenys.louisianae,G,native,16-Aug-92,16-Aug-92,Payne's Prairie Preserve SP,berlese,S,H,29.520249,-82.293353,M. Deyrup,1992
+4476,Eurhopalothrix.floridana,G,native,16-Aug-92,16-Aug-92,Payne's Prairie Preserve SP,berlese,S,H,29.520249,-82.293353,M. Deyrup,1992
+4476,Nylanderia.faisonensis,G,native,16-Aug-92,16-Aug-92,Payne's Prairie Preserve SP,berlese,S,H,29.520249,-82.293353,M. Deyrup,1992
+4477,Pheidole.dentata,G,native,16-Aug-92,16-Aug-92,Payne's Prairie Preserve SP,berlese,S,H,29.520249,-82.293353,M. Deyrup,1992
+4477,Pheidole.dentigula,G,native,16-Aug-92,16-Aug-92,Payne's Prairie Preserve SP,berlese,S,H,29.520249,-82.293353,M. Deyrup,1992
+4477,Solenopsis.diplo,G,NA,16-Aug-92,16-Aug-92,Payne's Prairie Preserve SP,berlese,S,H,29.520249,-82.293353,M. Deyrup,1992
+4478,Dorymyrmex.bureni,G,native,16-Aug-92,16-Aug-92,Payne's Prairie Preserve SP,berlese,S,H,29.520249,-82.293353,M. Deyrup,1992
+4478,Eurhopalothrix.floridana,G,native,16-Aug-92,16-Aug-92,Payne's Prairie Preserve SP,berlese,S,H,29.520249,-82.293353,M. Deyrup,1992
+4478,Nylanderia.faisonensis,G,native,16-Aug-92,16-Aug-92,Payne's Prairie Preserve SP,berlese,S,H,29.520249,-82.293353,M. Deyrup,1992
+4478,Solenopsis.diplo,G,NA,16-Aug-92,16-Aug-92,Payne's Prairie Preserve SP,berlese,S,H,29.520249,-82.293353,M. Deyrup,1992
+4478,Strumigenys.talpa,G,native,16-Aug-92,16-Aug-92,Payne's Prairie Preserve SP,berlese,S,H,29.520249,-82.293353,M. Deyrup,1992
+4479,Camponotus.floridanus,G,native,16-Aug-92,16-Aug-92,Payne's Prairie Preserve SP,museum,S,H,29.520249,-82.293353,M. Deyrup,1992
+4479,Crematogaster.pilosa,A,native,16-Aug-92,16-Aug-92,Payne's Prairie Preserve SP,museum,S,H,29.520249,-82.293353,M. Deyrup,1992
+4479,Cyphomyrmex.rimosus,G,alien,16-Aug-92,16-Aug-92,Payne's Prairie Preserve SP,museum,S,H,29.520249,-82.293353,M. Deyrup,1992
+4479,Eurhopalothrix.floridana,G,native,16-Aug-92,16-Aug-92,Payne's Prairie Preserve SP,museum,S,H,29.520249,-82.293353,M. Deyrup,1992
+4479,Hypoponera.opacior,G,native,16-Aug-92,16-Aug-92,Payne's Prairie Preserve SP,museum,S,H,29.520249,-82.293353,M. Deyrup,1992
+4479,Odontomachus.brunneus,G,native,16-Aug-92,16-Aug-92,Payne's Prairie Preserve SP,museum,S,H,29.520249,-82.293353,M. Deyrup,1992
+4479,Pheidole.dentata,G,native,16-Aug-92,16-Aug-92,Payne's Prairie Preserve SP,museum,S,H,29.520249,-82.293353,M. Deyrup,1992
+4479,Pheidole.dentigula,G,native,16-Aug-92,16-Aug-92,Payne's Prairie Preserve SP,museum,S,H,29.520249,-82.293353,M. Deyrup,1992
+4479,Pseudomyrmex.ejectus,A,native,16-Aug-92,16-Aug-92,Payne's Prairie Preserve SP,museum,S,H,29.520249,-82.293353,M. Deyrup,1992
+4479,Solenopsis.invicta,G,alien,16-Aug-92,16-Aug-92,Payne's Prairie Preserve SP,museum,S,H,29.520249,-82.293353,M. Deyrup,1992
+4479,Strumigenys.louisianae,G,native,16-Aug-92,16-Aug-92,Payne's Prairie Preserve SP,museum,S,H,29.520249,-82.293353,M. Deyrup,1992
+4540,Aphaenogaster.miamiana/carolinensis,G,native,1993,1993,Wekiva Springs SP,museum,,,28.736474,-81.479603,Z. Prusak,1993
+4540,Camponotus.decipiens,G,native,1993,1993,Wekiva Springs SP,museum,,,28.736474,-81.479603,Z. Prusak,1993
+4540,Crematogaster.pinicola,A,native,1993,1993,Wekiva Springs SP,museum,,,28.736474,-81.479603,Z. Prusak,1993
+4540,Myrmecina.americana,G,native,1993,1993,Wekiva Springs SP,museum,,,28.736474,-81.479603,Z. Prusak,1993
+4540,Nylanderia.arenivaga,G,native,1993,1993,Wekiva Springs SP,museum,,,28.736474,-81.479603,Z. Prusak,1993
+4540,Nylanderia.concinna,G,native,1993,1993,Wekiva Springs SP,museum,,,28.736474,-81.479603,Z. Prusak,1993
+4540,Nylanderia.wojciki,G,native,1993,1993,Wekiva Springs SP,museum,,,28.736474,-81.479603,Z. Prusak,1993
+4540,Pheidole.bilimeki,G,alien,1993,1993,Wekiva Springs SP,museum,,,28.736474,-81.479603,Z. Prusak,1993
+4540,Strumigenys.angulata,G,native,1993,1993,Wekiva Springs SP,museum,,,28.736474,-81.479603,Z. Prusak,1993
+4540,Strumigenys.brevisetosa,G,native,1993,1993,Wekiva Springs SP,museum,,,28.736474,-81.479603,Z. Prusak,1993
+4540,Strumigenys.membranifera,G,alien,1993,1993,Wekiva Springs SP,museum,,,28.736474,-81.479603,Z. Prusak,1993
+4540,Strumigenys.ornata,G,native,1993,1993,Wekiva Springs SP,museum,,,28.736474,-81.479603,Z. Prusak,1993
+4540,Strumigenys.pulchella,G,native,1993,1993,Wekiva Springs SP,museum,,,28.736474,-81.479603,Z. Prusak,1993
+4540,Strumigenys.talpa,G,native,1993,1993,Wekiva Springs SP,museum,,,28.736474,-81.479603,Z. Prusak,1993
+4540,Temnothorax.texanus,G,native,1993,1993,Wekiva Springs SP,museum,,,28.736474,-81.479603,Z. Prusak,1993
+4549,Aphaenogaster.lamellidens,G,native,18-Jan-93,18-Jan-93,Wekiva Springs SP,museum,,SH,28.736474,-81.479603,Z. Prusak,1993
+4549,Camponotus.socius,G,native,18-Jan-93,18-Jan-93,Wekiva Springs SP,museum,,SH,28.736474,-81.479603,Z. Prusak,1993
+4550,Cyphomyrmex.rimosus,G,alien,23-Jan-93,23-Jan-93,Wekiva Springs SP,museum,,FW,28.736474,-81.479603,Z. Prusak,1993
+4748,Camponotus.floridanus,G,native,21-Feb-93,21-Feb-93,Wekiva Springs SP,museum,,FW,28.736474,-81.479603,Z. Prusak,1993
+4796,Neivamyrmex.opacithorax,G,native,10-Mar-93,10-Mar-93,Wekiva Springs SP,museum,,FW,28.736474,-81.479603,Z. Prusak,1993
+4829,Pheidole.navigans,G,alien,30-Mar-93,30-Mar-93,Wekiva Springs SP,museum,,H,28.736474,-81.479603,Z. Prusak,1993
+4887,Temnothorax.pergandei,G,native,10-Apr-93,10-Apr-93,Wekiva Springs SP,museum,,SH,28.736474,-81.479603,Z. Prusak,1993
+4909,Ochetellus.glaber,G,alien,21-Apr-93,21-Apr-93,Wekiva Springs SP,museum,,FW,28.736474,-81.479603,Z. Prusak,1993
+4916,Colobopsis.impressa,A,native,27-Apr-93,27-Apr-93,Wekiva Springs SP,museum,,H,28.736474,-81.479603,Z. Prusak,1993
+4916,Pheidole.dentata,G,native,27-Apr-93,27-Apr-93,Wekiva Springs SP,museum,,H,28.736474,-81.479603,Z. Prusak,1993
+4916,Xenomyrmex.floridanus,G,alien,27-Apr-93,27-Apr-93,Wekiva Springs SP,museum,,H,28.736474,-81.479603,Z. Prusak,1993
+4964,Hypoponera.opacior,G,native,29-May-93,29-May-93,Wekiva Springs SP,museum,,H,28.736474,-81.479603,Z. Prusak,1993
+4964,Odontomachus.brunneus,G,native,29-May-93,29-May-93,Wekiva Springs SP,museum,,H,28.736474,-81.479603,Z. Prusak,1993
+4965,Aphaenogaster.treatae,G,native,22-May-93,22-May-93,Wekiva Springs SP,museum,,SH,28.736474,-81.479603,Z. Prusak,1993
+4969,Crematogaster.atkinsoni,A,native,13-Jun-93,13-Jun-93,Fakahatchee Strand Preserve SP,museum,,H,25.997607,-81.405582,David Maehr,1993
+4971,Formica.pallidefulva,G,native,13-Jun-93,13-Jun-93,Wekiva Springs SP,museum,,SH,28.736474,-81.479603,Z. Prusak,1993
+4971,Pseudomyrmex.gracilis,A,alien,13-Jun-93,13-Jun-93,Wekiva Springs SP,museum,,SH,28.736474,-81.479603,Z. Prusak,1993
+4971,Trachymyrmex.septentrionalis,G,native,13-Jun-93,13-Jun-93,Wekiva Springs SP,museum,,SH,28.736474,-81.479603,Z. Prusak,1993
+4972,Aphaenogaster.flemingi,G,native,20-Jun-93,20-Jun-93,Wekiva Springs SP,museum,,FW,28.736474,-81.479603,Z. Prusak,1993
+4973,Pseudomyrmex.ejectus,A,native,26-Jun-93,26-Jun-93,Wekiva Springs SP,museum,,H,28.736474,-81.479603,Z. Prusak,1993
+4974,Hypoponera.opacior,G,native,10-Jul-93,10-Jul-93,Osceola NF,museum,,H,30.353,-82.543,Z. Prusak,1993
+4974,Myrmecina.americana,G,native,10-Jul-93,10-Jul-93,Osceola NF,museum,,H,30.353,-82.543,Z. Prusak,1993
+4974,Nylanderia.faisonensis,G,native,10-Jul-93,10-Jul-93,Osceola NF,museum,,H,30.353,-82.543,Z. Prusak,1993
+4974,Odontomachus.brunneus,G,native,10-Jul-93,10-Jul-93,Osceola NF,museum,,H,30.353,-82.543,Z. Prusak,1993
+4974,Pheidole.dentigula,G,native,10-Jul-93,10-Jul-93,Osceola NF,museum,,H,30.353,-82.543,Z. Prusak,1993
+4974,Strumigenys.ornata,G,native,10-Jul-93,10-Jul-93,Osceola NF,museum,,H,30.353,-82.543,Z. Prusak,1993
+4975,Aphaenogaster.miamiana/carolinensis,G,native,10-Jul-93,10-Jul-93,Osceola NF,museum,,H,30.3075,-82.653333,Z. Prusak,1993
+4976,Camponotus.castaneus,G,native,10-Jul-93,10-Jul-93,Osceola NF,museum,,FW,30.366667,-82.45,M. Deyrup,1993
+4976,Crematogaster.ashmeadi,G,native,10-Jul-93,10-Jul-93,Osceola NF,museum,,FW,30.366667,-82.45,M. Deyrup,1993
+4976,Crematogaster.minutissima,G,native,10-Jul-93,10-Jul-93,Osceola NF,museum,,FW,30.366667,-82.45,M. Deyrup,1993
+4976,Crematogaster.pinicola,A,native,10-Jul-93,10-Jul-93,Osceola NF,museum,,FW,30.366667,-82.45,M. Deyrup,1993
+4976,Formica.pallidefulva,G,native,10-Jul-93,10-Jul-93,Osceola NF,museum,,FW,30.366667,-82.45,M. Deyrup,1993
+4978,Brachymyrmex.depilis,G,native,11-Jul-93,11-Jul-93,Osceola NF,museum,,FW,30.366667,-82.45,M. Deyrup,1993
+4978,Camponotus.floridanus,G,native,11-Jul-93,11-Jul-93,Osceola NF,museum,,FW,30.366667,-82.45,M. Deyrup,1993
+4978,Cardiocondyla.wroughtonii,G,alien,11-Jul-93,11-Jul-93,Osceola NF,museum,,FW,30.366667,-82.45,M. Deyrup,1993
+4978,Cyphomyrmex.rimosus,G,alien,11-Jul-93,11-Jul-93,Osceola NF,museum,,FW,30.366667,-82.45,M. Deyrup,1993
+4978,Formica.archboldi,G,native,11-Jul-93,11-Jul-93,Osceola NF,museum,,FW,30.366667,-82.45,M. Deyrup,1993
+4978,Formica.pallidefulva,G,native,11-Jul-93,11-Jul-93,Osceola NF,museum,,FW,30.366667,-82.45,M. Deyrup,1993
+4978,Hypoponera.opaciceps,G,alien,11-Jul-93,11-Jul-93,Osceola NF,museum,,FW,30.366667,-82.45,M. Deyrup,1993
+4978,Hypoponera.opacior,G,native,11-Jul-93,11-Jul-93,Osceola NF,museum,,FW,30.366667,-82.45,M. Deyrup,1993
+4978,Nylanderia.faisonensis,G,native,11-Jul-93,11-Jul-93,Osceola NF,museum,,FW,30.366667,-82.45,M. Deyrup,1993
+4978,Odontomachus.brunneus,G,native,11-Jul-93,11-Jul-93,Osceola NF,museum,,FW,30.366667,-82.45,M. Deyrup,1993
+4978,Pheidole.bilimeki,G,alien,11-Jul-93,11-Jul-93,Osceola NF,museum,,FW,30.366667,-82.45,M. Deyrup,1993
+4978,Pheidole.dentata,G,native,11-Jul-93,11-Jul-93,Osceola NF,museum,,FW,30.366667,-82.45,M. Deyrup,1993
+4978,Proceratium.silaceum,G,native,11-Jul-93,11-Jul-93,Osceola NF,museum,,FW,30.366667,-82.45,M. Deyrup,1993
+4978,Solenopsis.diplo,G,NA,11-Jul-93,11-Jul-93,Osceola NF,museum,,FW,30.366667,-82.45,M. Deyrup,1993
+4978,Solenopsis.invicta,G,alien,11-Jul-93,11-Jul-93,Osceola NF,museum,,FW,30.366667,-82.45,M. Deyrup,1993
+4978,Strumigenys.brevisetosa,G,native,11-Jul-93,11-Jul-93,Osceola NF,museum,,FW,30.366667,-82.45,M. Deyrup,1993
+4978,Strumigenys.dietrichi,G,native,11-Jul-93,11-Jul-93,Osceola NF,museum,,FW,30.366667,-82.45,M. Deyrup,1993
+4978,Strumigenys.ornata,G,native,11-Jul-93,11-Jul-93,Osceola NF,museum,,FW,30.366667,-82.45,M. Deyrup,1993
+4979,Hypoponera.opacior,G,native,11-Jul-93,11-Jul-93,Osceola NF,museum,,H,30.313,-82.438,M. Deyrup,1993
+4979,Myrmecina.americana,G,native,11-Jul-93,11-Jul-93,Osceola NF,museum,,H,30.313,-82.438,M. Deyrup,1993
+4979,Nylanderia.faisonensis,G,native,11-Jul-93,11-Jul-93,Osceola NF,museum,,H,30.313,-82.438,M. Deyrup,1993
+4979,Pheidole.dentigula,G,native,11-Jul-93,11-Jul-93,Osceola NF,museum,,H,30.313,-82.438,M. Deyrup,1993
+4979,Solenopsis.diplo,G,NA,11-Jul-93,11-Jul-93,Osceola NF,museum,,H,30.313,-82.438,M. Deyrup,1993
+4979,Strumigenys.ornata,G,native,11-Jul-93,11-Jul-93,Osceola NF,museum,,H,30.313,-82.438,M. Deyrup,1993
+4986,Crematogaster.minutissima,G,native,28-Jul-93,28-Jul-93,Wekiva Springs SP,museum,,H,28.736474,-81.479603,Z. Prusak,1993
+4986,Lasius.americanus,G,native,28-Jul-93,28-Jul-93,Wekiva Springs SP,museum,,H,28.736474,-81.479603,Z. Prusak,1993
+4987,Pogonomyrmex.badius,G,native,18-Jul-93,18-Jul-93,Wekiva Springs SP,museum,,SH,28.736474,-81.479603,Z. Prusak,1993
+4988,Cardiocondyla.emeryi,G,alien,25-Jul-93,25-Jul-93,Wekiva Springs SP,museum,,FW,28.736474,-81.479603,Z. Prusak,1993
+5043,Solenopsis.geminata,G,native,29-Aug-93,29-Aug-93,Wekiva Springs SP,museum,,H,28.736474,-81.479603,Z. Prusak,1993
+5044,Solenopsis.invicta,G,alien,29-Aug-93,29-Aug-93,Wekiva Springs SP,museum,,FW,28.736474,-81.479603,Z. Prusak,1993
+5099,Camponotus.nearcticus,A,native,12-Sep-93,12-Sep-93,Wekiva Springs SP,museum,,SH,28.736474,-81.479603,Z. Prusak,1993
+5122,Aphaenogaster.fulva,G,native,26-Sep-93,26-Sep-93,Wekiva Springs SP,museum,,H,28.736474,-81.479603,Z. Prusak,1993
+5122,Discothyrea.testacea,G,native,26-Sep-93,26-Sep-93,Wekiva Springs SP,museum,,H,28.736474,-81.479603,Z. Prusak,1993
+5122,Eurhopalothrix.floridana,G,native,26-Sep-93,26-Sep-93,Wekiva Springs SP,museum,,H,28.736474,-81.479603,Z. Prusak,1993
+5122,Leptogenys.manni,G,native,26-Sep-93,26-Sep-93,Wekiva Springs SP,museum,,H,28.736474,-81.479603,Z. Prusak,1993
+5122,Strumigenys.louisianae,G,native,26-Sep-93,26-Sep-93,Wekiva Springs SP,museum,,H,28.736474,-81.479603,Z. Prusak,1993
+5122,Strumigenys.rogeri,G,alien,26-Sep-93,26-Sep-93,Wekiva Springs SP,museum,,H,28.736474,-81.479603,Z. Prusak,1993
+5215,Forelius.pruinosus,G,native,25-Oct-93,25-Oct-93,Wekiva Springs SP,museum,,FW,28.736474,-81.479603,Z. Prusak,1993
+5251,Hypoponera.opaciceps,G,alien,26-Oct-93,26-Oct-93,Wekiva Springs SP,museum,,H,28.736474,-81.479603,Z. Prusak,1993
+5256,Pheidole.dentigula,G,native,4-Nov-93,4-Nov-93,Wekiva Springs SP,museum,,,28.736474,-81.479603,Nancy Deyrup,1993
+5265,Proceratium.silaceum,G,native,20-Nov-93,20-Nov-93,Wekiva Springs SP,museum,,H,28.736474,-81.479603,Z. Prusak,1993
+5788,Prenolepis.imparis,G,native,15-Feb-95,15-Feb-95,Withlacoochie NF,museum,,SH,28.77132,-82.384573,M. Deyrup,1995
+5788,Strumigenys.ornata,G,native,15-Feb-95,15-Feb-95,Withlacoochie NF,museum,,SH,28.77132,-82.384573,M. Deyrup,1995
+5788,Strumigenys.talpa,G,native,15-Feb-95,15-Feb-95,Withlacoochie NF,museum,,SH,28.77132,-82.384573,M. Deyrup,1995
+5789,Discothyrea.testacea,G,native,15-Feb-95,15-Feb-95,Withlacoochie NF,museum,,SH,28.77132,-82.384573,M. Deyrup,1995
+5789,Pheidole.navigans,G,alien,15-Feb-95,15-Feb-95,Withlacoochie NF,museum,,SH,28.77132,-82.384573,M. Deyrup,1995
+5789,Strumigenys.talpa,G,native,15-Feb-95,15-Feb-95,Withlacoochie NF,museum,,SH,28.77132,-82.384573,M. Deyrup,1995
+5807,Stigmatomma.pallipes,G,native,19-Feb-95,19-Feb-95,Wekiva Springs SP,museum,,SH,28.726334,-81.477053,"Lloyd R. Davis, Jr.",1995
+5839,Hypoponera.opacior,G,native,4-Apr-95,4-Apr-95,Withlacoochie NF,berlese,S,H,28.637333,-82.336167,M. Deyrup,1995
+5839,Pheidole.dentigula,G,native,4-Apr-95,4-Apr-95,Withlacoochie NF,berlese,S,H,28.637333,-82.336167,M. Deyrup,1995
+5839,Solenopsis.diplo,G,NA,4-Apr-95,4-Apr-95,Withlacoochie NF,berlese,S,H,28.637333,-82.336167,M. Deyrup,1995
+5840,Hypoponera.opacior,G,native,4-Apr-95,4-Apr-95,Withlacoochie NF,berlese,S,H,28.637333,-82.336167,M. Deyrup,1995
+5840,Nylanderia.faisonensis,G,native,4-Apr-95,4-Apr-95,Withlacoochie NF,berlese,S,H,28.637333,-82.336167,M. Deyrup,1995
+5840,Solenopsis.diplo,G,NA,4-Apr-95,4-Apr-95,Withlacoochie NF,berlese,S,H,28.637333,-82.336167,M. Deyrup,1995
+5841,Hypoponera.opacior,G,native,4-Apr-95,4-Apr-95,Withlacoochie NF,berlese,S,H,28.637333,-82.336167,M. Deyrup,1995
+5841,Pheidole.dentigula,G,native,4-Apr-95,4-Apr-95,Withlacoochie NF,berlese,S,H,28.637333,-82.336167,M. Deyrup,1995
+5842,Hypoponera.opacior,G,native,4-Apr-95,4-Apr-95,Withlacoochie NF,berlese,S,H,28.637333,-82.336167,M. Deyrup,1995
+5842,Strumigenys.ornata,G,native,4-Apr-95,4-Apr-95,Withlacoochie NF,berlese,S,H,28.637333,-82.336167,M. Deyrup,1995
+5843,Hypoponera.opacior,G,native,4-Apr-95,4-Apr-95,Withlacoochie NF,berlese,S,H,28.637333,-82.336167,M. Deyrup,1995
+5843,Solenopsis.diplo,G,NA,4-Apr-95,4-Apr-95,Withlacoochie NF,berlese,S,H,28.637333,-82.336167,M. Deyrup,1995
+5844,Aphaenogaster.miamiana/carolinensis,G,native,4-Apr-95,4-Apr-95,Withlacoochie NF,berlese,S,H,28.637333,-82.336167,M. Deyrup,1995
+5844,Hypoponera.opacior,G,native,4-Apr-95,4-Apr-95,Withlacoochie NF,berlese,S,H,28.637333,-82.336167,M. Deyrup,1995
+5844,Solenopsis.diplo,G,NA,4-Apr-95,4-Apr-95,Withlacoochie NF,berlese,S,H,28.637333,-82.336167,M. Deyrup,1995
+5845,Hypoponera.opacior,G,native,4-Apr-95,4-Apr-95,Withlacoochie NF,berlese,S,H,28.637333,-82.336167,M. Deyrup,1995
+5845,Solenopsis.diplo,G,NA,4-Apr-95,4-Apr-95,Withlacoochie NF,berlese,S,H,28.637333,-82.336167,M. Deyrup,1995
+5846,Aphaenogaster.miamiana/carolinensis,G,native,4-Apr-95,4-Apr-95,Withlacoochie NF,berlese,S,H,28.637333,-82.336167,M. Deyrup,1995
+5846,Hypoponera.opacior,G,native,4-Apr-95,4-Apr-95,Withlacoochie NF,berlese,S,H,28.637333,-82.336167,M. Deyrup,1995
+5846,Nylanderia.faisonensis,G,native,4-Apr-95,4-Apr-95,Withlacoochie NF,berlese,S,H,28.637333,-82.336167,M. Deyrup,1995
+5846,Pheidole.dentigula,G,native,4-Apr-95,4-Apr-95,Withlacoochie NF,berlese,S,H,28.637333,-82.336167,M. Deyrup,1995
+5847,Hypoponera.opacior,G,native,4-Apr-95,4-Apr-95,Withlacoochie NF,berlese,S,H,28.637333,-82.336167,M. Deyrup,1995
+5847,Pheidole.dentata,G,native,4-Apr-95,4-Apr-95,Withlacoochie NF,berlese,S,H,28.637333,-82.336167,M. Deyrup,1995
+5847,Pheidole.dentigula,G,native,4-Apr-95,4-Apr-95,Withlacoochie NF,berlese,S,H,28.637333,-82.336167,M. Deyrup,1995
+5848,Strumigenys.ornata,G,native,4-Apr-95,4-Apr-95,Withlacoochie NF,berlese,S,H,28.637333,-82.336167,M. Deyrup,1995
+5849,Hypoponera.opacior,G,native,4-Apr-95,4-Apr-95,Withlacoochie NF,berlese,S,H,28.637333,-82.336167,M. Deyrup,1995
+5849,Nylanderia.faisonensis,G,native,4-Apr-95,4-Apr-95,Withlacoochie NF,berlese,S,H,28.637333,-82.336167,M. Deyrup,1995
+5849,Solenopsis.diplo,G,NA,4-Apr-95,4-Apr-95,Withlacoochie NF,berlese,S,H,28.637333,-82.336167,M. Deyrup,1995
+5849,Strumigenys.ornata,G,native,4-Apr-95,4-Apr-95,Withlacoochie NF,berlese,S,H,28.637333,-82.336167,M. Deyrup,1995
+5850,Hypoponera.opacior,G,native,4-Apr-95,4-Apr-95,Withlacoochie NF,berlese,S,H,28.637333,-82.336167,M. Deyrup,1995
+5850,Nylanderia.parvula,G,native,4-Apr-95,4-Apr-95,Withlacoochie NF,berlese,S,H,28.637333,-82.336167,M. Deyrup,1995
+5850,Solenopsis.diplo,G,NA,4-Apr-95,4-Apr-95,Withlacoochie NF,berlese,S,H,28.637333,-82.336167,M. Deyrup,1995
+5850,Strumigenys.ornata,G,native,4-Apr-95,4-Apr-95,Withlacoochie NF,berlese,S,H,28.637333,-82.336167,M. Deyrup,1995
+5851,Aphaenogaster.miamiana/carolinensis,G,native,4-Apr-95,4-Apr-95,Withlacoochie NF,berlese,S,H,28.637333,-82.336167,M. Deyrup,1995
+5851,Hypoponera.opacior,G,native,4-Apr-95,4-Apr-95,Withlacoochie NF,berlese,S,H,28.637333,-82.336167,M. Deyrup,1995
+5851,Pheidole.dentata,G,native,4-Apr-95,4-Apr-95,Withlacoochie NF,berlese,S,H,28.637333,-82.336167,M. Deyrup,1995
+5851,Solenopsis.diplo,G,NA,4-Apr-95,4-Apr-95,Withlacoochie NF,berlese,S,H,28.637333,-82.336167,M. Deyrup,1995
+5852,Hypoponera.opacior,G,native,4-Apr-95,4-Apr-95,Withlacoochie NF,berlese,S,H,28.637333,-82.336167,M. Deyrup,1995
+5852,Nylanderia.parvula,G,native,4-Apr-95,4-Apr-95,Withlacoochie NF,berlese,S,H,28.637333,-82.336167,M. Deyrup,1995
+5853,Aphaenogaster.miamiana/carolinensis,G,native,4-Apr-95,4-Apr-95,Withlacoochie NF,berlese,S,H,28.637333,-82.336167,M. Deyrup,1995
+5853,Hypoponera.opacior,G,native,4-Apr-95,4-Apr-95,Withlacoochie NF,berlese,S,H,28.637333,-82.336167,M. Deyrup,1995
+5853,Nylanderia.faisonensis,G,native,4-Apr-95,4-Apr-95,Withlacoochie NF,berlese,S,H,28.637333,-82.336167,M. Deyrup,1995
+5853,Pheidole.dentigula,G,native,4-Apr-95,4-Apr-95,Withlacoochie NF,berlese,S,H,28.637333,-82.336167,M. Deyrup,1995
+5853,Solenopsis.diplo,G,NA,4-Apr-95,4-Apr-95,Withlacoochie NF,berlese,S,H,28.637333,-82.336167,M. Deyrup,1995
+5854,Hypoponera.opacior,G,native,4-Apr-95,4-Apr-95,Withlacoochie NF,berlese,S,H,28.637333,-82.336167,M. Deyrup,1995
+5854,Solenopsis.diplo,G,NA,4-Apr-95,4-Apr-95,Withlacoochie NF,berlese,S,H,28.637333,-82.336167,M. Deyrup,1995
+5855,Crematogaster.minutissima,G,native,4-Apr-95,4-Apr-95,Withlacoochie NF,berlese,S,H,28.637333,-82.336167,M. Deyrup,1995
+5855,Hypoponera.opacior,G,native,4-Apr-95,4-Apr-95,Withlacoochie NF,berlese,S,H,28.637333,-82.336167,M. Deyrup,1995
+5855,Solenopsis.diplo,G,NA,4-Apr-95,4-Apr-95,Withlacoochie NF,berlese,S,H,28.637333,-82.336167,M. Deyrup,1995
+5856,Hypoponera.opacior,G,native,4-Apr-95,4-Apr-95,Withlacoochie NF,berlese,S,H,28.637333,-82.336167,M. Deyrup,1995
+5857,Aphaenogaster.miamiana/carolinensis,G,native,4-Apr-95,4-Apr-95,Withlacoochie NF,berlese,S,H,28.637333,-82.336167,M. Deyrup,1995
+5857,Nylanderia.faisonensis,G,native,4-Apr-95,4-Apr-95,Withlacoochie NF,berlese,S,H,28.637333,-82.336167,M. Deyrup,1995
+5857,Pheidole.dentigula,G,native,4-Apr-95,4-Apr-95,Withlacoochie NF,berlese,S,H,28.637333,-82.336167,M. Deyrup,1995
+5857,Strumigenys.ornata,G,native,4-Apr-95,4-Apr-95,Withlacoochie NF,berlese,S,H,28.637333,-82.336167,M. Deyrup,1995
+5858,Hypoponera.opacior,G,native,4-Apr-95,4-Apr-95,Withlacoochie NF,berlese,S,H,28.637333,-82.336167,M. Deyrup,1995
+5858,Solenopsis.diplo,G,NA,4-Apr-95,4-Apr-95,Withlacoochie NF,berlese,S,H,28.637333,-82.336167,M. Deyrup,1995
+5858,Strumigenys.ornata,G,native,4-Apr-95,4-Apr-95,Withlacoochie NF,berlese,S,H,28.637333,-82.336167,M. Deyrup,1995
+5859,Hypoponera.opacior,G,native,4-Apr-95,4-Apr-95,Withlacoochie NF,berlese,S,H,28.637333,-82.336167,M. Deyrup,1995
+5859,Pheidole.dentigula,G,native,4-Apr-95,4-Apr-95,Withlacoochie NF,berlese,S,H,28.637333,-82.336167,M. Deyrup,1995
+5859,Solenopsis.diplo,G,NA,4-Apr-95,4-Apr-95,Withlacoochie NF,berlese,S,H,28.637333,-82.336167,M. Deyrup,1995
+5860,Aphaenogaster.miamiana/carolinensis,G,native,4-Apr-95,4-Apr-95,Withlacoochie NF,berlese,S,H,28.637333,-82.336167,M. Deyrup,1995
+5860,Hypoponera.opacior,G,native,4-Apr-95,4-Apr-95,Withlacoochie NF,berlese,S,H,28.637333,-82.336167,M. Deyrup,1995
+5860,Pheidole.dentata,G,native,4-Apr-95,4-Apr-95,Withlacoochie NF,berlese,S,H,28.637333,-82.336167,M. Deyrup,1995
+5860,Solenopsis.diplo,G,NA,4-Apr-95,4-Apr-95,Withlacoochie NF,berlese,S,H,28.637333,-82.336167,M. Deyrup,1995
+5860,Strumigenys.ornata,G,native,4-Apr-95,4-Apr-95,Withlacoochie NF,berlese,S,H,28.637333,-82.336167,M. Deyrup,1995
+5942,Formica.archboldi,G,native,23-Sep-95,23-Sep-95,Withlacoochie NF,museum,,SH,28.631326,-82.257789,M. Deyrup,1995
+5942,Odontomachus.brunneus,G,native,23-Sep-95,23-Sep-95,Withlacoochie NF,museum,,SH,28.631326,-82.257789,M. Deyrup,1995
+6017,Eurhopalothrix.floridana,G,native,1996,1996,Collier-Seminole SP,museum,,,25.994697,-81.59252,,1996
+6324,Cryptopone.gilva,G,native,17-Feb-98,17-Feb-98,Wekiva Springs SP,museum,U,H,28.736474,-81.479603,M. Deyrup,1998
+6324,Lasius.americanus,G,native,17-Feb-98,17-Feb-98,Wekiva Springs SP,museum,U,H,28.736474,-81.479603,M. Deyrup,1998
+6325,Camponotus.decipiens,G,native,17-Feb-98,17-Feb-98,Wekiva Springs SP,museum,,,28.736474,-81.479603,M. Deyrup,1998
+6325,Cardiocondyla.obscurior,G,alien,17-Feb-98,17-Feb-98,Wekiva Springs SP,museum,,,28.736474,-81.479603,M. Deyrup,1998
+6325,Nylanderia.bourbonica,G,alien,17-Feb-98,17-Feb-98,Wekiva Springs SP,museum,,,28.736474,-81.479603,M. Deyrup,1998
+6325,Prenolepis.imparis,G,native,17-Feb-98,17-Feb-98,Wekiva Springs SP,museum,,,28.736474,-81.479603,M. Deyrup,1998
+6325,Solenopsis.invicta,G,alien,17-Feb-98,17-Feb-98,Wekiva Springs SP,museum,,,28.736474,-81.479603,M. Deyrup,1998
+6325,Wasmannia.auropunctata,G,alien,17-Feb-98,17-Feb-98,Wekiva Springs SP,museum,,,28.736474,-81.479603,M. Deyrup,1998
+6431,Camponotus.castaneus,G,native,11-Sep-98,11-Sep-98,Goethe NF,museum,,H,29.3,-82.625,M. Deyrup,1998
+6629,Monomorium.sp.,G,NA,27-Jan-01,27-Jan-01,Fakahatchee Strand Preserve SP,berlese,U,H,25.94037,-81.469241,M. Deyrup,2001
+6629,Pheidole.bilimeki,G,alien,27-Jan-01,27-Jan-01,Fakahatchee Strand Preserve SP,berlese,U,H,25.94037,-81.469241,M. Deyrup,2001
+6629,Solenopsis.diplo,G,NA,27-Jan-01,27-Jan-01,Fakahatchee Strand Preserve SP,berlese,U,H,25.94037,-81.469241,M. Deyrup,2001
+6631,Brachymyrmex.depilis,G,native,27-Jan-01,27-Jan-01,Fakahatchee Strand Preserve SP,berlese,U,H,25.94037,-81.469241,M. Deyrup,2001
+6631,Nylanderia.concinna,G,native,27-Jan-01,27-Jan-01,Fakahatchee Strand Preserve SP,berlese,U,H,25.94037,-81.469241,M. Deyrup,2001
+6633,Brachymyrmex.depilis,G,native,27-Jan-01,27-Jan-01,Fakahatchee Strand Preserve SP,berlese,U,H,25.94037,-81.469241,M. Deyrup,2001
+6633,Pheidole.flavens,G,alien,27-Jan-01,27-Jan-01,Fakahatchee Strand Preserve SP,berlese,U,H,25.94037,-81.469241,M. Deyrup,2001
+6635,Brachymyrmex.depilis,G,native,27-Jan-01,27-Jan-01,Fakahatchee Strand Preserve SP,berlese,U,H,25.94037,-81.469241,M. Deyrup,2001
+6637,Nylanderia.concinna,G,native,27-Jan-01,27-Jan-01,Fakahatchee Strand Preserve SP,berlese,U,H,25.94037,-81.469241,M. Deyrup,2001
+6637,Pheidole.bilimeki,G,alien,27-Jan-01,27-Jan-01,Fakahatchee Strand Preserve SP,berlese,U,H,25.94037,-81.469241,M. Deyrup,2001
+6637,Pheidole.flavens,G,alien,27-Jan-01,27-Jan-01,Fakahatchee Strand Preserve SP,berlese,U,H,25.94037,-81.469241,M. Deyrup,2001
+6639,Brachymyrmex.depilis,G,native,27-Jan-01,27-Jan-01,Fakahatchee Strand Preserve SP,berlese,U,H,25.94037,-81.469241,M. Deyrup,2001
+6639,Nylanderia.concinna,G,native,27-Jan-01,27-Jan-01,Fakahatchee Strand Preserve SP,berlese,U,H,25.94037,-81.469241,M. Deyrup,2001
+6639,Pheidole.bilimeki,G,alien,27-Jan-01,27-Jan-01,Fakahatchee Strand Preserve SP,berlese,U,H,25.94037,-81.469241,M. Deyrup,2001
+6640,Pheidole.bilimeki,G,alien,27-Jan-01,27-Jan-01,Fakahatchee Strand Preserve SP,berlese,U,H,25.94037,-81.469241,M. Deyrup,2001
+6640,Solenopsis.diplo,G,NA,27-Jan-01,27-Jan-01,Fakahatchee Strand Preserve SP,berlese,U,H,25.94037,-81.469241,M. Deyrup,2001
+6641,Hypoponera.opacior,G,native,27-Jan-01,27-Jan-01,Fakahatchee Strand Preserve SP,berlese,U,H,25.94037,-81.469241,M. Deyrup,2001
+6641,Pheidole.navigans,G,alien,27-Jan-01,27-Jan-01,Fakahatchee Strand Preserve SP,berlese,U,H,25.94037,-81.469241,M. Deyrup,2001
+6642,Brachymyrmex.depilis,G,native,27-Jan-01,27-Jan-01,Fakahatchee Strand Preserve SP,museum,U,H,25.997607,-81.405582,M. Deyrup,2001
+6642,Camponotus.decipiens,G,native,27-Jan-01,27-Jan-01,Fakahatchee Strand Preserve SP,museum,U,H,25.997607,-81.405582,M. Deyrup,2001
+6642,Hypoponera.opacior,G,native,27-Jan-01,27-Jan-01,Fakahatchee Strand Preserve SP,museum,U,H,25.997607,-81.405582,M. Deyrup,2001
+6642,Monomorium.sp.,G,NA,27-Jan-01,27-Jan-01,Fakahatchee Strand Preserve SP,museum,U,H,25.997607,-81.405582,M. Deyrup,2001
+6642,Pheidole.bilimeki,G,alien,27-Jan-01,27-Jan-01,Fakahatchee Strand Preserve SP,museum,U,H,25.997607,-81.405582,M. Deyrup,2001
+6642,Pheidole.flavens,G,alien,27-Jan-01,27-Jan-01,Fakahatchee Strand Preserve SP,museum,U,H,25.997607,-81.405582,M. Deyrup,2001
+6642,Solenopsis.diplo,G,NA,27-Jan-01,27-Jan-01,Fakahatchee Strand Preserve SP,museum,U,H,25.997607,-81.405582,M. Deyrup,2001
+6644,Brachymyrmex.depilis,G,native,31-Jan-01,31-Jan-01,Goethe NF,museum,,FW,29.3,-82.625,M. Deyrup,2001
+6644,Discothyrea.testacea,G,native,31-Jan-01,31-Jan-01,Goethe NF,museum,,FW,29.3,-82.625,M. Deyrup,2001
+6644,Pheidole.navigans,G,alien,31-Jan-01,31-Jan-01,Goethe NF,museum,,FW,29.3,-82.625,M. Deyrup,2001
+6644,Solenopsis.diplo,G,NA,31-Jan-01,31-Jan-01,Goethe NF,museum,,FW,29.3,-82.625,M. Deyrup,2001
+6644,Stigmatomma.pallipes,G,native,31-Jan-01,31-Jan-01,Goethe NF,museum,,FW,29.3,-82.625,M. Deyrup,2001
+6644,Strumigenys.ornata,G,native,31-Jan-01,31-Jan-01,Goethe NF,museum,,FW,29.3,-82.625,M. Deyrup,2001
+6646,Pheidole.dentigula,G,native,31-Jan-01,31-Jan-01,Goethe NF,museum,,S,29.31,-82.608333,M. Deyrup,2001
+6646,Strumigenys.dietrichi,G,native,31-Jan-01,31-Jan-01,Goethe NF,museum,,S,29.31,-82.608333,M. Deyrup,2001
+6646,Strumigenys.talpa,G,native,31-Jan-01,31-Jan-01,Goethe NF,museum,,S,29.31,-82.608333,M. Deyrup,2001
+6647,Aphaenogaster.fulva,G,native,31-Jan-01,31-Jan-01,Goethe NF,museum,,H,29.316667,-82.616667,M. Deyrup,2001
+6647,Crematogaster.minutissima,G,native,31-Jan-01,31-Jan-01,Goethe NF,museum,,H,29.316667,-82.616667,M. Deyrup,2001
+6647,Hypoponera.opacior,G,native,31-Jan-01,31-Jan-01,Goethe NF,museum,,H,29.316667,-82.616667,M. Deyrup,2001
+6647,Odontomachus.brunneus,G,native,31-Jan-01,31-Jan-01,Goethe NF,museum,,H,29.316667,-82.616667,M. Deyrup,2001
+6647,Pheidole.bilimeki,G,alien,31-Jan-01,31-Jan-01,Goethe NF,museum,,H,29.316667,-82.616667,M. Deyrup,2001
+6647,Pheidole.dentigula,G,native,31-Jan-01,31-Jan-01,Goethe NF,museum,,H,29.316667,-82.616667,M. Deyrup,2001
+6647,Pheidole.navigans,G,alien,31-Jan-01,31-Jan-01,Goethe NF,museum,,H,29.316667,-82.616667,M. Deyrup,2001
+6647,Solenopsis.diplo,G,NA,31-Jan-01,31-Jan-01,Goethe NF,museum,,H,29.316667,-82.616667,M. Deyrup,2001
+6647,Strumigenys.brevisetosa,G,native,31-Jan-01,31-Jan-01,Goethe NF,museum,,H,29.316667,-82.616667,M. Deyrup,2001
+6647,Strumigenys.louisianae,G,native,31-Jan-01,31-Jan-01,Goethe NF,museum,,H,29.316667,-82.616667,M. Deyrup,2001
+6647,Strumigenys.talpa,G,native,31-Jan-01,31-Jan-01,Goethe NF,museum,,H,29.316667,-82.616667,M. Deyrup,2001
+6748,Pheidole.dentigula,G,native,5-Dec-01,5-Dec-01,Withlacoochie NF,berlese,,S,28.686212,-82.493044,M. Deyrup,2001
+6748,Solenopsis.diplo,G,NA,5-Dec-01,5-Dec-01,Withlacoochie NF,berlese,,S,28.686212,-82.493044,M. Deyrup,2001
+6748,Strumigenys.ornata,G,native,5-Dec-01,5-Dec-01,Withlacoochie NF,berlese,,S,28.686212,-82.493044,M. Deyrup,2001
+6749,Hypoponera.opacior,G,native,5-Dec-01,5-Dec-01,Withlacoochie NF,berlese,,S,28.686212,-82.493044,M. Deyrup,2001
+6749,Pheidole.dentigula,G,native,5-Dec-01,5-Dec-01,Withlacoochie NF,berlese,,S,28.686212,-82.493044,M. Deyrup,2001
+6750,Hypoponera.opacior,G,native,5-Dec-01,5-Dec-01,Withlacoochie NF,berlese,,S,28.686212,-82.493044,M. Deyrup,2001
+6750,Nylanderia.parvula,G,native,5-Dec-01,5-Dec-01,Withlacoochie NF,berlese,,S,28.686212,-82.493044,M. Deyrup,2001
+6750,Solenopsis.diplo,G,NA,5-Dec-01,5-Dec-01,Withlacoochie NF,berlese,,S,28.686212,-82.493044,M. Deyrup,2001
+6751,Solenopsis.diplo,G,NA,5-Dec-01,5-Dec-01,Withlacoochie NF,berlese,,S,28.686212,-82.493044,M. Deyrup,2001
+6752,Solenopsis.diplo,G,NA,5-Dec-01,5-Dec-01,Withlacoochie NF,berlese,,S,28.686212,-82.493044,M. Deyrup,2001
+6753,Hypoponera.opacior,G,native,5-Dec-01,5-Dec-01,Withlacoochie NF,berlese,,S,28.686212,-82.493044,M. Deyrup,2001
+6753,Solenopsis.diplo,G,NA,5-Dec-01,5-Dec-01,Withlacoochie NF,berlese,,S,28.686212,-82.493044,M. Deyrup,2001
+6754,Solenopsis.diplo,G,NA,5-Dec-01,5-Dec-01,Withlacoochie NF,berlese,,S,28.686212,-82.493044,M. Deyrup,2001
+6754,Strumigenys.ornata,G,native,5-Dec-01,5-Dec-01,Withlacoochie NF,berlese,,S,28.686212,-82.493044,M. Deyrup,2001
+6755,Solenopsis.diplo,G,NA,5-Dec-01,5-Dec-01,Withlacoochie NF,berlese,,S,28.686212,-82.493044,M. Deyrup,2001
+6756,Solenopsis.diplo,G,NA,5-Dec-01,5-Dec-01,Withlacoochie NF,berlese,,S,28.686212,-82.493044,M. Deyrup,2001
+6757,Hypoponera.opacior,G,native,5-Dec-01,5-Dec-01,Withlacoochie NF,museum,,S,28.686212,-82.493044,M. Deyrup,2001
+6757,Nylanderia.parvula,G,native,5-Dec-01,5-Dec-01,Withlacoochie NF,museum,,S,28.686212,-82.493044,M. Deyrup,2001
+6757,Pheidole.dentigula,G,native,5-Dec-01,5-Dec-01,Withlacoochie NF,museum,,S,28.686212,-82.493044,M. Deyrup,2001
+6757,Solenopsis.diplo,G,NA,5-Dec-01,5-Dec-01,Withlacoochie NF,museum,,S,28.686212,-82.493044,M. Deyrup,2001
+6757,Strumigenys.ornata,G,native,5-Dec-01,5-Dec-01,Withlacoochie NF,museum,,S,28.686212,-82.493044,M. Deyrup,2001
+6847,Formica.archboldi,G,native,11-May-02,11-May-02,Withlacoochie NF,museum,,SH,28.716667,-82.499941,M. Deyrup,2002
+6847,Nylanderia.arenivaga,G,native,11-May-02,11-May-02,Withlacoochie NF,museum,,SH,28.716667,-82.499941,M. Deyrup,2002
+6847,Nylanderia.parvula,G,native,11-May-02,11-May-02,Withlacoochie NF,museum,,SH,28.716667,-82.499941,M. Deyrup,2002
+6847,Pheidole.bilimeki,G,alien,11-May-02,11-May-02,Withlacoochie NF,museum,,SH,28.716667,-82.499941,M. Deyrup,2002
+6847,Pheidole.dentata,G,native,11-May-02,11-May-02,Withlacoochie NF,museum,,SH,28.716667,-82.499941,M. Deyrup,2002
+6847,Pheidole.dentigula,G,native,11-May-02,11-May-02,Withlacoochie NF,museum,,SH,28.716667,-82.499941,M. Deyrup,2002
+6847,Pheidole.metallescens,G,native,11-May-02,11-May-02,Withlacoochie NF,museum,,SH,28.716667,-82.499941,M. Deyrup,2002
+6847,Pheidole.morrisii,G,native,11-May-02,11-May-02,Withlacoochie NF,museum,,SH,28.716667,-82.499941,M. Deyrup,2002
+6847,Pseudomyrmex.ejectus,A,native,11-May-02,11-May-02,Withlacoochie NF,museum,,SH,28.716667,-82.499941,M. Deyrup,2002
+6847,Pseudomyrmex.gracilis,A,alien,11-May-02,11-May-02,Withlacoochie NF,museum,,SH,28.716667,-82.499941,M. Deyrup,2002
+6847,Pseudomyrmex.pallidus,A,native,11-May-02,11-May-02,Withlacoochie NF,museum,,SH,28.716667,-82.499941,M. Deyrup,2002
+6847,Solenopsis.picta,A,native,11-May-02,11-May-02,Withlacoochie NF,museum,,SH,28.716667,-82.499941,M. Deyrup,2002
+6847,Strumigenys.ornata,G,native,11-May-02,11-May-02,Withlacoochie NF,museum,,SH,28.716667,-82.499941,M. Deyrup,2002
+6847,Strumigenys.talpa,G,native,11-May-02,11-May-02,Withlacoochie NF,museum,,SH,28.716667,-82.499941,M. Deyrup,2002
+6847,Trachymyrmex.septentrionalis,G,native,11-May-02,11-May-02,Withlacoochie NF,museum,,SH,28.716667,-82.499941,M. Deyrup,2002
+6852,Strumigenys.clypeata,G,native,26-Oct-02,26-Oct-02,Osceola NF,museum,,H,30.283333,-82.473,M. Deyrup,2002
+6877,Camponotus.decipiens,G,native,4-Oct-03,4-Oct-03,Wekiva Springs SP,museum,,,28.736474,-81.479603,M. Deyrup,2003
+6877,Monomorium.pharaonis,G,alien,4-Oct-03,4-Oct-03,Wekiva Springs SP,museum,,,28.736474,-81.479603,M. Deyrup,2003
+7255,Hypoponera.opacior,G,native,16-Dec-06,16-Dec-06,Wekiva Springs SP,berlese,,H,28.748526,-81.477623,M. Deyrup,2006
+7256,Strumigenys.louisianae,G,native,16-Dec-06,16-Dec-06,Wekiva Springs SP,berlese,,H,28.748526,-81.477623,M. Deyrup,2006
+7257,Hypoponera.opaciceps,G,alien,16-Dec-06,16-Dec-06,Wekiva Springs SP,berlese,,H,28.748526,-81.477623,M. Deyrup,2006
+7257,Pheidole.navigans,G,alien,16-Dec-06,16-Dec-06,Wekiva Springs SP,berlese,,H,28.748526,-81.477623,M. Deyrup,2006
+7257,Strumigenys.eggersi,G,alien,16-Dec-06,16-Dec-06,Wekiva Springs SP,berlese,,H,28.748526,-81.477623,M. Deyrup,2006
+7258,Solenopsis.diplo,G,NA,16-Dec-06,16-Dec-06,Wekiva Springs SP,berlese,,H,28.748526,-81.477623,M. Deyrup,2006
+7258,Strumigenys.louisianae,G,native,16-Dec-06,16-Dec-06,Wekiva Springs SP,berlese,,H,28.748526,-81.477623,M. Deyrup,2006
+7259,Strumigenys.rogeri,G,alien,16-Dec-06,16-Dec-06,Wekiva Springs SP,berlese,,H,28.748526,-81.477623,M. Deyrup,2006
+7260,Hypoponera.opacior,G,native,16-Dec-06,16-Dec-06,Wekiva Springs SP,berlese,,H,28.748526,-81.477623,M. Deyrup,2006
+7260,Strumigenys.eggersi,G,alien,16-Dec-06,16-Dec-06,Wekiva Springs SP,berlese,,H,28.748526,-81.477623,M. Deyrup,2006
+7261,Hypoponera.opaciceps,G,alien,16-Dec-06,16-Dec-06,Wekiva Springs SP,berlese,,H,28.748526,-81.477623,M. Deyrup,2006
+7262,Hypoponera.opaciceps,G,alien,16-Dec-06,16-Dec-06,Wekiva Springs SP,berlese,,H,28.748526,-81.477623,M. Deyrup,2006
+7262,Strumigenys.eggersi,G,alien,16-Dec-06,16-Dec-06,Wekiva Springs SP,berlese,,H,28.748526,-81.477623,M. Deyrup,2006
+7262,Strumigenys.louisianae,G,native,16-Dec-06,16-Dec-06,Wekiva Springs SP,berlese,,H,28.748526,-81.477623,M. Deyrup,2006
+7263,Cardiocondyla.wroughtonii,G,alien,16-Dec-06,16-Dec-06,Wekiva Springs SP,berlese,,H,28.748526,-81.477623,M. Deyrup,2006
+7263,Strumigenys.eggersi,G,alien,16-Dec-06,16-Dec-06,Wekiva Springs SP,berlese,,H,28.748526,-81.477623,M. Deyrup,2006
+7263,Wasmannia.auropunctata,G,alien,16-Dec-06,16-Dec-06,Wekiva Springs SP,berlese,,H,28.748526,-81.477623,M. Deyrup,2006
+7264,Solenopsis.diplo,G,NA,16-Dec-06,16-Dec-06,Wekiva Springs SP,berlese,,H,28.748526,-81.477623,M. Deyrup,2006
+7264,Wasmannia.auropunctata,G,alien,16-Dec-06,16-Dec-06,Wekiva Springs SP,berlese,,H,28.748526,-81.477623,M. Deyrup,2006
+7265,Strumigenys.eggersi,G,alien,16-Dec-06,16-Dec-06,Wekiva Springs SP,berlese,,H,28.748526,-81.477623,M. Deyrup,2006
+7266,Solenopsis.diplo,G,NA,16-Dec-06,16-Dec-06,Wekiva Springs SP,berlese,,H,28.748526,-81.477623,M. Deyrup,2006
+7266,Strumigenys.eggersi,G,alien,16-Dec-06,16-Dec-06,Wekiva Springs SP,berlese,,H,28.748526,-81.477623,M. Deyrup,2006
+7266,Wasmannia.auropunctata,G,alien,16-Dec-06,16-Dec-06,Wekiva Springs SP,berlese,,H,28.748526,-81.477623,M. Deyrup,2006
+7267,Solenopsis.diplo,G,NA,16-Dec-06,16-Dec-06,Wekiva Springs SP,berlese,,H,28.748526,-81.477623,M. Deyrup,2006
+7268,Solenopsis.diplo,G,NA,16-Dec-06,16-Dec-06,Wekiva Springs SP,berlese,,H,28.748526,-81.477623,M. Deyrup,2006
+7269,Strumigenys.eggersi,G,alien,16-Dec-06,16-Dec-06,Wekiva Springs SP,berlese,,H,28.748526,-81.477623,M. Deyrup,2006
+7270,Brachymyrmex.depilis,G,native,16-Dec-06,16-Dec-06,Wekiva Springs SP,berlese,,H,28.748526,-81.477623,M. Deyrup,2006
+7270,Solenopsis.diplo,G,NA,16-Dec-06,16-Dec-06,Wekiva Springs SP,berlese,,H,28.748526,-81.477623,M. Deyrup,2006
+7271,Pheidole.dentigula,G,native,16-Dec-06,16-Dec-06,Wekiva Springs SP,berlese,,H,28.748526,-81.477623,M. Deyrup,2006
+7272,Pheidole.dentigula,G,native,16-Dec-06,16-Dec-06,Wekiva Springs SP,berlese,,H,28.748526,-81.477623,M. Deyrup,2006
+7272,Solenopsis.diplo,G,NA,16-Dec-06,16-Dec-06,Wekiva Springs SP,berlese,,H,28.748526,-81.477623,M. Deyrup,2006
+7272,Strumigenys.eggersi,G,alien,16-Dec-06,16-Dec-06,Wekiva Springs SP,berlese,,H,28.748526,-81.477623,M. Deyrup,2006
+7273,Cyphomyrmex.minutus,G,alien,16-Dec-06,16-Dec-06,Wekiva Springs SP,berlese,,H,28.748526,-81.477623,M. Deyrup,2006
+7274,Pheidole.navigans,G,alien,16-Dec-06,16-Dec-06,Wekiva Springs SP,berlese,,H,28.748526,-81.477623,M. Deyrup,2006
+7274,Strumigenys.eggersi,G,alien,16-Dec-06,16-Dec-06,Wekiva Springs SP,berlese,,H,28.748526,-81.477623,M. Deyrup,2006
+7275,Cyphomyrmex.minutus,G,alien,16-Dec-06,16-Dec-06,Wekiva Springs SP,berlese,,H,28.748526,-81.477623,M. Deyrup,2006
+7275,Pheidole.navigans,G,alien,16-Dec-06,16-Dec-06,Wekiva Springs SP,berlese,,H,28.748526,-81.477623,M. Deyrup,2006
+7275,Strumigenys.eggersi,G,alien,16-Dec-06,16-Dec-06,Wekiva Springs SP,berlese,,H,28.748526,-81.477623,M. Deyrup,2006
+7276,Solenopsis.diplo,G,NA,16-Dec-06,16-Dec-06,Wekiva Springs SP,berlese,,H,28.748526,-81.477623,M. Deyrup,2006
+7276,Wasmannia.auropunctata,G,alien,16-Dec-06,16-Dec-06,Wekiva Springs SP,berlese,,H,28.748526,-81.477623,M. Deyrup,2006
+7277,Solenopsis.diplo,G,NA,16-Dec-06,16-Dec-06,Wekiva Springs SP,berlese,,H,28.748526,-81.477623,M. Deyrup,2006
+7278,Pheidole.navigans,G,alien,16-Dec-06,16-Dec-06,Wekiva Springs SP,berlese,,H,28.748526,-81.477623,M. Deyrup,2006
+7346,Brachymyrmex.depilis,G,native,11-Nov-07,11-Nov-07,Osceola NF,museum,D,FW,30.413167,-82.264167,M. Deyrup,2007
+7346,Cardiocondyla.venustula,G,alien,11-Nov-07,11-Nov-07,Osceola NF,museum,D,FW,30.413167,-82.264167,M. Deyrup,2007
+7346,Crematogaster.pinicola,A,native,11-Nov-07,11-Nov-07,Osceola NF,museum,D,FW,30.413167,-82.264167,M. Deyrup,2007
+7346,Dorymyrmex.bureni,G,native,11-Nov-07,11-Nov-07,Osceola NF,museum,D,FW,30.413167,-82.264167,M. Deyrup,2007
+7346,Hypoponera.opacior,G,native,11-Nov-07,11-Nov-07,Osceola NF,museum,D,FW,30.413167,-82.264167,M. Deyrup,2007
+7346,Odontomachus.brunneus,G,native,11-Nov-07,11-Nov-07,Osceola NF,museum,D,FW,30.413167,-82.264167,M. Deyrup,2007
+7346,Solenopsis.diplo,G,NA,11-Nov-07,11-Nov-07,Osceola NF,museum,D,FW,30.413167,-82.264167,M. Deyrup,2007
+7346,Solenopsis.invicta,G,alien,11-Nov-07,11-Nov-07,Osceola NF,museum,D,FW,30.413167,-82.264167,M. Deyrup,2007
+7346,Strumigenys.ornata,G,native,11-Nov-07,11-Nov-07,Osceola NF,museum,D,FW,30.413167,-82.264167,M. Deyrup,2007
+7596,Cyphomyrmex.minutus,G,alien,27-May-19,27-May-19,Collier-Seminole SP,museum,S,S,25.98639,-81.59342,D. Booher,2019
+7596,Hypoponera.punctatissima,G,alien,27-May-19,27-May-19,Collier-Seminole SP,museum,S,S,25.98639,-81.59342,D. Booher,2019
+7596,Wasmannia.auropunctata,G,alien,27-May-19,27-May-19,Collier-Seminole SP,museum,S,S,25.98639,-81.59342,D. Booher,2019
+7597,Nylanderia.steinheili,G,alien,27-May-19,27-May-19,Collier-Seminole SP,museum,S,S,25.98639,-81.59342,D. Booher,2019
+7597,Pheidole.navigans,G,alien,27-May-19,27-May-19,Collier-Seminole SP,museum,S,S,25.98639,-81.59342,D. Booher,2019
+7597,Wasmannia.auropunctata,G,alien,27-May-19,27-May-19,Collier-Seminole SP,museum,S,S,25.98639,-81.59342,D. Booher,2019
+7598,Wasmannia.auropunctata,G,alien,27-May-19,27-May-19,Collier-Seminole SP,museum,S,S,25.98639,-81.59342,D. Booher,2019
+7599,Pheidole.dentigula,G,native,27-May-19,27-May-19,Collier-Seminole SP,museum,S,S,25.98639,-81.59342,D. Booher,2019
+7599,Solenopsis.invicta,G,alien,27-May-19,27-May-19,Collier-Seminole SP,museum,S,S,25.98639,-81.59342,D. Booher,2019
+7600,Nylanderia.steinheili,G,alien,27-May-19,27-May-19,Collier-Seminole SP,museum,S,S,25.98639,-81.59342,D. Booher,2019
+7600,Pheidole.dentigula,G,native,27-May-19,27-May-19,Collier-Seminole SP,museum,S,S,25.98639,-81.59342,D. Booher,2019
+7600,Solenopsis.invicta,G,alien,27-May-19,27-May-19,Collier-Seminole SP,museum,S,S,25.98639,-81.59342,D. Booher,2019
+7600,Wasmannia.auropunctata,G,alien,27-May-19,27-May-19,Collier-Seminole SP,museum,S,S,25.98639,-81.59342,D. Booher,2019
+7601,no ants.no ants,,NA,27-May-19,27-May-19,Collier-Seminole SP,museum,S,FW,25.99074,-81.57874,D. Booher,2019
+7602,Hypoponera.opacior,G,native,27-May-19,27-May-19,Collier-Seminole SP,museum,S,FW,25.99074,-81.57874,D. Booher,2019
+7602,Pheidole.navigans,G,alien,27-May-19,27-May-19,Collier-Seminole SP,museum,S,FW,25.99074,-81.57874,D. Booher,2019
+7603,Tapinoma.melanocephalum,G,alien,27-May-19,27-May-19,Collier-Seminole SP,museum,S,FW,25.99074,-81.57874,D. Booher,2019
+7604,Hypoponera.punctatissima,G,alien,27-May-19,27-May-19,Collier-Seminole SP,museum,S,FW,25.99074,-81.57874,D. Booher,2019
+7605,no ants.no ants,,NA,27-May-19,27-May-19,Collier-Seminole SP,museum,S,FW,25.99074,-81.57874,D. Booher,2019
+7606,Pheidole.dentigula,G,native,27-May-19,27-May-19,Collier-Seminole SP,museum,U,FW,25.99376,-81.5793,D. Booher,2019
+7606,Pheidole.navigans,G,alien,27-May-19,27-May-19,Collier-Seminole SP,museum,U,FW,25.99376,-81.5793,D. Booher,2019
+7607,Pheidole.navigans,G,alien,27-May-19,27-May-19,Collier-Seminole SP,museum,U,FW,25.99376,-81.5793,D. Booher,2019
+7608,Hypoponera.opacior,G,native,27-May-19,27-May-19,Collier-Seminole SP,museum,U,FW,25.99376,-81.5793,D. Booher,2019
+7608,Pheidole.bilimeki,G,alien,27-May-19,27-May-19,Collier-Seminole SP,museum,U,FW,25.99376,-81.5793,D. Booher,2019
+7609,no ants.no ants,,NA,27-May-19,27-May-19,Collier-Seminole SP,museum,U,FW,25.99376,-81.5793,D. Booher,2019
+7610,Hypoponera.opacior,G,native,27-May-19,27-May-19,Collier-Seminole SP,museum,U,FW,25.99376,-81.5793,D. Booher,2019
+7610,Pheidole.bilimeki,G,alien,27-May-19,27-May-19,Collier-Seminole SP,museum,U,FW,25.99376,-81.5793,D. Booher,2019
+7611,Hypoponera.opaciceps,G,alien,27-May-19,27-May-19,Collier-Seminole SP,museum,U,H,25.99154,-81.59128,D. Booher,2019
+7611,Nylanderia.steinheili,G,alien,27-May-19,27-May-19,Collier-Seminole SP,museum,U,H,25.99154,-81.59128,D. Booher,2019
+7611,Odontomachus.brunneus,G,native,27-May-19,27-May-19,Collier-Seminole SP,museum,U,H,25.99154,-81.59128,D. Booher,2019
+7611,Pheidole.navigans,G,alien,27-May-19,27-May-19,Collier-Seminole SP,museum,U,H,25.99154,-81.59128,D. Booher,2019
+7611,Solenopsis.diplo,G,NA,27-May-19,27-May-19,Collier-Seminole SP,museum,U,H,25.99154,-81.59128,D. Booher,2019
+7612,Camponotus.planatus,A,alien,27-May-19,27-May-19,Collier-Seminole SP,museum,U,H,25.99154,-81.59128,D. Booher,2019
+7613,Hypoponera.opaciceps,G,alien,27-May-19,27-May-19,Collier-Seminole SP,museum,U,H,25.99154,-81.59128,D. Booher,2019
+7613,Pheidole.navigans,G,alien,27-May-19,27-May-19,Collier-Seminole SP,museum,U,H,25.99154,-81.59128,D. Booher,2019
+7614,Hypoponera.opacior,G,native,27-May-19,27-May-19,Collier-Seminole SP,museum,U,H,25.99154,-81.59128,D. Booher,2019
+7615,Hypoponera.opaciceps,G,alien,27-May-19,27-May-19,Collier-Seminole SP,museum,U,H,25.99154,-81.59128,D. Booher,2019
+7615,Pheidole.navigans,G,alien,27-May-19,27-May-19,Collier-Seminole SP,museum,U,H,25.99154,-81.59128,D. Booher,2019
+7616,Nylanderia.steinheili,G,alien,27-May-19,27-May-19,Fakahatchee Strand Preserve SP,museum,U,H,26.14329,-81.36185,D. Booher,2019
+7616,Pheidole.navigans,G,alien,27-May-19,27-May-19,Fakahatchee Strand Preserve SP,museum,U,H,26.14329,-81.36185,D. Booher,2019
+7616,Strumigenys.eggersi,G,alien,27-May-19,27-May-19,Fakahatchee Strand Preserve SP,museum,U,H,26.14329,-81.36185,D. Booher,2019
+7616,Wasmannia.auropunctata,G,alien,27-May-19,27-May-19,Fakahatchee Strand Preserve SP,museum,U,H,26.14329,-81.36185,D. Booher,2019
+7617,Hypoponera.opaciceps,G,alien,27-May-19,27-May-19,Fakahatchee Strand Preserve SP,museum,U,H,26.14329,-81.36185,D. Booher,2019
+7617,Pheidole.bilimeki,G,alien,27-May-19,27-May-19,Fakahatchee Strand Preserve SP,museum,U,H,26.14329,-81.36185,D. Booher,2019
+7617,Strumigenys.eggersi,G,alien,27-May-19,27-May-19,Fakahatchee Strand Preserve SP,museum,U,H,26.14329,-81.36185,D. Booher,2019
+7617,Wasmannia.auropunctata,G,alien,27-May-19,27-May-19,Fakahatchee Strand Preserve SP,museum,U,H,26.14329,-81.36185,D. Booher,2019
+7618,Hypoponera.opaciceps,G,alien,27-May-19,27-May-19,Fakahatchee Strand Preserve SP,museum,U,H,26.14329,-81.36185,D. Booher,2019
+7618,Hypoponera.opacior,G,native,27-May-19,27-May-19,Fakahatchee Strand Preserve SP,museum,U,H,26.14329,-81.36185,D. Booher,2019
+7618,Pheidole.navigans,G,alien,27-May-19,27-May-19,Fakahatchee Strand Preserve SP,museum,U,H,26.14329,-81.36185,D. Booher,2019
+7618,Strumigenys.rogeri,G,alien,27-May-19,27-May-19,Fakahatchee Strand Preserve SP,museum,U,H,26.14329,-81.36185,D. Booher,2019
+7618,Wasmannia.auropunctata,G,alien,27-May-19,27-May-19,Fakahatchee Strand Preserve SP,museum,U,H,26.14329,-81.36185,D. Booher,2019
+7619,Nylanderia.steinheili,G,alien,27-May-19,27-May-19,Fakahatchee Strand Preserve SP,museum,U,H,26.14329,-81.36185,D. Booher,2019
+7619,Pheidole.navigans,G,alien,27-May-19,27-May-19,Fakahatchee Strand Preserve SP,museum,U,H,26.14329,-81.36185,D. Booher,2019
+7619,Strumigenys.eggersi,G,alien,27-May-19,27-May-19,Fakahatchee Strand Preserve SP,museum,U,H,26.14329,-81.36185,D. Booher,2019
+7619,Wasmannia.auropunctata,G,alien,27-May-19,27-May-19,Fakahatchee Strand Preserve SP,museum,U,H,26.14329,-81.36185,D. Booher,2019
+7620,Nylanderia.steinheili,G,alien,27-May-19,27-May-19,Fakahatchee Strand Preserve SP,museum,U,H,26.14329,-81.36185,D. Booher,2019
+7620,Pheidole.navigans,G,alien,27-May-19,27-May-19,Fakahatchee Strand Preserve SP,museum,U,H,26.14329,-81.36185,D. Booher,2019
+7620,Strumigenys.eggersi,G,alien,27-May-19,27-May-19,Fakahatchee Strand Preserve SP,museum,U,H,26.14329,-81.36185,D. Booher,2019
+7621,Pheidole.navigans,G,alien,27-May-19,27-May-19,Collier-Seminole SP,museum,S,FW,26.00068,-81.57504,D. Booher,2019
+7622,Nylanderia.concinna,G,native,27-May-19,27-May-19,Collier-Seminole SP,museum,S,FW,26.00068,-81.57504,D. Booher,2019
+7622,Nylanderia.steinheili,G,alien,27-May-19,27-May-19,Collier-Seminole SP,museum,S,FW,26.00068,-81.57504,D. Booher,2019
+7622,Pheidole.navigans,G,alien,27-May-19,27-May-19,Collier-Seminole SP,museum,S,FW,26.00068,-81.57504,D. Booher,2019
+7622,Solenopsis.diplo,G,NA,27-May-19,27-May-19,Collier-Seminole SP,museum,S,FW,26.00068,-81.57504,D. Booher,2019
+7623,Hypoponera.opacior,G,native,27-May-19,27-May-19,Collier-Seminole SP,museum,S,FW,26.00068,-81.57504,D. Booher,2019
+7623,Hypoponera.punctatissima,G,alien,27-May-19,27-May-19,Collier-Seminole SP,museum,S,FW,26.00068,-81.57504,D. Booher,2019
+7623,Pheidole.navigans,G,alien,27-May-19,27-May-19,Collier-Seminole SP,museum,S,FW,26.00068,-81.57504,D. Booher,2019
+7623,Solenopsis.invicta,G,alien,27-May-19,27-May-19,Collier-Seminole SP,museum,S,FW,26.00068,-81.57504,D. Booher,2019
+7624,Hypoponera.opaciceps,G,alien,27-May-19,27-May-19,Collier-Seminole SP,museum,S,FW,26.00068,-81.57504,D. Booher,2019
+7625,Hypoponera.punctatissima,G,alien,27-May-19,27-May-19,Collier-Seminole SP,museum,S,FW,26.00068,-81.57504,D. Booher,2019
+7625,Pheidole.navigans,G,alien,27-May-19,27-May-19,Collier-Seminole SP,museum,S,FW,26.00068,-81.57504,D. Booher,2019
+7626,Brachymyrmex.depilis,G,native,27-May-19,27-May-19,Collier-Seminole SP,museum,U,H,25.99136,-81.59255,D. Booher,2019
+7626,Nylanderia.steinheili,G,alien,27-May-19,27-May-19,Collier-Seminole SP,museum,U,H,25.99136,-81.59255,D. Booher,2019
+7626,Odontomachus.brunneus,G,native,27-May-19,27-May-19,Collier-Seminole SP,museum,U,H,25.99136,-81.59255,D. Booher,2019
+7626,Pheidole.navigans,G,alien,27-May-19,27-May-19,Collier-Seminole SP,museum,U,H,25.99136,-81.59255,D. Booher,2019
+7627,Nylanderia.steinheili,G,alien,27-May-19,27-May-19,Collier-Seminole SP,museum,U,H,25.99136,-81.59255,D. Booher,2019
+7628,Brachymyrmex.depilis,G,native,27-May-19,27-May-19,Collier-Seminole SP,museum,U,H,25.99136,-81.59255,D. Booher,2019
+7628,Nylanderia.steinheili,G,alien,27-May-19,27-May-19,Collier-Seminole SP,museum,U,H,25.99136,-81.59255,D. Booher,2019
+7628,Pheidole.navigans,G,alien,27-May-19,27-May-19,Collier-Seminole SP,museum,U,H,25.99136,-81.59255,D. Booher,2019
+7629,Pheidole.navigans,G,alien,27-May-19,27-May-19,Collier-Seminole SP,museum,U,H,25.99136,-81.59255,D. Booher,2019
+7630,Brachymyrmex.depilis,G,native,27-May-19,27-May-19,Collier-Seminole SP,museum,U,H,25.99136,-81.59255,D. Booher,2019
+7630,Hypoponera.opacior,G,native,27-May-19,27-May-19,Collier-Seminole SP,museum,U,H,25.99136,-81.59255,D. Booher,2019
+7630,Pheidole.navigans,G,alien,27-May-19,27-May-19,Collier-Seminole SP,museum,U,H,25.99136,-81.59255,D. Booher,2019
+7631,Nylanderia.steinheili,G,alien,27-May-19,27-May-19,Collier-Seminole SP,museum,U,H,25.98991,-81.59348,D. Booher,2019
+7631,Pheidole.navigans,G,alien,27-May-19,27-May-19,Collier-Seminole SP,museum,U,H,25.98991,-81.59348,D. Booher,2019
+7632,Brachymyrmex.obscurior,G,alien,27-May-19,27-May-19,Collier-Seminole SP,museum,U,H,25.98991,-81.59348,D. Booher,2019
+7632,Hypoponera.opacior,G,native,27-May-19,27-May-19,Collier-Seminole SP,museum,U,H,25.98991,-81.59348,D. Booher,2019
+7632,Solenopsis.diplo,G,NA,27-May-19,27-May-19,Collier-Seminole SP,museum,U,H,25.98991,-81.59348,D. Booher,2019
+7633,Pheidole.navigans,G,alien,27-May-19,27-May-19,Collier-Seminole SP,museum,U,H,25.98991,-81.59348,D. Booher,2019
+7633,Solenopsis.diplo,G,NA,27-May-19,27-May-19,Collier-Seminole SP,museum,U,H,25.98991,-81.59348,D. Booher,2019
+7633,Wasmannia.auropunctata,G,alien,27-May-19,27-May-19,Collier-Seminole SP,museum,U,H,25.98991,-81.59348,D. Booher,2019
+7634,Pheidole.dentigula,G,native,27-May-19,27-May-19,Collier-Seminole SP,museum,U,H,25.98991,-81.59348,D. Booher,2019
+7634,Pheidole.navigans,G,alien,27-May-19,27-May-19,Collier-Seminole SP,museum,U,H,25.98991,-81.59348,D. Booher,2019
+7634,Solenopsis.diplo,G,NA,27-May-19,27-May-19,Collier-Seminole SP,museum,U,H,25.98991,-81.59348,D. Booher,2019
+7634,Strumigenys.eggersi,G,alien,27-May-19,27-May-19,Collier-Seminole SP,museum,U,H,25.98991,-81.59348,D. Booher,2019
+7634,Wasmannia.auropunctata,G,alien,27-May-19,27-May-19,Collier-Seminole SP,museum,U,H,25.98991,-81.59348,D. Booher,2019
+7635,Pheidole.navigans,G,alien,27-May-19,27-May-19,Collier-Seminole SP,museum,U,H,25.98991,-81.59348,D. Booher,2019
+7635,Solenopsis.diplo,G,NA,27-May-19,27-May-19,Collier-Seminole SP,museum,U,H,25.98991,-81.59348,D. Booher,2019
+7635,Wasmannia.auropunctata,G,alien,27-May-19,27-May-19,Collier-Seminole SP,museum,U,H,25.98991,-81.59348,D. Booher,2019
+7656,Pheidole.navigans,G,alien,5-Jun-19,5-Jun-19,Longino Ranch,museum,D,H,27.161523,-82.116787,D. Booher,2019
+7656,Solenopsis.diplo,G,NA,5-Jun-19,5-Jun-19,Longino Ranch,museum,D,H,27.161523,-82.116787,D. Booher,2019
+7656,Solenopsis.invicta,G,alien,5-Jun-19,5-Jun-19,Longino Ranch,museum,D,H,27.161523,-82.116787,D. Booher,2019
+7656,Strumigenys.eggersi,G,alien,5-Jun-19,5-Jun-19,Longino Ranch,museum,D,H,27.161523,-82.116787,D. Booher,2019
+7656,Strumigenys.emmae,G,alien,5-Jun-19,5-Jun-19,Longino Ranch,museum,D,H,27.161523,-82.116787,D. Booher,2019
+7656,Strumigenys.rogeri,G,alien,5-Jun-19,5-Jun-19,Longino Ranch,museum,D,H,27.161523,-82.116787,D. Booher,2019
+7657,Solenopsis.diplo,G,NA,5-Jun-19,5-Jun-19,Longino Ranch,museum,D,H,27.161523,-82.116787,D. Booher,2019
+7657,Solenopsis.invicta,G,alien,5-Jun-19,5-Jun-19,Longino Ranch,museum,D,H,27.161523,-82.116787,D. Booher,2019
+7657,Strumigenys.rogeri,G,alien,5-Jun-19,5-Jun-19,Longino Ranch,museum,D,H,27.161523,-82.116787,D. Booher,2019
+7658,Pheidole.bilimeki,G,alien,5-Jun-19,5-Jun-19,Longino Ranch,museum,D,H,27.161523,-82.116787,D. Booher,2019
+7658,Solenopsis.diplo,G,NA,5-Jun-19,5-Jun-19,Longino Ranch,museum,D,H,27.161523,-82.116787,D. Booher,2019
+7659,Pheidole.bilimeki,G,alien,5-Jun-19,5-Jun-19,Longino Ranch,museum,D,H,27.161523,-82.116787,D. Booher,2019
+7659,Solenopsis.diplo,G,NA,5-Jun-19,5-Jun-19,Longino Ranch,museum,D,H,27.161523,-82.116787,D. Booher,2019
+7660,Solenopsis.diplo,G,NA,5-Jun-19,5-Jun-19,Longino Ranch,museum,D,H,27.161523,-82.116787,D. Booher,2019
+7661,no ants.no ants,,NA,5-Jun-19,5-Jun-19,Longino Ranch,museum,D,H,27.162927,-82.116583,D. Booher,2019
+7662,Brachymyrmex.depilis,G,native,5-Jun-19,5-Jun-19,Longino Ranch,museum,D,H,27.162927,-82.116583,D. Booher,2019
+7662,Pheidole.navigans,G,alien,5-Jun-19,5-Jun-19,Longino Ranch,museum,D,H,27.162927,-82.116583,D. Booher,2019
+7662,Solenopsis.diplo,G,NA,5-Jun-19,5-Jun-19,Longino Ranch,museum,D,H,27.162927,-82.116583,D. Booher,2019
+7663,Pheidole.navigans,G,alien,5-Jun-19,5-Jun-19,Longino Ranch,museum,D,H,27.162927,-82.116583,D. Booher,2019
+7663,Solenopsis.diplo,G,NA,5-Jun-19,5-Jun-19,Longino Ranch,museum,D,H,27.162927,-82.116583,D. Booher,2019
+7663,Strumigenys.rogeri,G,alien,5-Jun-19,5-Jun-19,Longino Ranch,museum,D,H,27.162927,-82.116583,D. Booher,2019
+7664,Solenopsis.diplo,G,NA,5-Jun-19,5-Jun-19,Longino Ranch,museum,D,H,27.162927,-82.116583,D. Booher,2019
+7664,Strumigenys.louisianae,G,native,5-Jun-19,5-Jun-19,Longino Ranch,museum,D,H,27.162927,-82.116583,D. Booher,2019
+7665,Solenopsis.diplo,G,NA,5-Jun-19,5-Jun-19,Longino Ranch,museum,D,H,27.162927,-82.116583,D. Booher,2019
+7666,Pheidole.navigans,G,alien,5-Jun-19,5-Jun-19,Longino Ranch,museum,D,H,27.16211,-82.11656,D. Booher,2019
+7666,Strumigenys.eggersi,G,alien,5-Jun-19,5-Jun-19,Longino Ranch,museum,D,H,27.16211,-82.11656,D. Booher,2019
+7666,Strumigenys.rogeri,G,alien,5-Jun-19,5-Jun-19,Longino Ranch,museum,D,H,27.16211,-82.11656,D. Booher,2019
+7667,no ants.no ants,,NA,5-Jun-19,5-Jun-19,Longino Ranch,museum,D,H,27.16211,-82.11656,D. Booher,2019
+7668,Pheidole.navigans,G,alien,5-Jun-19,5-Jun-19,Longino Ranch,museum,D,H,27.16211,-82.11656,D. Booher,2019
+7668,Solenopsis.diplo,G,NA,5-Jun-19,5-Jun-19,Longino Ranch,museum,D,H,27.16211,-82.11656,D. Booher,2019
+7669,Hypoponera.opaciceps,G,alien,5-Jun-19,5-Jun-19,Longino Ranch,museum,D,H,27.16211,-82.11656,D. Booher,2019
+7669,Pheidole.bilimeki,G,alien,5-Jun-19,5-Jun-19,Longino Ranch,museum,D,H,27.16211,-82.11656,D. Booher,2019
+7669,Strumigenys.eggersi,G,alien,5-Jun-19,5-Jun-19,Longino Ranch,museum,D,H,27.16211,-82.11656,D. Booher,2019
+7670,no ants.no ants,,NA,5-Jun-19,5-Jun-19,Longino Ranch,museum,D,H,27.16211,-82.11656,D. Booher,2019
+7671,Hypoponera.punctatissima,G,alien,5-Jun-19,5-Jun-19,Longino Ranch,museum,S,H,27.16177,-82.11625,D. Booher,2019
+7672,Hypoponera.punctatissima,G,alien,5-Jun-19,5-Jun-19,Longino Ranch,museum,S,H,27.16177,-82.11625,D. Booher,2019
+7672,Strumigenys.eggersi,G,alien,5-Jun-19,5-Jun-19,Longino Ranch,museum,S,H,27.16177,-82.11625,D. Booher,2019
+7672,Strumigenys.rogeri,G,alien,5-Jun-19,5-Jun-19,Longino Ranch,museum,S,H,27.16177,-82.11625,D. Booher,2019
+7673,Hypoponera.punctatissima,G,alien,5-Jun-19,5-Jun-19,Longino Ranch,museum,S,H,27.16177,-82.11625,D. Booher,2019
+7673,Strumigenys.rogeri,G,alien,5-Jun-19,5-Jun-19,Longino Ranch,museum,S,H,27.16177,-82.11625,D. Booher,2019
+7674,Pheidole.dentigula,G,native,5-Jun-19,5-Jun-19,Longino Ranch,museum,S,H,27.16177,-82.11625,D. Booher,2019
+7675,Hypoponera.opacior,G,native,5-Jun-19,5-Jun-19,Longino Ranch,museum,S,H,27.16177,-82.11625,D. Booher,2019
+7675,Solenopsis.diplo,G,NA,5-Jun-19,5-Jun-19,Longino Ranch,museum,S,H,27.16177,-82.11625,D. Booher,2019
+7675,Strumigenys.eggersi,G,alien,5-Jun-19,5-Jun-19,Longino Ranch,museum,S,H,27.16177,-82.11625,D. Booher,2019
+7675,Strumigenys.rogeri,G,alien,5-Jun-19,5-Jun-19,Longino Ranch,museum,S,H,27.16177,-82.11625,D. Booher,2019
+7676,Nylanderia.wojciki,G,native,11-Jun-19,11-Jun-19,Withlacoochie NF,museum,S,FW,28.60819,-82.24149,D. Booher,2019
+7676,Solenopsis.diplo,G,NA,11-Jun-19,11-Jun-19,Withlacoochie NF,museum,S,FW,28.60819,-82.24149,D. Booher,2019
+7676,Strumigenys.emmae,G,alien,11-Jun-19,11-Jun-19,Withlacoochie NF,museum,S,FW,28.60819,-82.24149,D. Booher,2019
+7677,Nylanderia.wojciki,G,native,11-Jun-19,11-Jun-19,Withlacoochie NF,museum,S,FW,28.60819,-82.24149,D. Booher,2019
+7677,Solenopsis.diplo,G,NA,11-Jun-19,11-Jun-19,Withlacoochie NF,museum,S,FW,28.60819,-82.24149,D. Booher,2019
+7677,Strumigenys.eggersi,G,alien,11-Jun-19,11-Jun-19,Withlacoochie NF,museum,S,FW,28.60819,-82.24149,D. Booher,2019
+7678,Pheidole.bilimeki,G,alien,11-Jun-19,11-Jun-19,Withlacoochie NF,museum,S,FW,28.60819,-82.24149,D. Booher,2019
+7678,Solenopsis.diplo,G,NA,11-Jun-19,11-Jun-19,Withlacoochie NF,museum,S,FW,28.60819,-82.24149,D. Booher,2019
+7678,Strumigenys.eggersi,G,alien,11-Jun-19,11-Jun-19,Withlacoochie NF,museum,S,FW,28.60819,-82.24149,D. Booher,2019
+7679,Nylanderia.wojciki,G,native,11-Jun-19,11-Jun-19,Withlacoochie NF,museum,S,FW,28.60819,-82.24149,D. Booher,2019
+7679,Pheidole.metallescens,G,native,11-Jun-19,11-Jun-19,Withlacoochie NF,museum,S,FW,28.60819,-82.24149,D. Booher,2019
+7679,Solenopsis.diplo,G,NA,11-Jun-19,11-Jun-19,Withlacoochie NF,museum,S,FW,28.60819,-82.24149,D. Booher,2019
+7679,Strumigenys.eggersi,G,alien,11-Jun-19,11-Jun-19,Withlacoochie NF,museum,S,FW,28.60819,-82.24149,D. Booher,2019
+7680,Pheidole.metallescens,G,native,11-Jun-19,11-Jun-19,Withlacoochie NF,museum,S,FW,28.60819,-82.24149,D. Booher,2019
+7680,Solenopsis.diplo,G,NA,11-Jun-19,11-Jun-19,Withlacoochie NF,museum,S,FW,28.60819,-82.24149,D. Booher,2019
+7680,Strumigenys.eggersi,G,alien,11-Jun-19,11-Jun-19,Withlacoochie NF,museum,S,FW,28.60819,-82.24149,D. Booher,2019
+7681,Hypoponera.opacior,G,native,11-Jun-19,11-Jun-19,Withlacoochie NF,museum,U,H,28.60917,-82.24319,D. Booher,2019
+7681,Pheidole.dentigula,G,native,11-Jun-19,11-Jun-19,Withlacoochie NF,museum,U,H,28.60917,-82.24319,D. Booher,2019
+7681,Solenopsis.diplo,G,NA,11-Jun-19,11-Jun-19,Withlacoochie NF,museum,U,H,28.60917,-82.24319,D. Booher,2019
+7681,Strumigenys.eggersi,G,alien,11-Jun-19,11-Jun-19,Withlacoochie NF,museum,U,H,28.60917,-82.24319,D. Booher,2019
+7682,Solenopsis.diplo,G,NA,11-Jun-19,11-Jun-19,Withlacoochie NF,museum,U,H,28.60917,-82.24319,D. Booher,2019
+7682,Strumigenys.eggersi,G,alien,11-Jun-19,11-Jun-19,Withlacoochie NF,museum,U,H,28.60917,-82.24319,D. Booher,2019
+7682,Strumigenys.membranifera,G,alien,11-Jun-19,11-Jun-19,Withlacoochie NF,museum,U,H,28.60917,-82.24319,D. Booher,2019
+7683,Brachymyrmex.depilis,G,native,11-Jun-19,11-Jun-19,Withlacoochie NF,museum,U,H,28.60917,-82.24319,D. Booher,2019
+7683,Nylanderia.wojciki,G,native,11-Jun-19,11-Jun-19,Withlacoochie NF,museum,U,H,28.60917,-82.24319,D. Booher,2019
+7683,Solenopsis.diplo,G,NA,11-Jun-19,11-Jun-19,Withlacoochie NF,museum,U,H,28.60917,-82.24319,D. Booher,2019
+7683,Strumigenys.eggersi,G,alien,11-Jun-19,11-Jun-19,Withlacoochie NF,museum,U,H,28.60917,-82.24319,D. Booher,2019
+7684,Nylanderia.wojciki,G,native,11-Jun-19,11-Jun-19,Withlacoochie NF,museum,U,H,28.60917,-82.24319,D. Booher,2019
+7684,Strumigenys.eggersi,G,alien,11-Jun-19,11-Jun-19,Withlacoochie NF,museum,U,H,28.60917,-82.24319,D. Booher,2019
+7685,Hypoponera.opacior,G,native,11-Jun-19,11-Jun-19,Withlacoochie NF,museum,U,H,28.60917,-82.24319,D. Booher,2019
+7685,Nylanderia.wojciki,G,native,11-Jun-19,11-Jun-19,Withlacoochie NF,museum,U,H,28.60917,-82.24319,D. Booher,2019
+7685,Solenopsis.diplo,G,NA,11-Jun-19,11-Jun-19,Withlacoochie NF,museum,U,H,28.60917,-82.24319,D. Booher,2019
+7686,Hypoponera.opacior,G,native,11-Jun-19,11-Jun-19,Withlacoochie NF,museum,U,H,28.63425,-82.26089,D. Booher,2019
+7686,Odontomachus.brunneus,G,native,11-Jun-19,11-Jun-19,Withlacoochie NF,museum,U,H,28.63425,-82.26089,D. Booher,2019
+7686,Pheidole.dentigula,G,native,11-Jun-19,11-Jun-19,Withlacoochie NF,museum,U,H,28.63425,-82.26089,D. Booher,2019
+7686,Pheidole.navigans,G,alien,11-Jun-19,11-Jun-19,Withlacoochie NF,museum,U,H,28.63425,-82.26089,D. Booher,2019
+7686,Solenopsis.diplo,G,NA,11-Jun-19,11-Jun-19,Withlacoochie NF,museum,U,H,28.63425,-82.26089,D. Booher,2019
+7686,Strumigenys.eggersi,G,alien,11-Jun-19,11-Jun-19,Withlacoochie NF,museum,U,H,28.63425,-82.26089,D. Booher,2019
+7687,Pheidole.dentigula,G,native,11-Jun-19,11-Jun-19,Withlacoochie NF,museum,U,H,28.63425,-82.26089,D. Booher,2019
+7687,Pheidole.obscurithorax,G,alien,11-Jun-19,11-Jun-19,Withlacoochie NF,museum,U,H,28.63425,-82.26089,D. Booher,2019
+7688,Solenopsis.diplo,G,NA,11-Jun-19,11-Jun-19,Withlacoochie NF,museum,U,H,28.63425,-82.26089,D. Booher,2019
+7688,Strumigenys.eggersi,G,alien,11-Jun-19,11-Jun-19,Withlacoochie NF,museum,U,H,28.63425,-82.26089,D. Booher,2019
+7689,Pheidole.navigans,G,alien,11-Jun-19,11-Jun-19,Withlacoochie NF,museum,U,H,28.63425,-82.26089,D. Booher,2019
+7689,Strumigenys.eggersi,G,alien,11-Jun-19,11-Jun-19,Withlacoochie NF,museum,U,H,28.63425,-82.26089,D. Booher,2019
+7690,Hypoponera.opacior,G,native,11-Jun-19,11-Jun-19,Withlacoochie NF,museum,U,H,28.63425,-82.26089,D. Booher,2019
+7690,Solenopsis.diplo,G,NA,11-Jun-19,11-Jun-19,Withlacoochie NF,museum,U,H,28.63425,-82.26089,D. Booher,2019
+7690,Strumigenys.eggersi,G,alien,11-Jun-19,11-Jun-19,Withlacoochie NF,museum,U,H,28.63425,-82.26089,D. Booher,2019
+7691,Pheidole.obscurithorax,G,alien,11-Jun-19,11-Jun-19,Withlacoochie NF,museum,U,H,28.63306,-82.26224,D. Booher,2019
+7691,Solenopsis.diplo,G,NA,11-Jun-19,11-Jun-19,Withlacoochie NF,museum,U,H,28.63306,-82.26224,D. Booher,2019
+7692,Nylanderia.parvula,G,native,11-Jun-19,11-Jun-19,Withlacoochie NF,museum,U,H,28.63306,-82.26224,D. Booher,2019
+7692,Strumigenys.eggersi,G,alien,11-Jun-19,11-Jun-19,Withlacoochie NF,museum,U,H,28.63306,-82.26224,D. Booher,2019
+7693,Hypoponera.opacior,G,native,11-Jun-19,11-Jun-19,Withlacoochie NF,museum,U,H,28.63306,-82.26224,D. Booher,2019
+7693,Solenopsis.diplo,G,NA,11-Jun-19,11-Jun-19,Withlacoochie NF,museum,U,H,28.63306,-82.26224,D. Booher,2019
+7694,Nylanderia.parvula,G,native,11-Jun-19,11-Jun-19,Withlacoochie NF,museum,U,H,28.63306,-82.26224,D. Booher,2019
+7694,Solenopsis.diplo,G,NA,11-Jun-19,11-Jun-19,Withlacoochie NF,museum,U,H,28.63306,-82.26224,D. Booher,2019
+7695,Crematogaster.minutissima,G,native,11-Jun-19,11-Jun-19,Withlacoochie NF,museum,U,H,28.63306,-82.26224,D. Booher,2019
+7695,Pheidole.dentata,G,native,11-Jun-19,11-Jun-19,Withlacoochie NF,museum,U,H,28.63306,-82.26224,D. Booher,2019
+7695,Solenopsis.diplo,G,NA,11-Jun-19,11-Jun-19,Withlacoochie NF,museum,U,H,28.63306,-82.26224,D. Booher,2019
+7696,Nylanderia.wojciki,G,native,11-Jun-19,11-Jun-19,Goethe NF,museum,U,FW,29.13148,-82.56618,D. Booher,2019
+7696,Solenopsis.diplo,G,NA,11-Jun-19,11-Jun-19,Goethe NF,museum,U,FW,29.13148,-82.56618,D. Booher,2019
+7697,Pheidole.bilimeki,G,alien,11-Jun-19,11-Jun-19,Goethe NF,museum,U,FW,29.13148,-82.56618,D. Booher,2019
+7697,Solenopsis.diplo,G,NA,11-Jun-19,11-Jun-19,Goethe NF,museum,U,FW,29.13148,-82.56618,D. Booher,2019
+7698,Pheidole.bilimeki,G,alien,11-Jun-19,11-Jun-19,Goethe NF,museum,U,FW,29.13148,-82.56618,D. Booher,2019
+7698,Solenopsis.diplo,G,NA,11-Jun-19,11-Jun-19,Goethe NF,museum,U,FW,29.13148,-82.56618,D. Booher,2019
+7699,Nylanderia.wojciki,G,native,11-Jun-19,11-Jun-19,Goethe NF,museum,U,FW,29.13148,-82.56618,D. Booher,2019
+7699,Solenopsis.diplo,G,NA,11-Jun-19,11-Jun-19,Goethe NF,museum,U,FW,29.13148,-82.56618,D. Booher,2019
+7700,Strumigenys.eggersi,G,alien,11-Jun-19,11-Jun-19,Goethe NF,museum,U,FW,29.13148,-82.56618,D. Booher,2019
+7701,Hypoponera.opacior,G,native,11-Jun-19,11-Jun-19,Goethe NF,museum,U,H,29.12937,-82.55857,D. Booher,2019
+7701,Pheidole.bilimeki,G,alien,11-Jun-19,11-Jun-19,Goethe NF,museum,U,H,29.12937,-82.55857,D. Booher,2019
+7701,Pheidole.navigans,G,alien,11-Jun-19,11-Jun-19,Goethe NF,museum,U,H,29.12937,-82.55857,D. Booher,2019
+7701,Solenopsis.diplo,G,NA,11-Jun-19,11-Jun-19,Goethe NF,museum,U,H,29.12937,-82.55857,D. Booher,2019
+7702,Camponotus.floridanus,G,native,11-Jun-19,11-Jun-19,Goethe NF,museum,U,H,29.12937,-82.55857,D. Booher,2019
+7702,Eurhopalothrix.floridana,G,native,11-Jun-19,11-Jun-19,Goethe NF,museum,U,H,29.12937,-82.55857,D. Booher,2019
+7702,Hypoponera.opacior,G,native,11-Jun-19,11-Jun-19,Goethe NF,museum,U,H,29.12937,-82.55857,D. Booher,2019
+7702,Pheidole.obscurithorax,G,alien,11-Jun-19,11-Jun-19,Goethe NF,museum,U,H,29.12937,-82.55857,D. Booher,2019
+7702,Solenopsis.diplo,G,NA,11-Jun-19,11-Jun-19,Goethe NF,museum,U,H,29.12937,-82.55857,D. Booher,2019
+7703,Hypoponera.opacior,G,native,11-Jun-19,11-Jun-19,Goethe NF,museum,U,H,29.12937,-82.55857,D. Booher,2019
+7703,Pheidole.dentigula,G,native,11-Jun-19,11-Jun-19,Goethe NF,museum,U,H,29.12937,-82.55857,D. Booher,2019
+7703,Pheidole.obscurithorax,G,alien,11-Jun-19,11-Jun-19,Goethe NF,museum,U,H,29.12937,-82.55857,D. Booher,2019
+7704,Solenopsis.diplo,G,NA,11-Jun-19,11-Jun-19,Goethe NF,museum,U,H,29.12937,-82.55857,D. Booher,2019
+7705,Solenopsis.diplo,G,NA,11-Jun-19,11-Jun-19,Goethe NF,museum,U,H,29.12937,-82.55857,D. Booher,2019
+7705,Temnothorax.pergandei,G,native,11-Jun-19,11-Jun-19,Goethe NF,museum,U,H,29.12937,-82.55857,D. Booher,2019
+7706,Nylanderia.wojciki,G,native,11-Jun-19,11-Jun-19,Goethe NF,museum,S,FW,29.13103,-82.554,D. Booher,2019
+7706,Solenopsis.diplo,G,NA,11-Jun-19,11-Jun-19,Goethe NF,museum,S,FW,29.13103,-82.554,D. Booher,2019
+7707,Nylanderia.wojciki,G,native,11-Jun-19,11-Jun-19,Goethe NF,museum,S,FW,29.13103,-82.554,D. Booher,2019
+7707,Solenopsis.diplo,G,NA,11-Jun-19,11-Jun-19,Goethe NF,museum,S,FW,29.13103,-82.554,D. Booher,2019
+7708,Odontomachus.brunneus,G,native,11-Jun-19,11-Jun-19,Goethe NF,museum,S,FW,29.13103,-82.554,D. Booher,2019
+7708,Pheidole.bilimeki,G,alien,11-Jun-19,11-Jun-19,Goethe NF,museum,S,FW,29.13103,-82.554,D. Booher,2019
+7708,Pheidole.dentigula,G,native,11-Jun-19,11-Jun-19,Goethe NF,museum,S,FW,29.13103,-82.554,D. Booher,2019
+7708,Solenopsis.diplo,G,NA,11-Jun-19,11-Jun-19,Goethe NF,museum,S,FW,29.13103,-82.554,D. Booher,2019
+7709,Nylanderia.wojciki,G,native,11-Jun-19,11-Jun-19,Goethe NF,museum,S,FW,29.13103,-82.554,D. Booher,2019
+7709,Pheidole.metallescens,G,native,11-Jun-19,11-Jun-19,Goethe NF,museum,S,FW,29.13103,-82.554,D. Booher,2019
+7709,Solenopsis.diplo,G,NA,11-Jun-19,11-Jun-19,Goethe NF,museum,S,FW,29.13103,-82.554,D. Booher,2019
+7709,Strumigenys.eggersi,G,alien,11-Jun-19,11-Jun-19,Goethe NF,museum,S,FW,29.13103,-82.554,D. Booher,2019
+7710,Pheidole.dentigula,G,native,11-Jun-19,11-Jun-19,Goethe NF,museum,S,FW,29.13103,-82.554,D. Booher,2019
+7710,Pheidole.metallescens,G,native,11-Jun-19,11-Jun-19,Goethe NF,museum,S,FW,29.13103,-82.554,D. Booher,2019
+7710,Solenopsis.diplo,G,NA,11-Jun-19,11-Jun-19,Goethe NF,museum,S,FW,29.13103,-82.554,D. Booher,2019
+7710,Strumigenys.eggersi,G,alien,11-Jun-19,11-Jun-19,Goethe NF,museum,S,FW,29.13103,-82.554,D. Booher,2019
+7711,Hypoponera.opacior,G,native,11-Jun-19,11-Jun-19,Goethe NF,museum,U,S,29.13901,-82.55751,D. Booher,2019
+7711,Pheidole.bilimeki,G,alien,11-Jun-19,11-Jun-19,Goethe NF,museum,U,S,29.13901,-82.55751,D. Booher,2019
+7711,Solenopsis.diplo,G,NA,11-Jun-19,11-Jun-19,Goethe NF,museum,U,S,29.13901,-82.55751,D. Booher,2019
+7712,Hypoponera.opacior,G,native,11-Jun-19,11-Jun-19,Goethe NF,museum,U,S,29.13901,-82.55751,D. Booher,2019
+7712,Nylanderia.wojciki,G,native,11-Jun-19,11-Jun-19,Goethe NF,museum,U,S,29.13901,-82.55751,D. Booher,2019
+7712,Pheidole.dentigula,G,native,11-Jun-19,11-Jun-19,Goethe NF,museum,U,S,29.13901,-82.55751,D. Booher,2019
+7712,Strumigenys.eggersi,G,alien,11-Jun-19,11-Jun-19,Goethe NF,museum,U,S,29.13901,-82.55751,D. Booher,2019
+7713,Hypoponera.opacior,G,native,11-Jun-19,11-Jun-19,Goethe NF,museum,U,S,29.13901,-82.55751,D. Booher,2019
+7713,Pheidole.dentigula,G,native,11-Jun-19,11-Jun-19,Goethe NF,museum,U,S,29.13901,-82.55751,D. Booher,2019
+7713,Solenopsis.diplo,G,NA,11-Jun-19,11-Jun-19,Goethe NF,museum,U,S,29.13901,-82.55751,D. Booher,2019
+7714,Strumigenys.eggersi,G,alien,11-Jun-19,11-Jun-19,Goethe NF,museum,U,S,29.13901,-82.55751,D. Booher,2019
+7715,Hypoponera.opacior,G,native,11-Jun-19,11-Jun-19,Goethe NF,museum,U,S,29.13901,-82.55751,D. Booher,2019
+7715,Pheidole.dentigula,G,native,11-Jun-19,11-Jun-19,Goethe NF,museum,U,S,29.13901,-82.55751,D. Booher,2019
+7715,Strumigenys.eggersi,G,alien,11-Jun-19,11-Jun-19,Goethe NF,museum,U,S,29.13901,-82.55751,D. Booher,2019
+7716,Hypoponera.opaciceps,G,alien,17-Jun-19,17-Jun-19,Wekiva Springs SP,museum,U,H,28.72622,-81.47613,D. Booher,2019
+7716,Strumigenys.rogeri,G,alien,17-Jun-19,17-Jun-19,Wekiva Springs SP,museum,U,H,28.72622,-81.47613,D. Booher,2019
+7717,Hypoponera.opaciceps,G,alien,17-Jun-19,17-Jun-19,Wekiva Springs SP,museum,U,H,28.72622,-81.47613,D. Booher,2019
+7717,Solenopsis.diplo,G,NA,17-Jun-19,17-Jun-19,Wekiva Springs SP,museum,U,H,28.72622,-81.47613,D. Booher,2019
+7717,Strumigenys.rogeri,G,alien,17-Jun-19,17-Jun-19,Wekiva Springs SP,museum,U,H,28.72622,-81.47613,D. Booher,2019
+7718,Cyphomyrmex.rimosus,G,alien,17-Jun-19,17-Jun-19,Wekiva Springs SP,museum,U,H,28.72622,-81.47613,D. Booher,2019
+7718,Solenopsis.diplo,G,NA,17-Jun-19,17-Jun-19,Wekiva Springs SP,museum,U,H,28.72622,-81.47613,D. Booher,2019
+7719,Solenopsis.diplo,G,NA,17-Jun-19,17-Jun-19,Wekiva Springs SP,museum,U,H,28.72622,-81.47613,D. Booher,2019
+7719,Strumigenys.emmae,G,alien,17-Jun-19,17-Jun-19,Wekiva Springs SP,museum,U,H,28.72622,-81.47613,D. Booher,2019
+7720,no ants.no ants,,NA,17-Jun-19,17-Jun-19,Wekiva Springs SP,museum,S,SH,28.725,-81.47708,D. Booher,2019
+7721,Pheidole.dentata,G,native,17-Jun-19,17-Jun-19,Wekiva Springs SP,museum,S,SH,28.725,-81.47708,D. Booher,2019
+7721,Solenopsis.diplo,G,NA,17-Jun-19,17-Jun-19,Wekiva Springs SP,museum,S,SH,28.725,-81.47708,D. Booher,2019
+7722,Solenopsis.diplo,G,NA,17-Jun-19,17-Jun-19,Wekiva Springs SP,museum,S,SH,28.725,-81.47708,D. Booher,2019
+7723,Solenopsis.diplo,G,NA,17-Jun-19,17-Jun-19,Wekiva Springs SP,museum,S,SH,28.725,-81.47708,D. Booher,2019
+7724,Solenopsis.diplo,G,NA,17-Jun-19,17-Jun-19,Wekiva Springs SP,museum,S,SH,28.725,-81.47708,D. Booher,2019
+7725,Brachymyrmex.depilis,G,native,17-Jun-19,17-Jun-19,Wekiva Springs SP,museum,U,SH,28.72415,-81.47432,D. Booher,2019
+7725,Cyphomyrmex.rimosus,G,alien,17-Jun-19,17-Jun-19,Wekiva Springs SP,museum,U,SH,28.72415,-81.47432,D. Booher,2019
+7725,Pheidole.navigans,G,alien,17-Jun-19,17-Jun-19,Wekiva Springs SP,museum,U,SH,28.72415,-81.47432,D. Booher,2019
+7725,Strumigenys.emmae,G,alien,17-Jun-19,17-Jun-19,Wekiva Springs SP,museum,U,SH,28.72415,-81.47432,D. Booher,2019
+7726,Brachymyrmex.depilis,G,native,17-Jun-19,17-Jun-19,Wekiva Springs SP,museum,U,SH,28.72415,-81.47432,D. Booher,2019
+7726,Pheidole.dentigula,G,native,17-Jun-19,17-Jun-19,Wekiva Springs SP,museum,U,SH,28.72415,-81.47432,D. Booher,2019
+7727,Pheidole.morrisii,G,native,17-Jun-19,17-Jun-19,Wekiva Springs SP,museum,U,SH,28.72415,-81.47432,D. Booher,2019
+7728,Brachymyrmex.depilis,G,native,17-Jun-19,17-Jun-19,Wekiva Springs SP,museum,U,SH,28.72415,-81.47432,D. Booher,2019
+7728,Solenopsis.diplo,G,NA,17-Jun-19,17-Jun-19,Wekiva Springs SP,museum,U,SH,28.72415,-81.47432,D. Booher,2019
+7729,Solenopsis.diplo,G,NA,17-Jun-19,17-Jun-19,Wekiva Springs SP,museum,U,SH,28.72415,-81.47432,D. Booher,2019
+7730,Pheidole.bilimeki,G,alien,17-Jun-19,17-Jun-19,Wekiva Springs SP,museum,U,H,28.71017,-81.46226,D. Booher,2019
+7730,Strumigenys.eggersi,G,alien,17-Jun-19,17-Jun-19,Wekiva Springs SP,museum,U,H,28.71017,-81.46226,D. Booher,2019
+7731,Hypoponera.opacior,G,native,17-Jun-19,17-Jun-19,Wekiva Springs SP,museum,U,H,28.71017,-81.46226,D. Booher,2019
+7731,Solenopsis.diplo,G,NA,17-Jun-19,17-Jun-19,Wekiva Springs SP,museum,U,H,28.71017,-81.46226,D. Booher,2019
+7732,Cyphomyrmex.rimosus,G,alien,17-Jun-19,17-Jun-19,Wekiva Springs SP,museum,U,H,28.71017,-81.46226,D. Booher,2019
+7732,Nylanderia.wojciki,G,native,17-Jun-19,17-Jun-19,Wekiva Springs SP,museum,U,H,28.71017,-81.46226,D. Booher,2019
+7732,Solenopsis.diplo,G,NA,17-Jun-19,17-Jun-19,Wekiva Springs SP,museum,U,H,28.71017,-81.46226,D. Booher,2019
+7733,Cyphomyrmex.rimosus,G,alien,17-Jun-19,17-Jun-19,Wekiva Springs SP,museum,U,H,28.71017,-81.46226,D. Booher,2019
+7733,Nylanderia.faisonensis,G,native,17-Jun-19,17-Jun-19,Wekiva Springs SP,museum,U,H,28.71017,-81.46226,D. Booher,2019
+7733,Strumigenys.eggersi,G,alien,17-Jun-19,17-Jun-19,Wekiva Springs SP,museum,U,H,28.71017,-81.46226,D. Booher,2019
+7734,Pheidole.dentigula,G,native,17-Jun-19,17-Jun-19,Wekiva Springs SP,museum,U,H,28.71017,-81.46226,D. Booher,2019
+7734,Strumigenys.eggersi,G,alien,17-Jun-19,17-Jun-19,Wekiva Springs SP,museum,U,H,28.71017,-81.46226,D. Booher,2019
+7735,Hypoponera.opacior,G,native,17-Jun-19,17-Jun-19,Payne's Prairie Preserve SP,museum,U,H,29.5202,-82.29529,D. Booher,2019
+7735,Pheidole.bilimeki,G,alien,17-Jun-19,17-Jun-19,Payne's Prairie Preserve SP,museum,U,H,29.5202,-82.29529,D. Booher,2019
+7735,Strumigenys.eggersi,G,alien,17-Jun-19,17-Jun-19,Payne's Prairie Preserve SP,museum,U,H,29.5202,-82.29529,D. Booher,2019
+7735,Strumigenys.talpa,G,native,17-Jun-19,17-Jun-19,Payne's Prairie Preserve SP,museum,U,H,29.5202,-82.29529,D. Booher,2019
+7736,Solenopsis.diplo,G,NA,17-Jun-19,17-Jun-19,Payne's Prairie Preserve SP,museum,U,H,29.5202,-82.29529,D. Booher,2019
+7737,Nylanderia.faisonensis,G,native,17-Jun-19,17-Jun-19,Payne's Prairie Preserve SP,museum,U,H,29.5202,-82.29529,D. Booher,2019
+7737,Pheidole.dentigula,G,native,17-Jun-19,17-Jun-19,Payne's Prairie Preserve SP,museum,U,H,29.5202,-82.29529,D. Booher,2019
+7738,Nylanderia.faisonensis,G,native,17-Jun-19,17-Jun-19,Payne's Prairie Preserve SP,museum,U,H,29.5202,-82.29529,D. Booher,2019
+7738,Solenopsis.diplo,G,NA,17-Jun-19,17-Jun-19,Payne's Prairie Preserve SP,museum,U,H,29.5202,-82.29529,D. Booher,2019
+7739,Pheidole.flavens,G,alien,17-Jun-19,17-Jun-19,Payne's Prairie Preserve SP,museum,U,H,29.5202,-82.29529,D. Booher,2019
+7739,Solenopsis.diplo,G,NA,17-Jun-19,17-Jun-19,Payne's Prairie Preserve SP,museum,U,H,29.5202,-82.29529,D. Booher,2019
+7740,Pheidole.dentata,G,native,17-Jun-19,17-Jun-19,Payne's Prairie Preserve SP,museum,U,H,29.51986,-82.29585,D. Booher,2019
+7741,Eurhopalothrix.floridana,G,native,17-Jun-19,17-Jun-19,Payne's Prairie Preserve SP,museum,U,H,29.51986,-82.29585,D. Booher,2019
+7741,Nylanderia.faisonensis,G,native,17-Jun-19,17-Jun-19,Payne's Prairie Preserve SP,museum,U,H,29.51986,-82.29585,D. Booher,2019
+7741,Solenopsis.diplo,G,NA,17-Jun-19,17-Jun-19,Payne's Prairie Preserve SP,museum,U,H,29.51986,-82.29585,D. Booher,2019
+7741,Strumigenys.ornata,G,native,17-Jun-19,17-Jun-19,Payne's Prairie Preserve SP,museum,U,H,29.51986,-82.29585,D. Booher,2019
+7742,Solenopsis.diplo,G,NA,17-Jun-19,17-Jun-19,Payne's Prairie Preserve SP,museum,U,H,29.51986,-82.29585,D. Booher,2019
+7743,Pheidole.dentata,G,native,17-Jun-19,17-Jun-19,Payne's Prairie Preserve SP,museum,U,H,29.51986,-82.29585,D. Booher,2019
+7743,Pheidole.dentigula,G,native,17-Jun-19,17-Jun-19,Payne's Prairie Preserve SP,museum,U,H,29.51986,-82.29585,D. Booher,2019
+7743,Solenopsis.diplo,G,NA,17-Jun-19,17-Jun-19,Payne's Prairie Preserve SP,museum,U,H,29.51986,-82.29585,D. Booher,2019
+7744,Brachymyrmex.depilis,G,native,17-Jun-19,17-Jun-19,Payne's Prairie Preserve SP,museum,U,H,29.51986,-82.29585,D. Booher,2019
+7744,Solenopsis.diplo,G,NA,17-Jun-19,17-Jun-19,Payne's Prairie Preserve SP,museum,U,H,29.51986,-82.29585,D. Booher,2019
+7745,Cyphomyrmex.rimosus,G,alien,17-Jun-19,17-Jun-19,Payne's Prairie Preserve SP,museum,U,FW,29.51277,-82.29012,D. Booher,2019
+7746,Nylanderia.faisonensis,G,native,17-Jun-19,17-Jun-19,Payne's Prairie Preserve SP,museum,U,FW,29.51277,-82.29012,D. Booher,2019
+7746,Strumigenys.eggersi,G,alien,17-Jun-19,17-Jun-19,Payne's Prairie Preserve SP,museum,U,FW,29.51277,-82.29012,D. Booher,2019
+7747,no ants.no ants,,NA,17-Jun-19,17-Jun-19,Payne's Prairie Preserve SP,museum,U,FW,29.51277,-82.29012,D. Booher,2019
+7748,Brachymyrmex.depilis,G,native,17-Jun-19,17-Jun-19,Payne's Prairie Preserve SP,museum,U,FW,29.51277,-82.29012,D. Booher,2019
+7749,Pheidole.dentigula,G,native,17-Jun-19,17-Jun-19,Payne's Prairie Preserve SP,museum,U,FW,29.51277,-82.29012,D. Booher,2019
+7749,Solenopsis.diplo,G,NA,17-Jun-19,17-Jun-19,Payne's Prairie Preserve SP,museum,U,FW,29.51277,-82.29012,D. Booher,2019
+7750,Aphaenogaster.fulva,G,native,17-Jun-19,17-Jun-19,Payne's Prairie Preserve SP,museum,S,H,29.61385,-82.2809,D. Booher,2019
+7750,Eurhopalothrix.floridana,G,native,17-Jun-19,17-Jun-19,Payne's Prairie Preserve SP,museum,S,H,29.61385,-82.2809,D. Booher,2019
+7750,Pheidole.dentata,G,native,17-Jun-19,17-Jun-19,Payne's Prairie Preserve SP,museum,S,H,29.61385,-82.2809,D. Booher,2019
+7750,Pheidole.dentigula,G,native,17-Jun-19,17-Jun-19,Payne's Prairie Preserve SP,museum,S,H,29.61385,-82.2809,D. Booher,2019
+7751,no ants.no ants,,NA,17-Jun-19,17-Jun-19,Payne's Prairie Preserve SP,museum,S,H,29.61385,-82.2809,D. Booher,2019
+7752,Hypoponera.opacior,G,native,17-Jun-19,17-Jun-19,Payne's Prairie Preserve SP,museum,S,H,29.61385,-82.2809,D. Booher,2019
+7752,Pheidole.dentigula,G,native,17-Jun-19,17-Jun-19,Payne's Prairie Preserve SP,museum,S,H,29.61385,-82.2809,D. Booher,2019
+7752,Solenopsis.diplo,G,NA,17-Jun-19,17-Jun-19,Payne's Prairie Preserve SP,museum,S,H,29.61385,-82.2809,D. Booher,2019
+7752,Strumigenys.eggersi,G,alien,17-Jun-19,17-Jun-19,Payne's Prairie Preserve SP,museum,S,H,29.61385,-82.2809,D. Booher,2019
+7752,Strumigenys.louisianae,G,native,17-Jun-19,17-Jun-19,Payne's Prairie Preserve SP,museum,S,H,29.61385,-82.2809,D. Booher,2019
+7752,Temnothorax.pergandei,G,native,17-Jun-19,17-Jun-19,Payne's Prairie Preserve SP,museum,S,H,29.61385,-82.2809,D. Booher,2019
+7753,no ants.no ants,,NA,17-Jun-19,17-Jun-19,Payne's Prairie Preserve SP,museum,S,H,29.61385,-82.2809,D. Booher,2019
+7754,Pheidole.bilimeki,G,alien,24-Jun-19,24-Jun-19,Osceola NF,museum,S,FW,30.33088,-82.39348,D. Booher,2019
+7754,Solenopsis.diplo,G,NA,24-Jun-19,24-Jun-19,Osceola NF,museum,S,FW,30.33088,-82.39348,D. Booher,2019
+7755,Hypoponera.opacior,G,native,24-Jun-19,24-Jun-19,Osceola NF,museum,S,FW,30.33088,-82.39348,D. Booher,2019
+7755,Solenopsis.diplo,G,NA,24-Jun-19,24-Jun-19,Osceola NF,museum,S,FW,30.33088,-82.39348,D. Booher,2019
+7756,Hypoponera.opaciceps,G,alien,24-Jun-19,24-Jun-19,Osceola NF,museum,S,FW,30.33088,-82.39348,D. Booher,2019
+7756,Nylanderia.concinna,G,native,24-Jun-19,24-Jun-19,Osceola NF,museum,S,FW,30.33088,-82.39348,D. Booher,2019
+7756,Solenopsis.diplo,G,NA,24-Jun-19,24-Jun-19,Osceola NF,museum,S,FW,30.33088,-82.39348,D. Booher,2019
+7757,Nylanderia.concinna,G,native,24-Jun-19,24-Jun-19,Osceola NF,museum,S,FW,30.33088,-82.39348,D. Booher,2019
+7757,Pheidole.bilimeki,G,alien,24-Jun-19,24-Jun-19,Osceola NF,museum,S,FW,30.33088,-82.39348,D. Booher,2019
+7757,Pheidole.dentata,G,native,24-Jun-19,24-Jun-19,Osceola NF,museum,S,FW,30.33088,-82.39348,D. Booher,2019
+7757,Solenopsis.diplo,G,NA,24-Jun-19,24-Jun-19,Osceola NF,museum,S,FW,30.33088,-82.39348,D. Booher,2019
+7758,Hypoponera.opacior,G,native,24-Jun-19,24-Jun-19,Osceola NF,museum,S,FW,30.33088,-82.39348,D. Booher,2019
+7758,Pheidole.bilimeki,G,alien,24-Jun-19,24-Jun-19,Osceola NF,museum,S,FW,30.33088,-82.39348,D. Booher,2019
+7758,Pheidole.dentata,G,native,24-Jun-19,24-Jun-19,Osceola NF,museum,S,FW,30.33088,-82.39348,D. Booher,2019
+7758,Solenopsis.diplo,G,NA,24-Jun-19,24-Jun-19,Osceola NF,museum,S,FW,30.33088,-82.39348,D. Booher,2019
+7759,Pheidole.bilimeki,G,alien,24-Jun-19,24-Jun-19,Osceola NF,museum,S,FW,30.35345,-82.47245,D. Booher,2019
+7759,Solenopsis.diplo,G,NA,24-Jun-19,24-Jun-19,Osceola NF,museum,S,FW,30.35345,-82.47245,D. Booher,2019
+7760,Pheidole.diversipilosa,G,native,24-Jun-19,24-Jun-19,Osceola NF,museum,S,FW,30.35345,-82.47245,D. Booher,2019
+7761,no ants.no ants,,NA,24-Jun-19,24-Jun-19,Osceola NF,museum,S,FW,30.35345,-82.47245,D. Booher,2019
+7762,Pheidole.diversipilosa,G,native,24-Jun-19,24-Jun-19,Osceola NF,museum,S,FW,30.35345,-82.47245,D. Booher,2019
+7763,Solenopsis.diplo,G,NA,24-Jun-19,24-Jun-19,Osceola NF,museum,S,FW,30.35345,-82.47245,D. Booher,2019
+7764,Hypoponera.opacior,G,native,24-Jun-19,24-Jun-19,Osceola NF,museum,S,H,30.35324,-82.47451,D. Booher,2019
+7764,Pheidole.dentata,G,native,24-Jun-19,24-Jun-19,Osceola NF,museum,S,H,30.35324,-82.47451,D. Booher,2019
+7765,no ants.no ants,,NA,24-Jun-19,24-Jun-19,Osceola NF,museum,S,H,30.35324,-82.47451,D. Booher,2019
+7766,Strumigenys.louisianae,G,native,24-Jun-19,24-Jun-19,Osceola NF,museum,S,H,30.35324,-82.47451,D. Booher,2019
+7767,Solenopsis.diplo,G,NA,24-Jun-19,24-Jun-19,Osceola NF,museum,S,H,30.35324,-82.47451,D. Booher,2019
+7768,Hypoponera.opaciceps,G,alien,24-Jun-19,24-Jun-19,Osceola NF,museum,S,H,30.35324,-82.47451,D. Booher,2019
+7769,Eurhopalothrix.floridana,G,native,25-Jun-19,25-Jun-19,San Felasco SP,museum,U,H,29.7132,-82.46067,D. Booher,2019
+7769,Solenopsis.diplo,G,NA,25-Jun-19,25-Jun-19,San Felasco SP,museum,U,H,29.7132,-82.46067,D. Booher,2019
+7770,Eurhopalothrix.floridana,G,native,25-Jun-19,25-Jun-19,San Felasco SP,museum,U,H,29.7132,-82.46067,D. Booher,2019
+7770,Hypoponera.opacior,G,native,25-Jun-19,25-Jun-19,San Felasco SP,museum,U,H,29.7132,-82.46067,D. Booher,2019
+7770,Solenopsis.diplo,G,NA,25-Jun-19,25-Jun-19,San Felasco SP,museum,U,H,29.7132,-82.46067,D. Booher,2019
+7771,Solenopsis.diplo,G,NA,25-Jun-19,25-Jun-19,San Felasco SP,museum,U,H,29.7132,-82.46067,D. Booher,2019
+7772,Solenopsis.diplo,G,NA,25-Jun-19,25-Jun-19,San Felasco SP,museum,U,H,29.7132,-82.46067,D. Booher,2019
+7773,Pheidole.navigans,G,alien,25-Jun-19,25-Jun-19,San Felasco SP,museum,U,H,29.7132,-82.46067,D. Booher,2019
+7773,Solenopsis.diplo,G,NA,25-Jun-19,25-Jun-19,San Felasco SP,museum,U,H,29.7132,-82.46067,D. Booher,2019
+7774,Solenopsis.diplo,G,NA,25-Jun-19,25-Jun-19,San Felasco SP,museum,U,FW,29.71387,-82.45979,D. Booher,2019
+7775,Pheidole.dentata,G,native,25-Jun-19,25-Jun-19,San Felasco SP,museum,U,FW,29.71387,-82.45979,D. Booher,2019
+7775,Pheidole.dentigula,G,native,25-Jun-19,25-Jun-19,San Felasco SP,museum,U,FW,29.71387,-82.45979,D. Booher,2019
+7775,Solenopsis.diplo,G,NA,25-Jun-19,25-Jun-19,San Felasco SP,museum,U,FW,29.71387,-82.45979,D. Booher,2019
+7776,Pheidole.dentigula,G,native,25-Jun-19,25-Jun-19,San Felasco SP,museum,U,FW,29.71387,-82.45979,D. Booher,2019
+7777,Nylanderia.wojciki,G,native,25-Jun-19,25-Jun-19,San Felasco SP,museum,U,FW,29.71387,-82.45979,D. Booher,2019
+7777,Solenopsis.diplo,G,NA,25-Jun-19,25-Jun-19,San Felasco SP,museum,U,FW,29.71387,-82.45979,D. Booher,2019
+7778,Pheidole.navigans,G,alien,25-Jun-19,25-Jun-19,San Felasco SP,museum,U,FW,29.71387,-82.45979,D. Booher,2019
+7778,Solenopsis.diplo,G,NA,25-Jun-19,25-Jun-19,San Felasco SP,museum,U,FW,29.71387,-82.45979,D. Booher,2019
+7778,Strumigenys.eggersi,G,alien,25-Jun-19,25-Jun-19,San Felasco SP,museum,U,FW,29.71387,-82.45979,D. Booher,2019
+7779,Hypoponera.opacior,G,native,25-Jun-19,25-Jun-19,San Felasco SP,museum,U,FW,29.77187,-82.47026,D. Booher,2019
+7779,Pheidole.dentigula,G,native,25-Jun-19,25-Jun-19,San Felasco SP,museum,U,FW,29.77187,-82.47026,D. Booher,2019
+7779,Solenopsis.diplo,G,NA,25-Jun-19,25-Jun-19,San Felasco SP,museum,U,FW,29.77187,-82.47026,D. Booher,2019
+7780,Hypoponera.opacior,G,native,25-Jun-19,25-Jun-19,San Felasco SP,museum,U,FW,29.77187,-82.47026,D. Booher,2019
+7780,Solenopsis.diplo,G,NA,25-Jun-19,25-Jun-19,San Felasco SP,museum,U,FW,29.77187,-82.47026,D. Booher,2019
+7781,Hypoponera.opacior,G,native,25-Jun-19,25-Jun-19,San Felasco SP,museum,U,FW,29.77187,-82.47026,D. Booher,2019
+7781,Pheidole.dentigula,G,native,25-Jun-19,25-Jun-19,San Felasco SP,museum,U,FW,29.77187,-82.47026,D. Booher,2019
+7782,Hypoponera.opacior,G,native,25-Jun-19,25-Jun-19,San Felasco SP,museum,U,FW,29.77187,-82.47026,D. Booher,2019
+7782,Pheidole.navigans,G,alien,25-Jun-19,25-Jun-19,San Felasco SP,museum,U,FW,29.77187,-82.47026,D. Booher,2019
+7783,Pheidole.dentata,G,native,25-Jun-19,25-Jun-19,San Felasco SP,museum,U,FW,29.77187,-82.47026,D. Booher,2019
+7783,Pheidole.dentigula,G,native,25-Jun-19,25-Jun-19,San Felasco SP,museum,U,FW,29.77187,-82.47026,D. Booher,2019
+7783,Solenopsis.diplo,G,NA,25-Jun-19,25-Jun-19,San Felasco SP,museum,U,FW,29.77187,-82.47026,D. Booher,2019
+7783,Strumigenys.eggersi,G,alien,25-Jun-19,25-Jun-19,San Felasco SP,museum,U,FW,29.77187,-82.47026,D. Booher,2019
+7784,Solenopsis.diplo,G,NA,25-Jun-19,25-Jun-19,San Felasco SP,museum,S,H,29.70595,-82.39371,D. Booher,2019
+7785,Pheidole.dentigula,G,native,25-Jun-19,25-Jun-19,San Felasco SP,museum,S,H,29.70595,-82.39371,D. Booher,2019
+7785,Solenopsis.diplo,G,NA,25-Jun-19,25-Jun-19,San Felasco SP,museum,S,H,29.70595,-82.39371,D. Booher,2019
+7785,Strumigenys.talpa,G,native,25-Jun-19,25-Jun-19,San Felasco SP,museum,S,H,29.70595,-82.39371,D. Booher,2019
+7786,Solenopsis.diplo,G,NA,25-Jun-19,25-Jun-19,San Felasco SP,museum,S,H,29.70595,-82.39371,D. Booher,2019
+7787,Solenopsis.diplo,G,NA,25-Jun-19,25-Jun-19,San Felasco SP,museum,S,H,29.70595,-82.39371,D. Booher,2019
+7787,Strumigenys.eggersi,G,alien,25-Jun-19,25-Jun-19,San Felasco SP,museum,S,H,29.70595,-82.39371,D. Booher,2019
+7787,Strumigenys.talpa,G,native,25-Jun-19,25-Jun-19,San Felasco SP,museum,S,H,29.70595,-82.39371,D. Booher,2019
+7788,Solenopsis.diplo,G,NA,25-Jun-19,25-Jun-19,San Felasco SP,museum,S,H,29.70595,-82.39371,D. Booher,2019

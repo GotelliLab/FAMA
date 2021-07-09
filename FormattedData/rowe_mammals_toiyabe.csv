@@ -1,0 +1,32 @@
+# historical mammal data records from Rebecca Rowe
+# Toiyabe Mountain Range
+Species,Sp_Code,Captured,Processed
+Sorex palustris,Sore_palu,8,8
+Sorex vagrans,Sore_vagr,8,8
+Ammospermophilus leucurus,Ammo_leuc,3,3
+Spermophilus beldingi,Sper_beld,1,0
+Spermophilus lateralis,Sper_late,10,10
+Tamias dorsalis,Tami_dors,7,7
+Tamias minimus,Tami_mini,54,44
+Tamias umbrinus,Tami_umbr,13,9
+Perognathus longimembris,Pero_long,32,20
+Perognathus parvus,Pero_parv,64,50
+Dipodomys deserti,Dipo_dese,1,1
+Dipodomys merriami,Dipo_merr,8,6
+Dipodomys microps,Dipo_micr,78,60
+Dipodomys ordii,Dipo_ordi,29,27
+Microdipodops megacephalus,Micr_mega,115,89
+Microdipodops pallidus,Micr_pall,30,23
+Reithrodontomys megalotis,Reit_mega,19,16
+Onychomys leucogaster,Onyc_leuc,7,6
+Onychomoys torridus,Onyc_torr,5,5
+Peromyscus crinitus,Pero_crin,42,20
+Peromyscus maniculatus,Pero_mani,664,50
+Neotoma cinerea,Neot_cine,7,6
+Neotoma lepida,Neot_lepi,36,32
+Microtus longicaudus,Micr_long,69,35
+Microtus montanus,Micr_mont,37,24
+Lemmiscus curtatus,Lemm_curt,3,3
+Zapus princeps,Zapu_princ,14,14
+Thomomys bottae,Thom_bott,12,12
+Thomomys talpoides,Thom_talp,7,5

@@ -1,0 +1,28 @@
+# historical mammal data records from Rebecca Rowe
+# Ruby Mountains
+Species,Sp_Code,Captured,Processed
+Sorex vagrans,Sore_vagr,29,24
+Sorex monticolus,Sore_mont,12,8
+Sorex palustris,Sore_palu,35,30
+Spermophilus beldingi,Sper_beld,8,5
+Spermophilus lateralis,Sper_late,14,10
+Spermophilus mollis,Sper_moll,5,4
+Tamias minimus,Tami_mini,73,22
+Tamias umbrinus,Tami_umbr,52,19
+Perognathus parvus,Pero_parv,193,80
+Perognathus longimembris,Pero_long,50,29
+Dipodomys ordii,Dipo_ordi,122,34
+Microdipodops megacephalus,Micr_meg,1,1
+Reithrodontomys megalotis ,Reit_mega,10,10
+Onychomys leucogaster,Onyc_leuc,46,19
+Peromyscus crinitus,Pero_crin,7,7
+Peromyscus maniculatus,Pero_mani,820,99
+Peromyscus truei,Pero_true,7,7
+Neotoma cinerea,Neot_cine,40,24
+Microtus montanus,Micr_mont,79,43
+Microtus longicaudus,Micr_long,252,79
+Lemmiscus curtatus,Lemm_curt,45,31
+Zapus princeps,Zapu_princ,145,79
+Ochotona princeps ,Ocho_prin,4,4
+Thomomys talpoides ,Thom_talp,65,60
+Thomomys townsendii,Thom_town,17,17
